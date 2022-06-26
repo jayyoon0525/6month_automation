@@ -1,0 +1,6 @@
+name : ¹ÚÀ±Àº
+age : 62
+e-mail : w3r3ufg2@bhban.com
+division : 33m
+telephone : 010-8862-0888
+sex : female

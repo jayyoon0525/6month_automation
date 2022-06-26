@@ -1,0 +1,6 @@
+name : ±è¿¹¾Æ
+age : 26
+e-mail : ytnk3dev@bhban.com
+division : 5a8
+telephone : 010-9926-6899
+sex : female

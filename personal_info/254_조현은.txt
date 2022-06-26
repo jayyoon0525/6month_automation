@@ -1,0 +1,6 @@
+name : Á¶ÇöÀº
+age : 06
+e-mail : ozzn2gb3@bhban.com
+division : h2r
+telephone : 010-4006-0640
+sex : female

@@ -1,0 +1,6 @@
+name : À±Ã¤¼­
+age : 12
+e-mail : szayo02s@bhban.com
+division : 0fh
+telephone : 010-0512-4705
+sex : male

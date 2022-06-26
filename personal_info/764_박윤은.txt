@@ -1,0 +1,6 @@
+name : ¹ÚÀ±Àº
+age : 24
+e-mail : bk4mfhs3@bhban.com
+division : dys
+telephone : 010-2324-5323
+sex : female

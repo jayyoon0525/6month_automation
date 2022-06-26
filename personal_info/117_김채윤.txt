@@ -1,0 +1,6 @@
+name : ±Ë√§¿±
+age : 27
+e-mail : boszpozk@bhban.com
+division : bi4
+telephone : 010-2027-9020
+sex : female

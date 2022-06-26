@@ -1,0 +1,6 @@
+name : Á¶¿¹Àº
+age : 24
+e-mail : a0ggwh30@bhban.com
+division : luo
+telephone : 010-0324-2803
+sex : male

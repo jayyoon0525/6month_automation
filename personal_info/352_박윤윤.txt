@@ -1,0 +1,6 @@
+name : ¹ÚÀ±À±
+age : 12
+e-mail : xp6rvqg2@bhban.com
+division : mp8
+telephone : 010-8512-2185
+sex : male

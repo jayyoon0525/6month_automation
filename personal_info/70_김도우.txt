@@ -1,0 +1,6 @@
+name : ±èµµ¿ì
+age : 27
+e-mail : 323vzv5g@bhban.com
+division : crn
+telephone : 010-2727-6427
+sex : female

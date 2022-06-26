@@ -1,0 +1,6 @@
+name : СЄСіСи
+age : 97
+e-mail : col6fmkn@bhban.com
+division : m9q
+telephone : 010-2597-6925
+sex : male

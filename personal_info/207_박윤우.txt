@@ -1,0 +1,6 @@
+name : ¹ÚÀ±¿ì
+age : 23
+e-mail : hs9mc50c@bhban.com
+division : zsd
+telephone : 010-0723-3907
+sex : male

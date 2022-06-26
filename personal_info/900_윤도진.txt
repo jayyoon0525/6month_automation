@@ -1,0 +1,6 @@
+name : À±µµÁø
+age : 24
+e-mail : ivz08fvi@bhban.com
+division : c18
+telephone : 010-0324-2803
+sex : female

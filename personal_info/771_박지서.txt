@@ -1,0 +1,6 @@
+name : ¹ÚÁö¼­
+age : 18
+e-mail : lw698rrz@bhban.com
+division : 1qb
+telephone : 010-2218-5722
+sex : male

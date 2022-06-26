@@ -1,0 +1,6 @@
+name : ÀåÇÏ¿ø
+age : 12
+e-mail : 0boaxsmx@bhban.com
+division : z6l
+telephone : 010-2512-4625
+sex : male

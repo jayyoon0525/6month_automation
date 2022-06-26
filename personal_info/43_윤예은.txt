@@ -1,0 +1,6 @@
+name : À±¿¹Àº
+age : 12
+e-mail : 5g6mxlll@bhban.com
+division : pny
+telephone : 010-9312-9493
+sex : female

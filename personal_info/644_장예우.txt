@@ -1,0 +1,6 @@
+name : Àå¿¹¿ì
+age : 15
+e-mail : yzlzos2b@bhban.com
+division : pin
+telephone : 010-4115-8641
+sex : female

@@ -1,0 +1,6 @@
+name : ¹ÚÁö¼­
+age : 19
+e-mail : buz1ms3l@bhban.com
+division : ift
+telephone : 010-3419-2834
+sex : male

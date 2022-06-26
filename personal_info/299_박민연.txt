@@ -1,0 +1,6 @@
+name : ¹Ú¹Î¿¬
+age : 42
+e-mail : 7grwydue@bhban.com
+division : 3r0
+telephone : 010-7942-0879
+sex : female

@@ -1,0 +1,6 @@
+name : ¹Ú¿¹ÁØ
+age : 22
+e-mail : 8shznkgo@bhban.com
+division : 44p
+telephone : 010-1522-0915
+sex : female

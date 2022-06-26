@@ -1,0 +1,6 @@
+name : ภฬม๖มุ
+age : 75
+e-mail : 1ixly9sl@bhban.com
+division : 7ys
+telephone : 010-2475-2624
+sex : male

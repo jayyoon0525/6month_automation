@@ -1,0 +1,6 @@
+name : À±¹ÎÈÄ
+age : 18
+e-mail : le8geebg@bhban.com
+division : vck
+telephone : 010-9018-7690
+sex : male

@@ -1,0 +1,6 @@
+name : ÀÌ¿¹Àº
+age : 34
+e-mail : abzn04fq@bhban.com
+division : 1al
+telephone : 010-2834-3428
+sex : female

@@ -1,0 +1,6 @@
+name : Á¶ÇöÁØ
+age : 04
+e-mail : cstx7274@bhban.com
+division : i5x
+telephone : 010-8404-2584
+sex : female

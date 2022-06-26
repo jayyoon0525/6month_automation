@@ -1,0 +1,6 @@
+name : ¹ÚÀ±Àº
+age : 97
+e-mail : ue9rnu6z@bhban.com
+division : gic
+telephone : 010-3897-9438
+sex : female

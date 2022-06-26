@@ -1,0 +1,6 @@
+name : ÃÖÇö¿ì
+age : 25
+e-mail : lli3c83k@bhban.com
+division : t43
+telephone : 010-7125-7371
+sex : female

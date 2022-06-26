@@ -1,0 +1,6 @@
+name : À±Çö¿ì
+age : 79
+e-mail : 6427qs02@bhban.com
+division : 4s5
+telephone : 010-8379-2983
+sex : male

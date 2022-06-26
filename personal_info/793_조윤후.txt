@@ -1,0 +1,6 @@
+name : Á¶À±ÈÄ
+age : 19
+e-mail : yg19tqas@bhban.com
+division : 82h
+telephone : 010-6919-.369
+sex : female

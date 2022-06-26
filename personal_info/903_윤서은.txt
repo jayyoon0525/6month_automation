@@ -1,0 +1,6 @@
+name : À±¼­Àº
+age : 02
+e-mail : 2wo518yp@bhban.com
+division : b9e
+telephone : 010-0302-2903
+sex : female

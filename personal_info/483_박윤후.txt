@@ -1,0 +1,6 @@
+name : ¹ÚÀ±ÈÄ
+age : 54
+e-mail : 4np7z421@bhban.com
+division : g07
+telephone : 010-5654-1956
+sex : male

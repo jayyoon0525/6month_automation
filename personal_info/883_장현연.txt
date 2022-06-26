@@ -1,0 +1,6 @@
+name : ÀåÇö¿¬
+age : 96
+e-mail : 05r3idep@bhban.com
+division : 1cr
+telephone : 010-0596-1805
+sex : male

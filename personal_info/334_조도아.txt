@@ -1,0 +1,6 @@
+name : Á¶µµ¾Æ
+age : 78
+e-mail : 3dw0igek@bhban.com
+division : bwy
+telephone : 010-1878-1118
+sex : male

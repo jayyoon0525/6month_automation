@@ -1,0 +1,6 @@
+name : Á¶µµÀ±
+age : 06
+e-mail : mf0v0kik@bhban.com
+division : nvc
+telephone : 010-9606-5496
+sex : male

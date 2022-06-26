@@ -1,0 +1,6 @@
+name : °­¿¹¿¬
+age : 42
+e-mail : hukyib91@bhban.com
+division : mwt
+telephone : 010-7942-0879
+sex : female

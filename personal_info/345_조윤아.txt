@@ -1,0 +1,6 @@
+name : Á¶À±¾Æ
+age : 17
+e-mail : rlqby4a1@bhban.com
+division : fi0
+telephone : 010-8617-1786
+sex : female

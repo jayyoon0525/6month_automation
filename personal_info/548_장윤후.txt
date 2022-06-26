@@ -1,0 +1,6 @@
+name : ¿Â¿±»ƒ
+age : 25
+e-mail : qum1nt2e@bhban.com
+division : 02z
+telephone : 010-5525-3355
+sex : female

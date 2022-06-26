@@ -1,0 +1,6 @@
+name : ÀÌ¼­Áø
+age : 26
+e-mail : g4qih31a@bhban.com
+division : whq
+telephone : 010-3926-0939
+sex : male

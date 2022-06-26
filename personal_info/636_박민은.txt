@@ -1,0 +1,6 @@
+name : ¹Ú¹ÎÀº
+age : 43
+e-mail : s18h67qe@bhban.com
+division : bhb
+telephone : 010-4243-8142
+sex : female

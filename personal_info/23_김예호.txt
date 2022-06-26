@@ -1,0 +1,6 @@
+name : �迹ȣ
+age : 87
+e-mail : m582518r@bhban.com
+division : 7mn
+telephone : 010-3387-3933
+sex : male

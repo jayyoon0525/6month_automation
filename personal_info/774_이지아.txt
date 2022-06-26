@@ -1,0 +1,6 @@
+name : ÀÌÁö¾Æ
+age : 19
+e-mail : h1tdsstx@bhban.com
+division : tkt
+telephone : 010-8219-3582
+sex : male

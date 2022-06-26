@@ -1,0 +1,6 @@
+name : ÀÓ¼­ÈÄ
+age : 34
+e-mail : mqkxtlpa@bhban.com
+division : 65b
+telephone : 010-6434-9964
+sex : male

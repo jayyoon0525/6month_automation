@@ -1,0 +1,6 @@
+name : ±èÁö¾Æ
+age : 31
+e-mail : mm1goeeh@bhban.com
+division : pby
+telephone : 010-4431-7444
+sex : male

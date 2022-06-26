@@ -1,0 +1,6 @@
+name : ÀÌµµÈÄ
+age : 16
+e-mail : hq6zvu1p@bhban.com
+division : b3i
+telephone : 010-1816-9818
+sex : male

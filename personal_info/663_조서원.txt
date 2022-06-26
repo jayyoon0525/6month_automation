@@ -1,0 +1,6 @@
+name : Á¶¼­¿ø
+age : 19
+e-mail : 13r27mfw@bhban.com
+division : w7w
+telephone : 010-3819-9738
+sex : female

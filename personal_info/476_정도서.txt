@@ -1,0 +1,6 @@
+name : Á¤µµ¼­
+age : 45
+e-mail : 7ti6pqrq@bhban.com
+division : b94
+telephone : 010-6645-9166
+sex : male

@@ -1,0 +1,6 @@
+name : À±¹ÎÈÄ
+age : 14
+e-mail : 75z1mfzq@bhban.com
+division : 7hu
+telephone : 010-1414-.014
+sex : male

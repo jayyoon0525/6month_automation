@@ -1,0 +1,6 @@
+name : ¹ÚÇöÈ£
+age : 23
+e-mail : ye5zn4di@bhban.com
+division : nps
+telephone : 010-0323-5403
+sex : male

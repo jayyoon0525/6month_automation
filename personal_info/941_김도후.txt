@@ -1,0 +1,6 @@
+name : ±èµµÈÄ
+age : 38
+e-mail : frzubaik@bhban.com
+division : ws6
+telephone : 010-9738-4997
+sex : female

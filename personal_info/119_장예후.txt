@@ -1,0 +1,6 @@
+name : Àå¿¹ÈÄ
+age : 04
+e-mail : epo06hls@bhban.com
+division : 92r
+telephone : 010-2004-9120
+sex : female

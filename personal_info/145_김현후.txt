@@ -1,0 +1,6 @@
+name : ±èÇöÈÄ
+age : 05
+e-mail : fspzibo8@bhban.com
+division : wa4
+telephone : 010-1605-0616
+sex : male

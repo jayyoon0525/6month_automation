@@ -1,0 +1,6 @@
+name : ÀÌÇöÀ±
+age : 25
+e-mail : d5q2brv0@bhban.com
+division : aw1
+telephone : 010-3525-0835
+sex : male

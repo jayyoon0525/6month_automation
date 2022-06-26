@@ -1,0 +1,6 @@
+name : юсажаь
+age : 88
+e-mail : ry16er5d@bhban.com
+division : h3r
+telephone : 010-1988-6619
+sex : female

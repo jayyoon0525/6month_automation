@@ -1,0 +1,6 @@
+name : À±Ã¤¼­
+age : 63
+e-mail : y5tm2155@bhban.com
+division : lip
+telephone : 010-5163-0051
+sex : male

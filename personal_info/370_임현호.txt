@@ -1,0 +1,6 @@
+name : ÀÓÇöÈ£
+age : 22
+e-mail : 5lgast9p@bhban.com
+division : 1x7
+telephone : 010-2822-1328
+sex : female

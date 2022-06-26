@@ -1,0 +1,6 @@
+name : ±Ë¿±¡ÿ
+age : 03
+e-mail : b0cwzhaf@bhban.com
+division : rtl
+telephone : 010-2003-6520
+sex : male

@@ -1,0 +1,6 @@
+name : юлгохё
+age : 43
+e-mail : glbcse42@bhban.com
+division : wd2
+telephone : 010-7843-4678
+sex : male

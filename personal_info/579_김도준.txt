@@ -1,0 +1,6 @@
+name : ±Ëµµ¡ÿ
+age : 07
+e-mail : ib15d434@bhban.com
+division : edy
+telephone : 010-0507-2505
+sex : male
