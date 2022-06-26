@@ -1,0 +1,6 @@
+name : 최민호
+age : 28
+email : 5oy6a95o@random.com
+division : t95
+telephone : 010-8-6884
+sex : mail

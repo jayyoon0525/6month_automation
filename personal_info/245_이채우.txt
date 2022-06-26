@@ -1,0 +1,6 @@
+name : 이채우
+age : 94
+email : 1b41rgch@random.com
+division : aoh
+telephone : 010-9-2894
+sex : mail

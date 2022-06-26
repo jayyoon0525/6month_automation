@@ -1,0 +1,6 @@
+name : 윤지연
+age : 08
+email : cwkpxqik@random.com
+division : vyy
+telephone : 010-9-9497
+sex : femail

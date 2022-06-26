@@ -1,0 +1,6 @@
+name : 김예준
+age : 43
+email : ys5azvf3@random.com
+division : lq8
+telephone : 010-1-5215
+sex : femail

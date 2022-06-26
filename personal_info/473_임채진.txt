@@ -1,0 +1,6 @@
+name : 임채진
+age : 15
+email : y2835clr@random.com
+division : 0u0
+telephone : 010-6-5162
+sex : femail

@@ -1,0 +1,6 @@
+name : 정윤우
+age : 46
+email : lst3rqfv@random.com
+division : uzz
+telephone : 010-0-8606
+sex : femail

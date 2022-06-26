@@ -1,0 +1,6 @@
+name : 강민우
+age : 92
+email : 51uk7xkj@random.com
+division : 0m5
+telephone : 010-1-3213
+sex : mail

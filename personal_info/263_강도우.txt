@@ -1,0 +1,6 @@
+name : 강도우
+age : 78
+email : 64kxz1p3@random.com
+division : 6o5
+telephone : 010-9-3692
+sex : mail

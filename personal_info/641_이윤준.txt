@@ -1,0 +1,6 @@
+name : 이윤준
+age : 05
+email : kf6ba7ju@random.com
+division : 0fx
+telephone : 010-3-4537
+sex : mail

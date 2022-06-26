@@ -1,0 +1,6 @@
+name : 최지윤
+age : 33
+email : 1we8cfsi@random.com
+division : 3h3
+telephone : 010-6-5860
+sex : mail

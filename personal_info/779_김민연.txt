@@ -1,0 +1,6 @@
+name : 김민연
+age : 16
+email : wnaqagih@random.com
+division : gmb
+telephone : 010-2-.924
+sex : femail

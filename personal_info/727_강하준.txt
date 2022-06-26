@@ -1,0 +1,6 @@
+name : 강하준
+age : 52
+email : k41cy0jj@random.com
+division : noz
+telephone : 010-2-9623
+sex : mail

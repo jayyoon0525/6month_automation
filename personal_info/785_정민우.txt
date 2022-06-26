@@ -1,0 +1,6 @@
+name : 정민우
+age : 46
+email : 47rnjazw@random.com
+division : 4rb
+telephone : 010-1-2615
+sex : femail

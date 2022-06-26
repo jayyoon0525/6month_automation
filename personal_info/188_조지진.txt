@@ -1,0 +1,6 @@
+name : 조지진
+age : 93
+email : 03jrnu2m@random.com
+division : 5jh
+telephone : 010-0-9902
+sex : mail

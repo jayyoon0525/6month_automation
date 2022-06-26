@@ -1,0 +1,6 @@
+name : 정예진
+age : 08
+email : tdem0kq0@random.com
+division : cpc
+telephone : 010-5-7057
+sex : femail

@@ -1,0 +1,6 @@
+name : 조채아
+age : 05
+email : kfoqs9vq@random.com
+division : 61r
+telephone : 010-1-2017
+sex : mail

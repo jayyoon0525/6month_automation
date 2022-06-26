@@ -1,0 +1,6 @@
+name : 정현호
+age : 25
+email : 005yt3u2@random.com
+division : n1r
+telephone : 010-6-2868
+sex : mail

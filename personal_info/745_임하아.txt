@@ -1,0 +1,6 @@
+name : 임하아
+age : 97
+email : j9yug8rf@random.com
+division : th3
+telephone : 010-2-0620
+sex : mail

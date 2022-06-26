@@ -1,0 +1,6 @@
+name : 장지아
+age : 03
+email : 48xpegx2@random.com
+division : 0vw
+telephone : 010-0-7303
+sex : femail

@@ -1,0 +1,6 @@
+name : 강민아
+age : 78
+email : 3e7yiyyw@random.com
+division : ofy
+telephone : 010-3-6631
+sex : femail

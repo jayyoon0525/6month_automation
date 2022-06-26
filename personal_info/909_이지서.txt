@@ -1,0 +1,6 @@
+name : 이지서
+age : 18
+email : z46w9vfm@random.com
+division : ywd
+telephone : 010-9-9098
+sex : mail

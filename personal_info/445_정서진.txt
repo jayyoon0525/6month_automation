@@ -1,0 +1,6 @@
+name : 정서진
+age : 12
+email : n48xr49e@random.com
+division : itm
+telephone : 010-6-3666
+sex : femail

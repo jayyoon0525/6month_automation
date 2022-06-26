@@ -1,0 +1,6 @@
+name : 정현서
+age : 84
+email : jkw2i886@random.com
+division : kev
+telephone : 010-9-3293
+sex : mail

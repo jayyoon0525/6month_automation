@@ -1,0 +1,6 @@
+name : 강예윤
+age : 48
+email : 18orvseb@random.com
+division : piu
+telephone : 010-5-5551
+sex : mail

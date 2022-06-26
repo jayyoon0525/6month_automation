@@ -1,0 +1,6 @@
+name : 박채우
+age : 73
+email : wso7606c@random.com
+division : 9p7
+telephone : 010-8-5986
+sex : femail

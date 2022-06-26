@@ -1,0 +1,6 @@
+name : 조하진
+age : 32
+email : 95ul0znx@random.com
+division : 69j
+telephone : 010-1-4517
+sex : mail

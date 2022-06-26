@@ -1,0 +1,6 @@
+name : 이윤아
+age : 12
+email : gihl35cv@random.com
+division : vm3
+telephone : 010-2-0521
+sex : mail

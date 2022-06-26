@@ -1,0 +1,6 @@
+name : 윤서준
+age : 94
+email : teee9fio@random.com
+division : 662
+telephone : 010-1-1318
+sex : mail

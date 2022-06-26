@@ -1,0 +1,6 @@
+name : 장채후
+age : 04
+email : tth4o21m@random.com
+division : bwb
+telephone : 010-2-0920
+sex : mail

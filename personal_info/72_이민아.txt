@@ -1,0 +1,6 @@
+name : 이민아
+age : 38
+email : 9v1k0hvl@random.com
+division : xt2
+telephone : 010-2-3021
+sex : femail

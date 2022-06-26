@@ -1,0 +1,6 @@
+name : 김도호
+age : 18
+email : 56zs1y86@random.com
+division : wh5
+telephone : 010-0-5707
+sex : mail

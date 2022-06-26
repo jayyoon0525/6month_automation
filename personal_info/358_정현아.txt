@@ -1,0 +1,6 @@
+name : 정현아
+age : 82
+email : lt45s4bb@random.com
+division : 70i
+telephone : 010-1-6917
+sex : mail

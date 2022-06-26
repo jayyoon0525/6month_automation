@@ -1,0 +1,6 @@
+name : 박지연
+age : 15
+email : ltplton2@random.com
+division : cfs
+telephone : 010-9-1698
+sex : mail

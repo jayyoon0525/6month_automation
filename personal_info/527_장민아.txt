@@ -1,0 +1,6 @@
+name : 장민아
+age : 45
+email : 6xn63fw8@random.com
+division : 36w
+telephone : 010-0-7805
+sex : mail

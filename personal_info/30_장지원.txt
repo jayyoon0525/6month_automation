@@ -1,0 +1,6 @@
+name : 장지원
+age : 05
+email : t33kl5e9@random.com
+division : d97
+telephone : 010-2-0528
+sex : mail

@@ -1,0 +1,6 @@
+name : 윤주원
+age : 23
+email : llqsr2ke@random.com
+division : 2t0
+telephone : 010-2-1226
+sex : femail

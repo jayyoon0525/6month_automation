@@ -1,0 +1,6 @@
+name : 이현서
+age : 44
+email : 0ded2sff@random.com
+division : q8z
+telephone : 010-0-6006
+sex : mail

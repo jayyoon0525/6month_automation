@@ -1,0 +1,6 @@
+name : 이지후
+age : 02
+email : 7hkx9ed1@random.com
+division : o4d
+telephone : 010-7-4973
+sex : mail

@@ -1,0 +1,6 @@
+name : 정주은
+age : 17
+email : 518wuz0w@random.com
+division : xdd
+telephone : 010-9-4291
+sex : femail

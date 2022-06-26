@@ -1,0 +1,6 @@
+name : 최지진
+age : 46
+email : 4wotvm2q@random.com
+division : h6p
+telephone : 010-0-8207
+sex : mail

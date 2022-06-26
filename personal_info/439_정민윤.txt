@@ -1,0 +1,6 @@
+name : 정민윤
+age : 69
+email : efzwjq56@random.com
+division : vrt
+telephone : 010-3-7336
+sex : mail

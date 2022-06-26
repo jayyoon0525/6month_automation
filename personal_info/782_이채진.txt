@@ -1,0 +1,6 @@
+name : 이채진
+age : 73
+email : 3pcu8r1i@random.com
+division : 6ed
+telephone : 010-1-2515
+sex : femail

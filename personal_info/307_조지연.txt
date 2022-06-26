@@ -1,0 +1,6 @@
+name : 조지연
+age : 44
+email : m7uvd56h@random.com
+division : yc7
+telephone : 010-8-6086
+sex : mail

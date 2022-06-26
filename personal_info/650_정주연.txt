@@ -1,0 +1,6 @@
+name : 정주연
+age : 36
+email : 7k7uy81w@random.com
+division : rr8
+telephone : 010-4-.849
+sex : mail

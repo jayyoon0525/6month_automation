@@ -1,0 +1,6 @@
+name : 이현호
+age : 48
+email : 9hsq2c4d@random.com
+division : b97
+telephone : 010-1-1119
+sex : mail

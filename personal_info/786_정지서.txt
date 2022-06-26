@@ -1,0 +1,6 @@
+name : 정지서
+age : 22
+email : uwkw2ssd@random.com
+division : zuu
+telephone : 010-1-2715
+sex : mail

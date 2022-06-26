@@ -1,0 +1,6 @@
+name : 이지아
+age : 32
+email : y4or1n8x@random.com
+division : c8j
+telephone : 010-7-7476
+sex : femail

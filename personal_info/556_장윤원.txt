@@ -1,0 +1,6 @@
+name : 장윤원
+age : 19
+email : afhv4j20@random.com
+division : rdi
+telephone : 010-5-9650
+sex : femail

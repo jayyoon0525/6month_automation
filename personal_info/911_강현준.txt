@@ -1,0 +1,6 @@
+name : 강현준
+age : 91
+email : siwviic7@random.com
+division : h42
+telephone : 010-9-9197
+sex : femail

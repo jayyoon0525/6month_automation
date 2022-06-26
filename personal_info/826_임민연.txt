@@ -1,0 +1,6 @@
+name : 임민연
+age : 87
+email : pd21qxpq@random.com
+division : o2t
+telephone : 010-0-4709
+sex : mail

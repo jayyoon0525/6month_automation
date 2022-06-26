@@ -1,0 +1,6 @@
+name : 강윤윤
+age : 28
+email : ej1nqo3l@random.com
+division : bvy
+telephone : 010-4-0348
+sex : mail

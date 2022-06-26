@@ -1,0 +1,6 @@
+name : 박서우
+age : 82
+email : we7ujk1c@random.com
+division : 39a
+telephone : 010-3-3539
+sex : femail

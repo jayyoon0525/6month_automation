@@ -1,0 +1,6 @@
+name : 윤윤아
+age : 24
+email : gt6xkwbr@random.com
+division : ayu
+telephone : 010-7-0275
+sex : femail

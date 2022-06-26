@@ -1,0 +1,6 @@
+name : 정민후
+age : 12
+email : elra2ili@random.com
+division : vmr
+telephone : 010-2-7925
+sex : mail

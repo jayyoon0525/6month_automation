@@ -1,0 +1,6 @@
+name : 김지서
+age : 99
+email : lwz05ozs@random.com
+division : btm
+telephone : 010-2-8722
+sex : mail

@@ -1,0 +1,6 @@
+name : 박민진
+age : 27
+email : 1rz72goe@random.com
+division : aen
+telephone : 010-2-8623
+sex : mail

@@ -1,0 +1,6 @@
+name : 임주윤
+age : 08
+email : 3cyl0ggt@random.com
+division : qik
+telephone : 010-8-.580
+sex : femail

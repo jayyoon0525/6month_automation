@@ -1,0 +1,6 @@
+name : 조민진
+age : 08
+email : hva8llce@random.com
+division : kls
+telephone : 010-8-5089
+sex : femail

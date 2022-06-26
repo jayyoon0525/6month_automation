@@ -1,0 +1,6 @@
+name : 강현아
+age : 16
+email : aqe942k7@random.com
+division : xdv
+telephone : 010-0-0601
+sex : femail

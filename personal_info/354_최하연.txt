@@ -1,0 +1,6 @@
+name : 최하연
+age : 74
+email : xkhkm6v1@random.com
+division : ha8
+telephone : 010-7-8978
+sex : mail

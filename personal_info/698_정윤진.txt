@@ -1,0 +1,6 @@
+name : 정윤진
+age : 83
+email : arr2e9mu@random.com
+division : 50i
+telephone : 010-8-8782
+sex : mail

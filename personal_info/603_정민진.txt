@@ -1,0 +1,6 @@
+name : 정민진
+age : 47
+email : jqumtw5u@random.com
+division : jps
+telephone : 010-4-2143
+sex : mail

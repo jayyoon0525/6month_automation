@@ -1,0 +1,6 @@
+name : 최채윤
+age : 18
+email : 66xwpnfh@random.com
+division : r4q
+telephone : 010-5-6259
+sex : femail

@@ -1,0 +1,6 @@
+name : 강지윤
+age : 79
+email : pexmmc89@random.com
+division : 2j1
+telephone : 010-3-5431
+sex : mail

@@ -1,0 +1,6 @@
+name : 윤현아
+age : 23
+email : p7x4cui0@random.com
+division : 0jn
+telephone : 010-8-7283
+sex : femail

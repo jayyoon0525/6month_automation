@@ -1,0 +1,6 @@
+name : 최채윤
+age : 62
+email : q3bj307b@random.com
+division : yc8
+telephone : 010-1-6618
+sex : femail

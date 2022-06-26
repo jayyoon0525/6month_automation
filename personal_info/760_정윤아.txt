@@ -1,0 +1,6 @@
+name : 정윤아
+age : 65
+email : yy2pd2ex@random.com
+division : 9se
+telephone : 010-1-1418
+sex : mail

@@ -1,0 +1,6 @@
+name : 박지준
+age : 62
+email : aznqn6if@random.com
+division : 1s2
+telephone : 010-2-9929
+sex : mail

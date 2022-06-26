@@ -1,0 +1,6 @@
+name : 조지진
+age : 91
+email : v4nfya60@random.com
+division : x66
+telephone : 010-9-9197
+sex : mail

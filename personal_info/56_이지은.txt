@@ -1,0 +1,6 @@
+name : 이지은
+age : 24
+email : m5dfip9a@random.com
+division : npo
+telephone : 010-2-.520
+sex : femail

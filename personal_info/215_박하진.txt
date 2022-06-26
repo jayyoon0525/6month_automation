@@ -1,0 +1,6 @@
+name : 박하진
+age : 25
+email : glall14t@random.com
+division : o92
+telephone : 010-9-1299
+sex : femail

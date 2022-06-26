@@ -1,0 +1,6 @@
+name : 최주준
+age : 17
+email : 3ay42n18@random.com
+division : y6x
+telephone : 010-0-0202
+sex : mail

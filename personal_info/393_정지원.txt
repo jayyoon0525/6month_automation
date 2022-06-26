@@ -1,0 +1,6 @@
+name : 정지원
+age : 31
+email : t2h6ej7m@random.com
+division : co9
+telephone : 010-0-7107
+sex : femail

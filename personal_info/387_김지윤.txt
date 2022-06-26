@@ -1,0 +1,6 @@
+name : 김지윤
+age : 94
+email : hrri2fz0@random.com
+division : 71b
+telephone : 010-7-0773
+sex : mail

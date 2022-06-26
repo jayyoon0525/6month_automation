@@ -1,0 +1,6 @@
+name : 강지아
+age : 61
+email : n0mc98vu@random.com
+division : 2vq
+telephone : 010-0-7801
+sex : femail

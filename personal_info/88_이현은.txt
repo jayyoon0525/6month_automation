@@ -1,0 +1,6 @@
+name : 이현은
+age : 88
+email : 7i35cb4s@random.com
+division : exp
+telephone : 010-0-5401
+sex : mail

@@ -1,0 +1,6 @@
+name : 최민은
+age : 47
+email : oll2sljd@random.com
+division : m5p
+telephone : 010-0-7502
+sex : femail

@@ -1,0 +1,6 @@
+name : 임민서
+age : 56
+email : 3rndmf2b@random.com
+division : 2wz
+telephone : 010-8-4184
+sex : mail

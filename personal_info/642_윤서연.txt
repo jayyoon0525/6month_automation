@@ -1,0 +1,6 @@
+name : 윤서연
+age : 05
+email : xipd8vz1@random.com
+division : ezp
+telephone : 010-3-4537
+sex : femail

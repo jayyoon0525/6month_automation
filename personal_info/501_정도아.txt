@@ -1,0 +1,6 @@
+name : 정도아
+age : 13
+email : n2o9l04c@random.com
+division : fcm
+telephone : 010-5-6658
+sex : femail

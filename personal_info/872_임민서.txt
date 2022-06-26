@@ -1,0 +1,6 @@
+name : 임민서
+age : 75
+email : jkalrq21@random.com
+division : o42
+telephone : 010-0-7003
+sex : mail

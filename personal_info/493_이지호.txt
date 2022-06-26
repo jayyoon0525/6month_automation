@@ -1,0 +1,6 @@
+name : 이지호
+age : 18
+email : 4a4o09jx@random.com
+division : lg0
+telephone : 010-5-6259
+sex : mail

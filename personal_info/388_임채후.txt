@@ -1,0 +1,6 @@
+name : 임채후
+age : 94
+email : 80or9a83@random.com
+division : 82l
+telephone : 010-7-0773
+sex : femail

@@ -1,0 +1,6 @@
+name : 최예호
+age : 56
+email : snc4s3ip@random.com
+division : twi
+telephone : 010-7-0378
+sex : femail

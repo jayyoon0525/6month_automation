@@ -1,0 +1,6 @@
+name : 김서연
+age : 92
+email : l6elnp90@random.com
+division : k55
+telephone : 010-8-7482
+sex : mail

@@ -1,0 +1,6 @@
+name : 임하원
+age : 15
+email : huvubbhz@random.com
+division : j6f
+telephone : 010-0-9803
+sex : femail

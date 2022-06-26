@@ -1,0 +1,6 @@
+name : 장채원
+age : 76
+email : 23qc4kut@random.com
+division : av0
+telephone : 010-1-4011
+sex : mail

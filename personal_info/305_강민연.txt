@@ -1,0 +1,6 @@
+name : 강민연
+age : 73
+email : wxccy9ux@random.com
+division : dx3
+telephone : 010-8-5986
+sex : femail

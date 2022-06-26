@@ -1,0 +1,6 @@
+name : 정지준
+age : 86
+email : 11go2jrx@random.com
+division : idc
+telephone : 010-2-6528
+sex : mail

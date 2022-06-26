@@ -1,0 +1,6 @@
+name : 정주연
+age : 04
+email : zrkeflff@random.com
+division : 3uf
+telephone : 010-3-9530
+sex : mail

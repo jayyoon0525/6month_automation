@@ -1,0 +1,6 @@
+name : 이예서
+age : 23
+email : qn9ltq1d@random.com
+division : 3rl
+telephone : 010-0-9404
+sex : mail

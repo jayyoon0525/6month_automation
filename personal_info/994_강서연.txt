@@ -1,0 +1,6 @@
+name : 강서연
+age : 23
+email : xjkoizwf@random.com
+division : wqk
+telephone : 010-8-5082
+sex : femail

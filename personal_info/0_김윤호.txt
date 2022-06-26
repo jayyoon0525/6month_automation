@@ -1,0 +1,6 @@
+name : 김윤호
+age : 17
+email : wgm1wviv@random.com
+division : y3o
+telephone : 010-3-8633
+sex : femail

@@ -1,0 +1,6 @@
+name : 정민서
+age : 22
+email : 3pr2gess@random.com
+division : 86t
+telephone : 010-7-1771
+sex : femail

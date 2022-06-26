@@ -1,0 +1,6 @@
+name : 김민아
+age : 34
+email : u2iv5cv8@random.com
+division : daj
+telephone : 010-5-7855
+sex : mail

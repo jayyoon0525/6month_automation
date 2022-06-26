@@ -1,0 +1,6 @@
+name : 최서준
+age : 43
+email : ek7t406p@random.com
+division : ln9
+telephone : 010-2-8925
+sex : mail

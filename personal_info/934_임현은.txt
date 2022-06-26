@@ -1,0 +1,6 @@
+name : 임현은
+age : 68
+email : 6wn13w6n@random.com
+division : myn
+telephone : 010-9-0394
+sex : mail

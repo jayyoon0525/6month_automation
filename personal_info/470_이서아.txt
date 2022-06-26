@@ -1,0 +1,6 @@
+name : 이서아
+age : 69
+email : 68dmy0wc@random.com
+division : gbg
+telephone : 010-6-4962
+sex : femail

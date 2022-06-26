@@ -1,0 +1,6 @@
+name : 정주은
+age : 86
+email : u4gm5t0n@random.com
+division : 5ca
+telephone : 010-6-0268
+sex : mail

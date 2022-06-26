@@ -1,0 +1,6 @@
+name : 조현연
+age : 28
+email : 6jj6ypkc@random.com
+division : nu6
+telephone : 010-2-5621
+sex : femail

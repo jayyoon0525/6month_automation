@@ -1,0 +1,6 @@
+name : 조지원
+age : 48
+email : k4o8u0ic@random.com
+division : 39d
+telephone : 010-2-5920
+sex : femail

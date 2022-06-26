@@ -1,0 +1,6 @@
+name : 강지준
+age : 65
+email : wns9ahan@random.com
+division : 8kf
+telephone : 010-1-2914
+sex : femail

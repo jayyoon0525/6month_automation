@@ -1,0 +1,6 @@
+name : 최민아
+age : 72
+email : qogv6egy@random.com
+division : qpg
+telephone : 010-1-.714
+sex : mail

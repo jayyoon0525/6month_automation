@@ -1,0 +1,6 @@
+name : 장지윤
+age : 06
+email : 0qbwx0ns@random.com
+division : 4kr
+telephone : 010-2-6828
+sex : mail

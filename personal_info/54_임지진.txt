@@ -1,0 +1,6 @@
+name : 임지진
+age : 28
+email : bf99ylal@random.com
+division : g8t
+telephone : 010-2-1924
+sex : mail

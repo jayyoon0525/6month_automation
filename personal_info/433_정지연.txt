@@ -1,0 +1,6 @@
+name : 정지연
+age : 74
+email : q91g5uq4@random.com
+division : mlg
+telephone : 010-6-3067
+sex : femail

@@ -1,0 +1,6 @@
+name : 이도은
+age : 52
+email : vivkf9tc@random.com
+division : 91o
+telephone : 010-2-9623
+sex : mail

@@ -1,0 +1,6 @@
+name : 김채호
+age : 52
+email : km2fkruu@random.com
+division : qel
+telephone : 010-7-9078
+sex : mail

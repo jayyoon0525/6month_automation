@@ -1,0 +1,6 @@
+name : 최주윤
+age : 92
+email : gw2o4g2g@random.com
+division : i8l
+telephone : 010-3-3838
+sex : femail

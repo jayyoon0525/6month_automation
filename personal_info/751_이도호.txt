@@ -1,0 +1,6 @@
+name : 이도호
+age : 75
+email : daz5yxse@random.com
+division : 8y2
+telephone : 010-1-1019
+sex : mail

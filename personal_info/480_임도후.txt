@@ -1,0 +1,6 @@
+name : 임도후
+age : 11
+email : 22cy2n0k@random.com
+division : zeb
+telephone : 010-5-7556
+sex : mail

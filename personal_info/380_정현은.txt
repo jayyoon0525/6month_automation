@@ -1,0 +1,6 @@
+name : 정현은
+age : 46
+email : qnqq0g0r@random.com
+division : xw6
+telephone : 010-7-0175
+sex : femail

@@ -1,0 +1,6 @@
+name : 박주연
+age : 14
+email : wr0z8rv1@random.com
+division : sil
+telephone : 010-1-4610
+sex : mail

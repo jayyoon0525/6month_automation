@@ -1,0 +1,6 @@
+name : 임도아
+age : 13
+email : 6ko9weip@random.com
+division : y59
+telephone : 010-2-9424
+sex : mail

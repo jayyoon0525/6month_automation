@@ -1,0 +1,6 @@
+name : 정도원
+age : 75
+email : 1zjdbum5@random.com
+division : 3xe
+telephone : 010-8-4483
+sex : mail

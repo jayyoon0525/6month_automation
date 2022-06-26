@@ -1,0 +1,6 @@
+name : 이민서
+age : 59
+email : kb2mlahl@random.com
+division : n9q
+telephone : 010-2-9620
+sex : mail

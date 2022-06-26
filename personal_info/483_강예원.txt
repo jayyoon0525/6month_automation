@@ -1,0 +1,6 @@
+name : 강예원
+age : 06
+email : 7evp7f6a@random.com
+division : 7tl
+telephone : 010-7-7576
+sex : mail

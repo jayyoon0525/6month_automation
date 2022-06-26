@@ -1,0 +1,6 @@
+name : 윤채연
+age : 15
+email : sh00yqra@random.com
+division : uvm
+telephone : 010-9-1698
+sex : femail

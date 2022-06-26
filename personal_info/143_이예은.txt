@@ -1,0 +1,6 @@
+name : 이예은
+age : 37
+email : j28c5wjh@random.com
+division : f7k
+telephone : 010-0-7509
+sex : mail

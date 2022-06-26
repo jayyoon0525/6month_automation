@@ -1,0 +1,6 @@
+name : 강민호
+age : 21
+email : opbsyg5l@random.com
+division : on6
+telephone : 010-0-4903
+sex : mail

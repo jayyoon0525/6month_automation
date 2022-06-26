@@ -1,0 +1,6 @@
+name : 최채연
+age : 34
+email : d8ypyn2c@random.com
+division : 9io
+telephone : 010-8-3885
+sex : femail

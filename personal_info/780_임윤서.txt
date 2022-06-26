@@ -1,0 +1,6 @@
+name : 임윤서
+age : 16
+email : 2qq40zrj@random.com
+division : 743
+telephone : 010-2-.924
+sex : mail

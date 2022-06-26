@@ -1,0 +1,6 @@
+name : 윤지윤
+age : 73
+email : fh5c9ipr@random.com
+division : czw
+telephone : 010-0-8107
+sex : mail

@@ -1,0 +1,6 @@
+name : 박윤진
+age : 92
+email : 1orf6dbr@random.com
+division : cfx
+telephone : 010-1-2814
+sex : mail

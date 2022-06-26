@@ -1,0 +1,6 @@
+name : 정지원
+age : 15
+email : 3y8o3plp@random.com
+division : 4cz
+telephone : 010-2-4923
+sex : femail

@@ -1,0 +1,6 @@
+name : 정도호
+age : 42
+email : y7qli9ea@random.com
+division : rq6
+telephone : 010-5-0059
+sex : femail

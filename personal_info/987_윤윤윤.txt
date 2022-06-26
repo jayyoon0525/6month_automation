@@ -1,0 +1,6 @@
+name : 윤윤윤
+age : 32
+email : olndi300@random.com
+division : rqb
+telephone : 010-6-0468
+sex : femail

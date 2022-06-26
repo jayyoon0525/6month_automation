@@ -1,0 +1,6 @@
+name : 이주호
+age : 49
+email : ge84xd9t@random.com
+division : jft
+telephone : 010-7-1671
+sex : mail

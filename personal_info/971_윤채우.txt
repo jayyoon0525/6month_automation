@@ -1,0 +1,6 @@
+name : 윤채우
+age : 07
+email : zhnuns6h@random.com
+division : 4ob
+telephone : 010-8-3985
+sex : mail

@@ -1,0 +1,6 @@
+name : 김지후
+age : 55
+email : ft4x5t7c@random.com
+division : j0w
+telephone : 010-2-3320
+sex : mail

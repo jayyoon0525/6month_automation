@@ -1,0 +1,6 @@
+name : 최서준
+age : 92
+email : 7btcce37@random.com
+division : 04o
+telephone : 010-5-7854
+sex : mail

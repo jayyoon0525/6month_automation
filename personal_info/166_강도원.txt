@@ -1,0 +1,6 @@
+name : 강도원
+age : 12
+email : oykuw0kz@random.com
+division : 000
+telephone : 010-0-8706
+sex : femail

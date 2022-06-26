@@ -1,0 +1,6 @@
+name : 최지준
+age : 16
+email : q511kiqe@random.com
+division : fpe
+telephone : 010-5-.550
+sex : femail

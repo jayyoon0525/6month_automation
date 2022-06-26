@@ -1,0 +1,6 @@
+name : 임지호
+age : 88
+email : 6kk0rwdj@random.com
+division : 1sn
+telephone : 010-0-7701
+sex : mail

@@ -1,0 +1,6 @@
+name : 장지진
+age : 04
+email : ht68kdl6@random.com
+division : d8m
+telephone : 010-0-9105
+sex : mail

@@ -1,0 +1,6 @@
+name : 박현아
+age : 27
+email : 39udljr2@random.com
+division : umf
+telephone : 010-5-7356
+sex : femail

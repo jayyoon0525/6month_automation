@@ -1,0 +1,6 @@
+name : 장민진
+age : 88
+email : 0uadu76k@random.com
+division : 9g9
+telephone : 010-6-7266
+sex : femail

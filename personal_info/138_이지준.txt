@@ -1,0 +1,6 @@
+name : 이지준
+age : 05
+email : hg40z5ru@random.com
+division : 6q4
+telephone : 010-1-5711
+sex : femail

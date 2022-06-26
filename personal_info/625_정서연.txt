@@ -1,0 +1,6 @@
+name : 정서연
+age : 04
+email : 53wqbxld@random.com
+division : 2ag
+telephone : 010-4-3440
+sex : mail

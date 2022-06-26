@@ -1,0 +1,6 @@
+name : 김지진
+age : 84
+email : zuy7zjjv@random.com
+division : icc
+telephone : 010-4-5042
+sex : femail

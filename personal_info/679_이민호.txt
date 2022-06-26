@@ -1,0 +1,6 @@
+name : 이민호
+age : 56
+email : d7ecwyt1@random.com
+division : o7b
+telephone : 010-3-6631
+sex : mail

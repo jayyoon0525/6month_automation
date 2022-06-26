@@ -1,0 +1,6 @@
+name : 이윤서
+age : 03
+email : eg7fabgx@random.com
+division : 7ad
+telephone : 010-9-3593
+sex : femail
