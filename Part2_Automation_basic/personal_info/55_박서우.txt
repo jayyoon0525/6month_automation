@@ -1,0 +1,6 @@
+name : 박서우
+age : 28
+email : 3m7594hp@random.com
+division : mj4
+telephone : 010-2-1924
+sex : mail

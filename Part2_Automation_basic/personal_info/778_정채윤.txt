@@ -1,0 +1,6 @@
+name : 정채윤
+age : 37
+email : tk4w4c02@random.com
+division : z59
+telephone : 010-1-2316
+sex : femail

@@ -1,0 +1,6 @@
+name : 김주아
+age : 46
+email : pe0a90q7@random.com
+division : u4o
+telephone : 010-0-8207
+sex : femail

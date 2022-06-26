@@ -1,0 +1,6 @@
+name : 정지아
+age : 74
+email : zfdhsaoh@random.com
+division : oqh
+telephone : 010-3-3938
+sex : mail

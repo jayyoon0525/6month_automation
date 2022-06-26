@@ -1,0 +1,6 @@
+name : 강예윤
+age : 17
+email : bc53cgop@random.com
+division : p7e
+telephone : 010-4-1146
+sex : mail

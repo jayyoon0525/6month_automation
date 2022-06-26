@@ -1,0 +1,6 @@
+name : 윤윤준
+age : 11
+email : ecjhgcev@random.com
+division : ppp
+telephone : 010-4-.943
+sex : femail

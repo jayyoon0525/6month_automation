@@ -1,0 +1,6 @@
+name : 이지은
+age : 41
+email : prebifwv@random.com
+division : ite
+telephone : 010-6-3566
+sex : femail

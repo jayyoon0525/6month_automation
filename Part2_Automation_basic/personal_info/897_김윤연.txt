@@ -1,0 +1,6 @@
+name : 김윤연
+age : 97
+email : jgl8416f@random.com
+division : l3j
+telephone : 010-9-8399
+sex : mail

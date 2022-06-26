@@ -1,0 +1,6 @@
+name : 임현우
+age : 69
+email : 5q78otfk@random.com
+division : amo
+telephone : 010-3-7336
+sex : mail

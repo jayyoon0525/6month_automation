@@ -1,0 +1,6 @@
+name : 강지진
+age : 33
+email : wpius233@random.com
+division : r5q
+telephone : 010-1-6811
+sex : mail

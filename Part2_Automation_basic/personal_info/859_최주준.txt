@@ -1,0 +1,6 @@
+name : 최주준
+age : 63
+email : wvlmoupr@random.com
+division : t55
+telephone : 010-0-6305
+sex : mail

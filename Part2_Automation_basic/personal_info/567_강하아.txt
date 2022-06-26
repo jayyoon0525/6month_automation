@@ -1,0 +1,6 @@
+name : 강하아
+age : 55
+email : cec7k7g2@random.com
+division : 4md
+telephone : 010-4-0248
+sex : mail

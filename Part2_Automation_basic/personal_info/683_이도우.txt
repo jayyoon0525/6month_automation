@@ -1,0 +1,6 @@
+name : 이도우
+age : 95
+email : b1rgw3z0@random.com
+division : 0ij
+telephone : 010-3-6830
+sex : mail

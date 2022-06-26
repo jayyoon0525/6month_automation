@@ -1,0 +1,6 @@
+name : 이지은
+age : 32
+email : 4nn2ft7t@random.com
+division : x5r
+telephone : 010-2-8224
+sex : mail

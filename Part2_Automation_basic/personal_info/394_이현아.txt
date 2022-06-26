@@ -1,0 +1,6 @@
+name : 이현아
+age : 31
+email : 3z9r60aw@random.com
+division : h2z
+telephone : 010-0-7107
+sex : femail

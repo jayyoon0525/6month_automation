@@ -1,0 +1,6 @@
+name : 이주연
+age : 85
+email : egmmdssz@random.com
+division : 45u
+telephone : 010-8-8180
+sex : mail

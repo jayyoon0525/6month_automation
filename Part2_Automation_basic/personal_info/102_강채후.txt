@@ -1,0 +1,6 @@
+name : 강채후
+age : 65
+email : dtgyegs4@random.com
+division : 3n0
+telephone : 010-8-5481
+sex : mail

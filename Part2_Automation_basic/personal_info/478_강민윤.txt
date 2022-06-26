@@ -1,0 +1,6 @@
+name : 강민윤
+age : 34
+email : pnmaord1@random.com
+division : zsw
+telephone : 010-6-5461
+sex : femail

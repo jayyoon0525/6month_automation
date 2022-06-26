@@ -1,0 +1,6 @@
+name : 강채후
+age : 73
+email : 3vo04izo@random.com
+division : 8ls
+telephone : 010-9-9995
+sex : femail

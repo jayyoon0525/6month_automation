@@ -1,0 +1,6 @@
+name : 정하은
+age : 32
+email : ko216s7t@random.com
+division : v1r
+telephone : 010-3-4437
+sex : femail

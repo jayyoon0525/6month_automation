@@ -1,0 +1,6 @@
+name : 장지준
+age : 22
+email : t7lq692t@random.com
+division : q64
+telephone : 010-2-2722
+sex : mail

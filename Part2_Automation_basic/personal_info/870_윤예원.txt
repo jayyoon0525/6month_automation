@@ -1,0 +1,6 @@
+name : 윤예원
+age : 41
+email : 2urwugxl@random.com
+division : 8fi
+telephone : 010-9-9690
+sex : femail

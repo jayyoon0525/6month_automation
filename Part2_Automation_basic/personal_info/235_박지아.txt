@@ -1,0 +1,6 @@
+name : 박지아
+age : 34
+email : 5liiw0ir@random.com
+division : kui
+telephone : 010-9-2396
+sex : mail

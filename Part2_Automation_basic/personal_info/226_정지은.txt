@@ -1,0 +1,6 @@
+name : 정지은
+age : 64
+email : 9z6yscjz@random.com
+division : nkl
+telephone : 010-9-1897
+sex : femail

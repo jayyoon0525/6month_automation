@@ -1,0 +1,6 @@
+name : 최채원
+age : 26
+email : dfqnppps@random.com
+division : pwz
+telephone : 010-0-5308
+sex : femail

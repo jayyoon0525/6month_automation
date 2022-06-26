@@ -1,0 +1,6 @@
+name : 최서원
+age : 07
+email : cww9er1c@random.com
+division : 5b1
+telephone : 010-4-9441
+sex : mail

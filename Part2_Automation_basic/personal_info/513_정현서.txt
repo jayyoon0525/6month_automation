@@ -1,0 +1,6 @@
+name : 정현서
+age : 56
+email : w9eq2q47@random.com
+division : jrx
+telephone : 010-5-7256
+sex : mail

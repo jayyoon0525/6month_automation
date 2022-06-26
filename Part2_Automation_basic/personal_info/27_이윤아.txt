@@ -1,0 +1,6 @@
+name : 이윤아
+age : 56
+email : 8l350d13@random.com
+division : ab3
+telephone : 010-2-0328
+sex : mail

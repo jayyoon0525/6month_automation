@@ -1,0 +1,6 @@
+name : 조지호
+age : 17
+email : 0csc6bwc@random.com
+division : y4a
+telephone : 010-0-0202
+sex : mail

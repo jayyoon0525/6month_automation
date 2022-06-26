@@ -1,0 +1,6 @@
+name : 강채서
+age : 83
+email : gn5sk3b8@random.com
+division : n34
+telephone : 010-2-0228
+sex : mail

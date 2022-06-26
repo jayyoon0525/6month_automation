@@ -1,0 +1,6 @@
+name : 이하진
+age : 44
+email : 500bsvy2@random.com
+division : iz4
+telephone : 010-0-6309
+sex : mail

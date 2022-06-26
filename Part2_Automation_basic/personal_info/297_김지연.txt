@@ -1,0 +1,6 @@
+name : 김지연
+age : 05
+email : 6dkekuqb@random.com
+division : ej6
+telephone : 010-8-5488
+sex : femail

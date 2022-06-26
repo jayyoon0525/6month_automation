@@ -1,0 +1,6 @@
+name : 김지준
+age : 39
+email : kbuz7mrs@random.com
+division : d26
+telephone : 010-7-8573
+sex : mail

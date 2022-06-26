@@ -1,0 +1,6 @@
+name : 이현우
+age : 83
+email : 70v30pfa@random.com
+division : 4p2
+telephone : 010-3-8732
+sex : femail

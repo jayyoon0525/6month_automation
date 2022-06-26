@@ -1,0 +1,6 @@
+name : 이지준
+age : 46
+email : u37zwb59@random.com
+division : xsg
+telephone : 010-4-1046
+sex : femail

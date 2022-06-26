@@ -1,0 +1,6 @@
+name : 정지서
+age : 47
+email : yt3gp7ta@random.com
+division : yom
+telephone : 010-6-3167
+sex : mail

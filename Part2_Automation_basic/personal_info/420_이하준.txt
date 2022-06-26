@@ -1,0 +1,6 @@
+name : 이하준
+age : 33
+email : bgqhzox0@random.com
+division : w75
+telephone : 010-6-2469
+sex : femail

@@ -1,0 +1,6 @@
+name : 김주은
+age : 33
+email : donwkrp5@random.com
+division : jk4
+telephone : 010-0-6804
+sex : mail

@@ -1,0 +1,6 @@
+name : 정현윤
+age : 18
+email : u3rd3j5j@random.com
+division : qoo
+telephone : 010-0-7602
+sex : femail

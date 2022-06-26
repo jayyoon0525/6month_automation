@@ -1,0 +1,6 @@
+name : 박민연
+age : 98
+email : 57gqyfm1@random.com
+division : lzs
+telephone : 010-9-1398
+sex : femail

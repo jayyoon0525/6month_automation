@@ -1,0 +1,6 @@
+name : 임지준
+age : 82
+email : 5regeek7@random.com
+division : yck
+telephone : 010-0-5108
+sex : mail

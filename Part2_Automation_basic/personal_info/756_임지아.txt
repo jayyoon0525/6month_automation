@@ -1,0 +1,6 @@
+name : 임지아
+age : 92
+email : 81bzu96q@random.com
+division : wx4
+telephone : 010-2-9121
+sex : mail

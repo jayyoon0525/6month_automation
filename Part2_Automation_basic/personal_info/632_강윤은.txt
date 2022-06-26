@@ -1,0 +1,6 @@
+name : 강윤은
+age : 19
+email : 8soxrmp6@random.com
+division : lnx
+telephone : 010-3-3739
+sex : femail

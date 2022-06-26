@@ -1,0 +1,6 @@
+name : 강지진
+age : 14
+email : 65d3kajl@random.com
+division : 6z3
+telephone : 010-1-3114
+sex : mail

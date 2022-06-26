@@ -1,0 +1,6 @@
+name : 임윤원
+age : 24
+email : n3p5lde4@random.com
+division : mae
+telephone : 010-1-4211
+sex : femail

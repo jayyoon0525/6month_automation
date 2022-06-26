@@ -1,0 +1,6 @@
+name : 장윤원
+age : 24
+email : 4x9ju2l1@random.com
+division : 62r
+telephone : 010-1-4916
+sex : mail

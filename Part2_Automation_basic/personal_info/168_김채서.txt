@@ -1,0 +1,6 @@
+name : 김채서
+age : 87
+email : pqhsgu17@random.com
+division : 212
+telephone : 010-0-8805
+sex : mail

@@ -1,0 +1,6 @@
+name : 강서연
+age : 23
+email : sq4bt15t@random.com
+division : 9k5
+telephone : 010-8-3187
+sex : mail

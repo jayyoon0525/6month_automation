@@ -1,0 +1,6 @@
+name : 조채서
+age : 08
+email : 1icn8hgx@random.com
+division : 27l
+telephone : 010-8-.580
+sex : mail

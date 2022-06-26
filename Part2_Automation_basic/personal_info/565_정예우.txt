@@ -1,0 +1,6 @@
+name : 정예우
+age : 82
+email : rkw9tdi4@random.com
+division : jns
+telephone : 010-4-0148
+sex : femail

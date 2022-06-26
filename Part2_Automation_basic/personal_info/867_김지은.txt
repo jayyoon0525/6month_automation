@@ -1,0 +1,6 @@
+name : 김지은
+age : 47
+email : zywpc86y@random.com
+division : pen
+telephone : 010-7-9670
+sex : mail

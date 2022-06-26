@@ -1,0 +1,6 @@
+name : 김주은
+age : 14
+email : jp2bc43c@random.com
+division : 5dj
+telephone : 010-5-6050
+sex : mail

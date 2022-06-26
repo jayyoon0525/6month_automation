@@ -1,0 +1,6 @@
+name : 강지연
+age : 13
+email : xqe3u64u@random.com
+division : rlu
+telephone : 010-2-7628
+sex : mail

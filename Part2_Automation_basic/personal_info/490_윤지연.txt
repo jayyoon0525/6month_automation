@@ -1,0 +1,6 @@
+name : 윤지연
+age : 43
+email : n5f20m4i@random.com
+division : 6t1
+telephone : 010-5-6159
+sex : femail

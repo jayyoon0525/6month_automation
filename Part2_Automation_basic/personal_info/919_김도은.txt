@@ -1,0 +1,6 @@
+name : 김도은
+age : 52
+email : s0f70mn9@random.com
+division : p99
+telephone : 010-9-9696
+sex : mail

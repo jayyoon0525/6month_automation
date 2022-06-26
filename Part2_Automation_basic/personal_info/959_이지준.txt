@@ -1,0 +1,6 @@
+name : 이지준
+age : 71
+email : mx8twk5y@random.com
+division : ofi
+telephone : 010-8-3386
+sex : mail

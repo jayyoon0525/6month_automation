@@ -1,0 +1,6 @@
+name : 박서진
+age : 75
+email : zt8ewmqp@random.com
+division : 3s3
+telephone : 010-6-8064
+sex : mail

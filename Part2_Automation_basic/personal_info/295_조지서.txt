@@ -1,0 +1,6 @@
+name : 조지서
+age : 27
+email : 1j8fl46c@random.com
+division : 241
+telephone : 010-8-5388
+sex : mail

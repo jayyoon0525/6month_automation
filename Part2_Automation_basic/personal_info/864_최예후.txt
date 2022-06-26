@@ -1,0 +1,6 @@
+name : 최예후
+age : 82
+email : sousfw1p@random.com
+division : xwg
+telephone : 010-0-6604
+sex : mail

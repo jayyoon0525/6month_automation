@@ -1,0 +1,6 @@
+name : 임도원
+age : 17
+email : c2re8uz9@random.com
+division : p9t
+telephone : 010-0-6409
+sex : femail

@@ -1,0 +1,6 @@
+name : 김도진
+age : 96
+email : 39yaaa73@random.com
+division : t8p
+telephone : 010-9-.998
+sex : mail

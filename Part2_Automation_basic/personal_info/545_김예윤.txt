@@ -1,0 +1,6 @@
+name : 김예윤
+age : 83
+email : 2qkygj5a@random.com
+division : b75
+telephone : 010-5-9051
+sex : mail

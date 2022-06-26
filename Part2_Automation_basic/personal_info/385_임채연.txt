@@ -1,0 +1,6 @@
+name : 임채연
+age : 25
+email : zopld9h0@random.com
+division : h2w
+telephone : 010-7-0674
+sex : femail

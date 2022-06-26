@@ -1,0 +1,6 @@
+name : 이채연
+age : 44
+email : js7e5ngg@random.com
+division : bnr
+telephone : 010-8-6086
+sex : femail

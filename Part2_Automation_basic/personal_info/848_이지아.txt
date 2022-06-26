@@ -1,0 +1,6 @@
+name : 이지아
+age : 18
+email : qndfwmz6@random.com
+division : 5zj
+telephone : 010-0-5707
+sex : mail

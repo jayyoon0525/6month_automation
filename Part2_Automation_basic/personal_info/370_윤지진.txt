@@ -1,0 +1,6 @@
+name : 윤지진
+age : 78
+email : xnqesq01@random.com
+division : j8l
+telephone : 010-7-9676
+sex : mail

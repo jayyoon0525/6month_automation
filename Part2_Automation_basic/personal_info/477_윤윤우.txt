@@ -1,0 +1,6 @@
+name : 윤윤우
+age : 16
+email : 6rfepl1c@random.com
+division : i95
+telephone : 010-3-7536
+sex : mail

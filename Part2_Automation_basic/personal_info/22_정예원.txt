@@ -1,0 +1,6 @@
+name : 정예원
+age : 94
+email : srhd9chq@random.com
+division : e22
+telephone : 010-0-5002
+sex : mail

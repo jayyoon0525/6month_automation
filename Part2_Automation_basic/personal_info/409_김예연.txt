@@ -1,0 +1,6 @@
+name : 김예연
+age : 73
+email : p915rmfm@random.com
+division : w97
+telephone : 010-7-1970
+sex : mail

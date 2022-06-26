@@ -1,0 +1,6 @@
+name : 최하원
+age : 23
+email : yji4nx57@random.com
+division : v5k
+telephone : 010-7-8779
+sex : mail

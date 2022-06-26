@@ -1,0 +1,6 @@
+name : 최현아
+age : 43
+email : is6llvjj@random.com
+division : fi1
+telephone : 010-1-5215
+sex : mail

@@ -1,0 +1,6 @@
+name : 장예원
+age : 07
+email : za6op06i@random.com
+division : 6l3
+telephone : 010-4-1545
+sex : mail

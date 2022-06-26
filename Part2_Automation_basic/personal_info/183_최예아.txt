@@ -1,0 +1,6 @@
+name : 최예아
+age : 76
+email : c06oh4pg@random.com
+division : ml0
+telephone : 010-0-9603
+sex : mail

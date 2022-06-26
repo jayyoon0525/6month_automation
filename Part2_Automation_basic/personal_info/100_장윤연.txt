@@ -1,0 +1,6 @@
+name : 장윤연
+age : 78
+email : wjt96epd@random.com
+division : 5bf
+telephone : 010-1-4716
+sex : femail

@@ -1,0 +1,6 @@
+name : 김윤서
+age : 19
+email : 8jf3hpw1@random.com
+division : vc4
+telephone : 010-3-3739
+sex : femail

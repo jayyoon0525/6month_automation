@@ -1,0 +1,6 @@
+name : 이주은
+age : 76
+email : s1t746ux@random.com
+division : 7mt
+telephone : 010-3-6937
+sex : femail

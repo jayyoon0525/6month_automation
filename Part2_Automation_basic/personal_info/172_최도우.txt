@@ -1,0 +1,6 @@
+name : 최도우
+age : 33
+email : r675cm4z@random.com
+division : rz8
+telephone : 010-0-9005
+sex : mail

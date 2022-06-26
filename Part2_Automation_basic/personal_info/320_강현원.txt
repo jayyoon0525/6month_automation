@@ -1,0 +1,6 @@
+name : 강현원
+age : 28
+email : w8kly5k3@random.com
+division : eyc
+telephone : 010-8-6884
+sex : femail

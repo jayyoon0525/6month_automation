@@ -1,0 +1,6 @@
+name : 이채준
+age : 36
+email : 8bezq5tz@random.com
+division : h5u
+telephone : 010-8-8380
+sex : femail

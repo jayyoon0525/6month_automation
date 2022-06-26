@@ -1,0 +1,6 @@
+name : 이현진
+age : 61
+email : gui7sezs@random.com
+division : zcc
+telephone : 010-5-8752
+sex : femail

@@ -1,0 +1,6 @@
+name : 윤민준
+age : 35
+email : 5tes43cw@random.com
+division : guh
+telephone : 010-1-6718
+sex : mail

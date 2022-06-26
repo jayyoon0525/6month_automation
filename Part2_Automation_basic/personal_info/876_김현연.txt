@@ -1,0 +1,6 @@
+name : 김현연
+age : 28
+email : abtawqy7@random.com
+division : 983
+telephone : 010-0-7203
+sex : mail

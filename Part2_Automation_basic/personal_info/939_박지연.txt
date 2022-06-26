@@ -1,0 +1,6 @@
+name : 박지연
+age : 39
+email : mvohi0dw@random.com
+division : ye9
+telephone : 010-6-0069
+sex : mail

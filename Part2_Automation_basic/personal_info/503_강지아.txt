@@ -1,0 +1,6 @@
+name : 강지아
+age : 86
+email : 4q7ysm0w@random.com
+division : nze
+telephone : 010-5-6757
+sex : mail

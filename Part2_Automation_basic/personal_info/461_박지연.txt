@@ -1,0 +1,6 @@
+name : 박지연
+age : 08
+email : 7qlu1062@random.com
+division : 5gu
+telephone : 010-6-4464
+sex : mail

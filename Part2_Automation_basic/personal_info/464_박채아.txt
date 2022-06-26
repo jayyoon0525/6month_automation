@@ -1,0 +1,6 @@
+name : 박채아
+age : 35
+email : 2h0k84k1@random.com
+division : 0o8
+telephone : 010-6-7466
+sex : mail

@@ -1,0 +1,6 @@
+name : 김도연
+age : 23
+email : w822mfku@random.com
+division : r3b
+telephone : 010-8-5082
+sex : mail

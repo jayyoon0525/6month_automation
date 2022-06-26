@@ -1,0 +1,6 @@
+name : 강현연
+age : 52
+email : 6hl8vxqx@random.com
+division : k5z
+telephone : 010-3-7137
+sex : mail

@@ -1,0 +1,6 @@
+name : 최민후
+age : 14
+email : 3khkw35m@random.com
+division : 60l
+telephone : 010-5-6050
+sex : femail

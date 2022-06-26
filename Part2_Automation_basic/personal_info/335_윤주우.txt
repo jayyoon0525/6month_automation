@@ -1,0 +1,6 @@
+name : 윤주우
+age : 17
+email : e0365tls@random.com
+division : 9tq
+telephone : 010-8-7682
+sex : femail

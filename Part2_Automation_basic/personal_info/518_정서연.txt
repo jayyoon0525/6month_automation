@@ -1,0 +1,6 @@
+name : 정서연
+age : 56
+email : ta7fhqvt@random.com
+division : s30
+telephone : 010-7-.774
+sex : femail

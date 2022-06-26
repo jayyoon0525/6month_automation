@@ -1,0 +1,6 @@
+name : 정채아
+age : 44
+email : cjw9fgww@random.com
+division : nwc
+telephone : 010-0-6309
+sex : mail

@@ -1,0 +1,6 @@
+name : 박지은
+age : 69
+email : 659kj1p5@random.com
+division : pyh
+telephone : 010-1-6219
+sex : mail

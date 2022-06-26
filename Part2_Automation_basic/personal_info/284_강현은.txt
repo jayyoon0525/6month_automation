@@ -1,0 +1,6 @@
+name : 강현은
+age : 92
+email : borg7c1d@random.com
+division : 6xx
+telephone : 010-8-4789
+sex : femail

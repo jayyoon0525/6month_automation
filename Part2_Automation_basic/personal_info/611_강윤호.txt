@@ -1,0 +1,6 @@
+name : 강윤호
+age : 23
+email : 6ypyv2xh@random.com
+division : 09n
+telephone : 010-6-8264
+sex : mail

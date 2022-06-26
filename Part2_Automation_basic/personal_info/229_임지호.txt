@@ -1,0 +1,6 @@
+name : 임지호
+age : 05
+email : byj9f5q8@random.com
+division : z7p
+telephone : 010-9-2097
+sex : mail

@@ -1,0 +1,6 @@
+name : 이도은
+age : 42
+email : 6ptapst6@random.com
+division : 19d
+telephone : 010-5-0059
+sex : femail

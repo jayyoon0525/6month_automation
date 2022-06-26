@@ -1,0 +1,6 @@
+name : 최도연
+age : 47
+email : s3i7ghff@random.com
+division : q01
+telephone : 010-0-9703
+sex : mail

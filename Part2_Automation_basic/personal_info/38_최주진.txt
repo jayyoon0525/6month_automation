@@ -1,0 +1,6 @@
+name : 최주진
+age : 77
+email : qzb8oqqb@random.com
+division : asa
+telephone : 010-2-1026
+sex : femail

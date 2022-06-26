@@ -1,0 +1,6 @@
+name : 장지원
+age : 06
+email : dhl8s32r@random.com
+division : 1ja
+telephone : 010-6-2569
+sex : femail

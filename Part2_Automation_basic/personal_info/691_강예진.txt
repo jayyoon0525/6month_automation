@@ -1,0 +1,6 @@
+name : 강예진
+age : 45
+email : 6stto9yp@random.com
+division : lap
+telephone : 010-2-7429
+sex : femail

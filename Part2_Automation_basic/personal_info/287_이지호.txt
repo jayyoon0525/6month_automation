@@ -1,0 +1,6 @@
+name : 이지호
+age : 94
+email : ksyqri9e@random.com
+division : 3ex
+telephone : 010-9-6498
+sex : femail

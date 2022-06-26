@@ -1,0 +1,6 @@
+name : 강서은
+age : 13
+email : v8b6mtgd@random.com
+division : rkd
+telephone : 010-1-1618
+sex : femail

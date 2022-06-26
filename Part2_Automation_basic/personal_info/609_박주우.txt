@@ -1,0 +1,6 @@
+name : 박주우
+age : 25
+email : 927bosza@random.com
+division : 32i
+telephone : 010-5-8254
+sex : femail

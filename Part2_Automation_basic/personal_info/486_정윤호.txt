@@ -1,0 +1,6 @@
+name : 정윤호
+age : 02
+email : 7k1fjtkx@random.com
+division : jbi
+telephone : 010-6-5960
+sex : femail

@@ -1,0 +1,6 @@
+name : 김윤우
+age : 02
+email : a8s5a24p@random.com
+division : tkv
+telephone : 010-8-4384
+sex : mail

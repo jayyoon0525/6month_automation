@@ -1,0 +1,6 @@
+name : 최윤윤
+age : 05
+email : d4idb3s9@random.com
+division : vzw
+telephone : 010-5-7955
+sex : mail

@@ -1,0 +1,6 @@
+name : 김주서
+age : 54
+email : r05xayuu@random.com
+division : smg
+telephone : 010-3-4038
+sex : femail

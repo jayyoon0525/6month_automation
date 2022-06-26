@@ -1,0 +1,6 @@
+name : 이민후
+age : 59
+email : pi5nk2c9@random.com
+division : m0f
+telephone : 010-3-4736
+sex : mail

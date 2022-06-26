@@ -1,0 +1,6 @@
+name : 임지준
+age : 04
+email : pduuio8c@random.com
+division : q43
+telephone : 010-4-3440
+sex : mail

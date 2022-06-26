@@ -1,0 +1,6 @@
+name : 최서연
+age : 92
+email : mpv71g8x@random.com
+division : fvz
+telephone : 010-2-9121
+sex : mail

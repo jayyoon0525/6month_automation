@@ -1,0 +1,6 @@
+name : 윤지우
+age : 31
+email : 0kmaujz3@random.com
+division : lu3
+telephone : 010-5-9351
+sex : mail

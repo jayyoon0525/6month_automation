@@ -1,0 +1,6 @@
+name : 정예연
+age : 19
+email : cu4codyo@random.com
+division : 3mj
+telephone : 010-8-5282
+sex : mail

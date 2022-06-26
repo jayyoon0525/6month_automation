@@ -1,0 +1,6 @@
+name : 강민은
+age : 62
+email : x8t75fq6@random.com
+division : v9w
+telephone : 010-8-6784
+sex : femail

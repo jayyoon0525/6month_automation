@@ -1,0 +1,6 @@
+name : 박지진
+age : 78
+email : m94zs7bz@random.com
+division : ozm
+telephone : 010-7-9676
+sex : femail

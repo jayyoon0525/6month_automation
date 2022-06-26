@@ -1,0 +1,6 @@
+name : 장주아
+age : 78
+email : 1rnpuo8v@random.com
+division : tuh
+telephone : 010-3-5035
+sex : mail

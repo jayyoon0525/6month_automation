@@ -1,0 +1,6 @@
+name : 조지원
+age : 96
+email : ac9xggtj@random.com
+division : t4f
+telephone : 010-2-.624
+sex : mail

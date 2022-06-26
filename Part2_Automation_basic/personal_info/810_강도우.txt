@@ -1,0 +1,6 @@
+name : 강도우
+age : 03
+email : uftbb9kc@random.com
+division : 6ys
+telephone : 010-1-3912
+sex : femail

@@ -1,0 +1,6 @@
+name : 정채아
+age : 08
+email : jiuv5cim@random.com
+division : nrf
+telephone : 010-9-9497
+sex : femail

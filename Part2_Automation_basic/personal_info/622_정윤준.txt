@@ -1,0 +1,6 @@
+name : 정윤준
+age : 06
+email : l68bztiz@random.com
+division : ipy
+telephone : 010-2-8324
+sex : femail

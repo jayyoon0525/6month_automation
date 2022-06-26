@@ -1,0 +1,6 @@
+name : 임예진
+age : 39
+email : csmr0i6q@random.com
+division : y2x
+telephone : 010-8-7981
+sex : mail

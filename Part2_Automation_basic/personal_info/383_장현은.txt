@@ -1,0 +1,6 @@
+name : 장현은
+age : 24
+email : capg69wf@random.com
+division : w5c
+telephone : 010-7-0275
+sex : mail

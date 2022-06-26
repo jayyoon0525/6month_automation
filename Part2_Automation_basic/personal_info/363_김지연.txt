@@ -1,0 +1,6 @@
+name : 김지연
+age : 76
+email : fqju2kos@random.com
+division : x6e
+telephone : 010-3-6937
+sex : mail

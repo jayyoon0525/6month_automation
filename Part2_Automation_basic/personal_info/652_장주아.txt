@@ -1,0 +1,6 @@
+name : 장주아
+age : 78
+email : km6otu72@random.com
+division : axg
+telephone : 010-3-5035
+sex : femail

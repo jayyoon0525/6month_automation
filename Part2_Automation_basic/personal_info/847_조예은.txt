@@ -1,0 +1,6 @@
+name : 조예은
+age : 18
+email : baxlfm1o@random.com
+division : 1v6
+telephone : 010-0-5707
+sex : femail

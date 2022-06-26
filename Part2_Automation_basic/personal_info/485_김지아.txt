@@ -1,0 +1,6 @@
+name : 김지아
+age : 33
+email : 94q7vdey@random.com
+division : b8k
+telephone : 010-6-5860
+sex : femail

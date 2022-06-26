@@ -1,0 +1,6 @@
+name : 윤채윤
+age : 75
+email : 1gm4noo9@random.com
+division : g48
+telephone : 010-6-3466
+sex : femail

@@ -1,0 +1,6 @@
+name : 최윤아
+age : 51
+email : hjtumdbc@random.com
+division : 04b
+telephone : 010-6-5162
+sex : mail

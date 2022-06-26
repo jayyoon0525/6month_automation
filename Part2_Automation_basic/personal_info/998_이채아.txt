@@ -1,0 +1,6 @@
+name : 이채아
+age : 93
+email : qx0jii5q@random.com
+division : vu4
+telephone : 010-8-5281
+sex : femail

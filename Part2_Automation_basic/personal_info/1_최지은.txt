@@ -1,0 +1,6 @@
+name : 최지은
+age : 17
+email : 0doe3t7w@random.com
+division : i6j
+telephone : 010-3-8633
+sex : mail

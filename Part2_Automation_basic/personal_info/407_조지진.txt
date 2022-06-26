@@ -1,0 +1,6 @@
+name : 조지진
+age : 22
+email : z0x2hs9z@random.com
+division : 4sx
+telephone : 010-7-1771
+sex : mail

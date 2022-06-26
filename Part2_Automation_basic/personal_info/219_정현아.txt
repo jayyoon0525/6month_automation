@@ -1,0 +1,6 @@
+name : 정현아
+age : 44
+email : j0idlknb@random.com
+division : wsr
+telephone : 010-9-1598
+sex : femail

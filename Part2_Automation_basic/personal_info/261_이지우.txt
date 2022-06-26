@@ -1,0 +1,6 @@
+name : 이지우
+age : 03
+email : tg5f2qs2@random.com
+division : ugu
+telephone : 010-9-3593
+sex : mail

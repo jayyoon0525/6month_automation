@@ -1,0 +1,6 @@
+name : 김지윤
+age : 68
+email : zwl68g8e@random.com
+division : j7m
+telephone : 010-1-7715
+sex : mail

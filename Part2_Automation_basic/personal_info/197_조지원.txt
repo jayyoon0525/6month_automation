@@ -1,0 +1,6 @@
+name : 조지원
+age : 19
+email : ihvlq1pn@random.com
+division : yf9
+telephone : 010-3-6030
+sex : femail

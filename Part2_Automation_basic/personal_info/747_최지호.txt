@@ -1,0 +1,6 @@
+name : 최지호
+age : 36
+email : th1kuc73@random.com
+division : dwc
+telephone : 010-2-0820
+sex : mail

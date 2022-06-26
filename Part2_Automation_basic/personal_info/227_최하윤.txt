@@ -1,0 +1,6 @@
+name : 최하윤
+age : 37
+email : ddmvdtwc@random.com
+division : 2n8
+telephone : 010-9-1997
+sex : mail

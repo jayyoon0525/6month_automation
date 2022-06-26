@@ -1,0 +1,6 @@
+name : 윤지준
+age : 52
+email : ekxy8lfv@random.com
+division : 3xb
+telephone : 010-2-8523
+sex : femail

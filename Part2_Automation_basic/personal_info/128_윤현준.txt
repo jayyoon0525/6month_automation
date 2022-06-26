@@ -1,0 +1,6 @@
+name : 윤현준
+age : 02
+email : iqvkrike@random.com
+division : lwd
+telephone : 010-1-6512
+sex : femail

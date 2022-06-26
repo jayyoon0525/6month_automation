@@ -1,0 +1,6 @@
+name : 이윤연
+age : 25
+email : 4g7a1cbv@random.com
+division : snp
+telephone : 010-0-7908
+sex : femail

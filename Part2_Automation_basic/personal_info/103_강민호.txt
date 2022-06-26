@@ -1,0 +1,6 @@
+name : 강민호
+age : 65
+email : 2w8zqayz@random.com
+division : uxa
+telephone : 010-8-5481
+sex : mail

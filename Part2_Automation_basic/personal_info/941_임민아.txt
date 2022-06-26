@@ -1,0 +1,6 @@
+name : 임민아
+age : 11
+email : qfwq4en8@random.com
+division : kbl
+telephone : 010-8-2489
+sex : femail

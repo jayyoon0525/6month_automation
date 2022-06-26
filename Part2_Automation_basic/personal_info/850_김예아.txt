@@ -1,0 +1,6 @@
+name : 김예아
+age : 93
+email : j98tt89t@random.com
+division : bm6
+telephone : 010-0-5806
+sex : femail

@@ -1,0 +1,6 @@
+name : 김지우
+age : 27
+email : 5imhz08w@random.com
+division : 6on
+telephone : 010-8-5787
+sex : femail

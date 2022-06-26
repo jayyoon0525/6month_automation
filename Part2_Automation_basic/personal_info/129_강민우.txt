@@ -1,0 +1,6 @@
+name : 강민우
+age : 73
+email : 5t2ek08g@random.com
+division : 3xz
+telephone : 010-1-6611
+sex : mail

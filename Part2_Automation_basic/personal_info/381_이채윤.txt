@@ -1,0 +1,6 @@
+name : 이채윤
+age : 46
+email : 61cjgq2q@random.com
+division : 1ak
+telephone : 010-7-0275
+sex : mail

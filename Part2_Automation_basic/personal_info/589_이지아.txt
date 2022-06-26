@@ -1,0 +1,6 @@
+name : 이지아
+age : 34
+email : g76fp1mv@random.com
+division : 08s
+telephone : 010-4-1445
+sex : mail

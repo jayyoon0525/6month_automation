@@ -1,0 +1,6 @@
+name : 임민우
+age : 26
+email : sb52u4eg@random.com
+division : 5tt
+telephone : 010-8-4284
+sex : femail

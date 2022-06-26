@@ -1,0 +1,6 @@
+name : 강주서
+age : 97
+email : fe9sf6h6@random.com
+division : afd
+telephone : 010-4-5740
+sex : femail

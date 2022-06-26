@@ -1,0 +1,6 @@
+name : 박지원
+age : 28
+email : rvzv9fei@random.com
+division : fps
+telephone : 010-6-4364
+sex : femail

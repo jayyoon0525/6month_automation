@@ -1,0 +1,6 @@
+name : 정채준
+age : 35
+email : lhzj4ep2@random.com
+division : 47h
+telephone : 010-6-7466
+sex : mail

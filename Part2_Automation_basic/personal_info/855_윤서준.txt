@@ -1,0 +1,6 @@
+name : 윤서준
+age : 17
+email : qfnl7e1o@random.com
+division : h64
+telephone : 010-0-6106
+sex : mail

@@ -1,0 +1,6 @@
+name : 정예호
+age : 03
+email : 8uowij0h@random.com
+division : 67m
+telephone : 010-7-9577
+sex : mail

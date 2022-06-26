@@ -1,0 +1,6 @@
+name : 이도호
+age : 08
+email : 32u8go95@random.com
+division : jct
+telephone : 010-1-6113
+sex : mail

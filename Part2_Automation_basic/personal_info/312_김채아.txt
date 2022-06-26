@@ -1,0 +1,6 @@
+name : 김채아
+age : 57
+email : 6rpezadh@random.com
+division : azs
+telephone : 010-3-6638
+sex : femail

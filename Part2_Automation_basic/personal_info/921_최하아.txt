@@ -1,0 +1,6 @@
+name : 최하아
+age : 63
+email : qj36n7u6@random.com
+division : 8uf
+telephone : 010-7-9979
+sex : mail

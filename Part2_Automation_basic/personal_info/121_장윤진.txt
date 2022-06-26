@@ -1,0 +1,6 @@
+name : 장윤진
+age : 42
+email : qdvwixl5@random.com
+division : bq1
+telephone : 010-1-6013
+sex : mail

@@ -1,0 +1,6 @@
+name : 강윤연
+age : 74
+email : qr6bwa1k@random.com
+division : ug4
+telephone : 010-8-2987
+sex : femail

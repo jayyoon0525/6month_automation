@@ -1,0 +1,6 @@
+name : 이지윤
+age : 81
+email : 0cucap2c@random.com
+division : rsr
+telephone : 010-1-3612
+sex : femail

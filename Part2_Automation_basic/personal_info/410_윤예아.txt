@@ -1,0 +1,6 @@
+name : 윤예아
+age : 73
+email : 6j5rkcx0@random.com
+division : miq
+telephone : 010-7-1970
+sex : femail

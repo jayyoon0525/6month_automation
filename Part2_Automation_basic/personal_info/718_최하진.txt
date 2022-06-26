@@ -1,0 +1,6 @@
+name : 최하진
+age : 24
+email : um5ho6hv@random.com
+division : apm
+telephone : 010-2-9025
+sex : mail

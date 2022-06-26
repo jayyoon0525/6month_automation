@@ -1,0 +1,6 @@
+name : 정지후
+age : 84
+email : ikohqhke@random.com
+division : sr8
+telephone : 010-5-9151
+sex : femail

@@ -1,0 +1,6 @@
+name : 강지진
+age : 34
+email : whuaducu@random.com
+division : ifw
+telephone : 010-4-1445
+sex : femail

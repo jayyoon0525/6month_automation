@@ -1,0 +1,6 @@
+name : 최서은
+age : 75
+email : x4oo5k06@random.com
+division : 3ox
+telephone : 010-0-7003
+sex : mail

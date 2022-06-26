@@ -1,0 +1,6 @@
+name : 박지윤
+age : 26
+email : l5ow9eba@random.com
+division : iy6
+telephone : 010-4-1844
+sex : mail

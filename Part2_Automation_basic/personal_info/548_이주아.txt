@@ -1,0 +1,6 @@
+name : 이주아
+age : 12
+email : 85ouxfey@random.com
+division : 4u6
+telephone : 010-2-7925
+sex : femail
