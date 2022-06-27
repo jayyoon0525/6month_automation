@@ -1,6 +1,0 @@
-name : 최도윤
-age : 87
-email : lmpfhh7y@random.com
-division : vwi
-telephone : 010-5-.658
-sex : mail

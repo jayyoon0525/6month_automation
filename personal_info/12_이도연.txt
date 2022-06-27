@@ -1,6 +1,0 @@
-name : 이도연
-age : 04
-email : yzsvlv96@random.com
-division : 3f3
-telephone : 010-3-9431
-sex : mail

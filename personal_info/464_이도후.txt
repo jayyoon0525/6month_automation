@@ -1,6 +1,0 @@
-name : ÀÌµµÈÄ
-age : 33
-e-mail : qrpmt09y@bhban.com
-division : ezi
-telephone : 010-6833-8468
-sex : male

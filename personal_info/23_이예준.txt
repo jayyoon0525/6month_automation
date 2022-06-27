@@ -1,6 +1,0 @@
-name : 이예준
-age : 15
-email : ut15jn3v@random.com
-division : pwr
-telephone : 010-2-0129
-sex : femail

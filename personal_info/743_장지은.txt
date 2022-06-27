@@ -1,6 +1,0 @@
-name : 장지은
-age : 12
-email : 9jfjsatq@random.com
-division : gyg
-telephone : 010-2-0521
-sex : mail

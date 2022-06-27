@@ -1,6 +1,0 @@
-name : ÃÖÁö¾Æ
-age : 42
-e-mail : i1iasule@bhban.com
-division : 4ra
-telephone : 010-7142-3871
-sex : male

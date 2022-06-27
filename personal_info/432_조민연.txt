@@ -1,6 +1,0 @@
-name : Á¶¹Î¿¬
-age : 31
-e-mail : nbe2rvdu@bhban.com
-division : x77
-telephone : 010-6731-1667
-sex : female

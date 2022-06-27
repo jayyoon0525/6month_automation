@@ -1,6 +1,0 @@
-name : ¿”¿±ø¨
-age : 75
-e-mail : ieha9k38@bhban.com
-division : ycd
-telephone : 010-2375-7723
-sex : female

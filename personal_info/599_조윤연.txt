@@ -1,6 +1,0 @@
-name : Á¶À±¿¬
-age : 04
-e-mail : 5gpmzvud@bhban.com
-division : 9da
-telephone : 010-4777-6147
-sex : male

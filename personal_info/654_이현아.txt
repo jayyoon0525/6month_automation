@@ -1,6 +1,0 @@
-name : 이현아
-age : 46
-email : 81oo8f1i@random.com
-division : e9q
-telephone : 010-3-5135
-sex : femail

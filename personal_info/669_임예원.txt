@@ -1,6 +1,0 @@
-name : 임예원
-age : 13
-email : ja225l1u@random.com
-division : kju
-telephone : 010-3-6033
-sex : mail

@@ -1,6 +1,0 @@
-name : 임주원
-age : 07
-email : os35rss8@random.com
-division : h4l
-telephone : 010-6-4065
-sex : mail

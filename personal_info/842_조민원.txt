@@ -1,6 +1,0 @@
-name : Á¶¹Î¿ø
-age : 18
-e-mail : ylzblthb@bhban.com
-division : r6c
-telephone : 010-6118-3961
-sex : male

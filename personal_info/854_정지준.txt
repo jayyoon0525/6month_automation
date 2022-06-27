@@ -1,6 +1,0 @@
-name : 정지준
-age : 17
-email : c36lde75@random.com
-division : zf6
-telephone : 010-0-6106
-sex : mail

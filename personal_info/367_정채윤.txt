@@ -1,6 +1,0 @@
-name : 정채윤
-age : 03
-email : 4s20s149@random.com
-division : 9kk
-telephone : 010-7-9577
-sex : mail

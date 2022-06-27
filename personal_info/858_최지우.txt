@@ -1,6 +1,0 @@
-name : ÃÖÁö¿ì
-age : 94
-e-mail : phe1ggg9@bhban.com
-division : f63
-telephone : 010-5094-4050
-sex : female

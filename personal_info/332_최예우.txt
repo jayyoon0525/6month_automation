@@ -1,6 +1,0 @@
-name : ÃÖ¿¹¿ì
-age : 06
-e-mail : yyskza45@bhban.com
-division : uyr
-telephone : 010-8806-1088
-sex : male

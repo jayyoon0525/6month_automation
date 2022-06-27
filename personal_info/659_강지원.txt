@@ -1,6 +1,0 @@
-name : 강지원
-age : 68
-email : rpyozdno@random.com
-division : 1b2
-telephone : 010-3-5434
-sex : femail

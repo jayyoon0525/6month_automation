@@ -1,6 +1,0 @@
-name : Á¶¹Î¿¬
-age : 58
-e-mail : tgg0yofb@bhban.com
-division : 7os
-telephone : 010-1558-2315
-sex : male

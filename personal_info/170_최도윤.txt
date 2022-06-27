@@ -1,6 +1,0 @@
-name : 최도윤
-age : 56
-email : 1safuw3g@random.com
-division : mi6
-telephone : 010-9-5890
-sex : femail

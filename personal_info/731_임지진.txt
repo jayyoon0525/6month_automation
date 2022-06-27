@@ -1,6 +1,0 @@
-name : ÀÓÁöÁø
-age : 04
-e-mail : 78fes3v2@bhban.com
-division : et8
-telephone : 010-2804-3528
-sex : male

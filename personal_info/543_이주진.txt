@@ -1,6 +1,0 @@
-name : 이주진
-age : 05
-email : ewa0rr0r@random.com
-division : s3c
-telephone : 010-5-8952
-sex : femail

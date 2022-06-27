@@ -1,6 +1,0 @@
-name : 정주서
-age : 21
-email : nbwbyhoo@random.com
-division : 5mf
-telephone : 010-9-8699
-sex : femail

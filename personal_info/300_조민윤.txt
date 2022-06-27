@@ -1,6 +1,0 @@
-name : 조민윤
-age : 54
-email : lrzv31ss@random.com
-division : tfj
-telephone : 010-8-5687
-sex : femail

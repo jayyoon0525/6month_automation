@@ -1,6 +1,0 @@
-name : ¹ÚÇöÈÄ
-age : 62
-e-mail : iuih20rv@bhban.com
-division : pfb
-telephone : 010-3662-0336
-sex : female

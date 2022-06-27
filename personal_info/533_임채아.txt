@@ -1,6 +1,0 @@
-name : 임채아
-age : 74
-email : a1das4p2@random.com
-division : pkw
-telephone : 010-5-8353
-sex : mail

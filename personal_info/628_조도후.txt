@@ -1,6 +1,0 @@
-name : Á¶µµÈÄ
-age : 53
-e-mail : c05xbzyo@bhban.com
-division : zdn
-telephone : 010-4353-7743
-sex : male

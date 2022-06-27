@@ -1,6 +1,0 @@
-name : ±è¿¹¿ø
-age : 36
-e-mail : 8ueib7ff@bhban.com
-division : 2gv
-telephone : 010-9336-9093
-sex : male

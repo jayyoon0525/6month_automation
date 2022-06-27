@@ -1,6 +1,0 @@
-name : 박지아
-age : 04
-email : 6a3vkq89@random.com
-division : 6i9
-telephone : 010-2-0927
-sex : femail

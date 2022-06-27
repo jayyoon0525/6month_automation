@@ -1,6 +1,0 @@
-name : 정현서
-age : 17
-email : 7ziqipuh@random.com
-division : 4ex
-telephone : 010-8-7682
-sex : femail

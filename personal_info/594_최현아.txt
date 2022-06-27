@@ -1,6 +1,0 @@
-name : 최현아
-age : 45
-email : rylg44fk@random.com
-division : u4q
-telephone : 010-7-8174
-sex : mail

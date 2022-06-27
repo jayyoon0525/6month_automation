@@ -1,6 +1,0 @@
-name : 김지원
-age : 52
-email : 8atg8vde@random.com
-division : 9lx
-telephone : 010-2-8523
-sex : femail

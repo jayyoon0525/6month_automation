@@ -1,6 +1,0 @@
-name : À±Áö¼­
-age : 05
-e-mail : qahwaa0x@bhban.com
-division : 1at
-telephone : 010-1558-2315
-sex : male

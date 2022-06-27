@@ -1,6 +1,0 @@
-name : 장채원
-age : 28
-email : 409oemz6@random.com
-division : x5o
-telephone : 010-0-7203
-sex : mail

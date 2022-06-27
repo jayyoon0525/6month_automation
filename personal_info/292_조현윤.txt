@@ -1,6 +1,0 @@
-name : Á¶ÇöÀ±
-age : 24
-e-mail : 0yvpdp3s@bhban.com
-division : 1hr
-telephone : 010-9524-8395
-sex : female

@@ -1,6 +1,0 @@
-name : Á¶¹Î¿ì
-age : 03
-e-mail : 9ryg9nek@bhban.com
-division : wz7
-telephone : 010-1203-2112
-sex : female

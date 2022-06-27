@@ -1,6 +1,0 @@
-name : 윤지원
-age : 35
-email : dnfva1xb@random.com
-division : itj
-telephone : 010-1-1917
-sex : femail

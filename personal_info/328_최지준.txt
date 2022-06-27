@@ -1,6 +1,0 @@
-name : 최지준
-age : 23
-email : dnz3jha6@random.com
-division : vzf
-telephone : 010-8-7283
-sex : mail

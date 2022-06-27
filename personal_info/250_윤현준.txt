@@ -1,6 +1,0 @@
-name : À±ÇöÁØ
-age : 08
-e-mail : 5hug8xne@bhban.com
-division : 1lg
-telephone : 010-0108-6201
-sex : male

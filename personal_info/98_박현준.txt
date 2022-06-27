@@ -1,6 +1,0 @@
-name : 박현준
-age : 07
-email : i568lbcy@random.com
-division : pi7
-telephone : 010-1-4617
-sex : femail

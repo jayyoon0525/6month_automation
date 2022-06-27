@@ -1,6 +1,0 @@
-name : 정지아
-age : 19
-email : 5n4zff55@random.com
-division : r71
-telephone : 010-2-9022
-sex : femail

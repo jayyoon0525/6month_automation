@@ -1,6 +1,0 @@
-name : 정지아
-age : 56
-email : fc35a4ul@random.com
-division : lfm
-telephone : 010-8-4184
-sex : mail

@@ -1,6 +1,0 @@
-name : ¹ÚÁöÀº
-age : 23
-e-mail : ks4ywwzz@bhban.com
-division : 606
-telephone : 010-0723-3907
-sex : male

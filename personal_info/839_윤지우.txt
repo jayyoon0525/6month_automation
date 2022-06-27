@@ -1,6 +1,0 @@
-name : 윤지우
-age : 26
-email : 0lvimars@random.com
-division : 6cp
-telephone : 010-0-5308
-sex : mail

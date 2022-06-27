@@ -1,6 +1,0 @@
-name : 정윤은
-age : 25
-email : onqlqnhz@random.com
-division : 5r3
-telephone : 010-9-1299
-sex : mail

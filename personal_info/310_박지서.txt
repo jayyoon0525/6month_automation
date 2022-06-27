@@ -1,6 +1,0 @@
-name : 박지서
-age : 94
-email : lqq2gkap@random.com
-division : axb
-telephone : 010-8-6285
-sex : femail

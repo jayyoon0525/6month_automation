@@ -1,6 +1,0 @@
-name : 장주호
-age : 97
-email : mygw6sy2@random.com
-division : lch
-telephone : 010-7-9975
-sex : femail

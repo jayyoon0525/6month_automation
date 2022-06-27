@@ -1,6 +1,0 @@
-name : À±¹ÎÈÄ
-age : 42
-e-mail : kogateup@bhban.com
-division : vub
-telephone : 010-6142-1061
-sex : female

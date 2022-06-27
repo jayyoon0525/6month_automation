@@ -1,6 +1,0 @@
-name : 장채아
-age : 92
-email : 50s5huuv@random.com
-division : rkc
-telephone : 010-1-5414
-sex : femail

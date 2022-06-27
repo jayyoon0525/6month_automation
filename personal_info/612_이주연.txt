@@ -1,6 +1,0 @@
-name : 이주연
-age : 23
-email : 6qzj1ph4@random.com
-division : ju8
-telephone : 010-7-8274
-sex : mail

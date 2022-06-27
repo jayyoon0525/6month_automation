@@ -1,6 +1,0 @@
-name : �輭ȣ
-age : 45
-e-mail : e85p6sk3@bhban.com
-division : zl7
-telephone : 010-2245-5622
-sex : female

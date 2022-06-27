@@ -1,6 +1,0 @@
-name : 장민진
-age : 66
-email : kx2rs71a@random.com
-division : 0v5
-telephone : 010-4-0946
-sex : mail

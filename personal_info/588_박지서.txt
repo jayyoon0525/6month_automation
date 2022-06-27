@@ -1,6 +1,0 @@
-name : ¹ÚÁö¼­
-age : 63
-e-mail : fogme1z1@bhban.com
-division : 8h1
-telephone : 010-4963-5549
-sex : female

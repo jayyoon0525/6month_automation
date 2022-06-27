@@ -1,6 +1,0 @@
-name : 이현윤
-age : 79
-email : gre72gvy@random.com
-division : gvb
-telephone : 010-2-8027
-sex : femail

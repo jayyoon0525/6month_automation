@@ -1,6 +1,0 @@
-name : 정예진
-age : 14
-email : bd16lb2t@random.com
-division : wxa
-telephone : 010-2-3121
-sex : mail

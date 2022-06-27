@@ -1,6 +1,0 @@
-name : 김현준
-age : 02
-email : hnzfib8u@random.com
-division : j8h
-telephone : 010-1-8713
-sex : femail

@@ -1,6 +1,0 @@
-name : юсаЖаЬ
-age : 63
-e-mail : yxsm32z1@bhban.com
-division : 7kt
-telephone : 010-1363-8913
-sex : male

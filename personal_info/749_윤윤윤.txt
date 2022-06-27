@@ -1,6 +1,0 @@
-name : 윤윤윤
-age : 04
-email : xxqiytzz@random.com
-division : ob4
-telephone : 010-2-0920
-sex : femail

@@ -1,6 +1,0 @@
-name : Á¶¹Î¼­
-age : 99
-e-mail : iq8zylbt@bhban.com
-division : fzv
-telephone : 010-3099-4030
-sex : male

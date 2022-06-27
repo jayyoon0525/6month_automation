@@ -1,6 +1,0 @@
-name : 임민윤
-age : 33
-email : cwrdd9h8@random.com
-division : 18p
-telephone : 010-1-6811
-sex : femail

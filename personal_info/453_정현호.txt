@@ -1,6 +1,0 @@
-name : Á¤ÇöÈ£
-age : 93
-e-mail : i5c8midn@bhban.com
-division : ugf
-telephone : 010-6993-7869
-sex : male

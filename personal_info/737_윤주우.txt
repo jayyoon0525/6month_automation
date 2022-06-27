@@ -1,6 +1,0 @@
-name : 윤주우
-age : 19
-email : rhrgbjxt@random.com
-division : 0c8
-telephone : 010-2-9022
-sex : femail

@@ -1,6 +1,0 @@
-name : ±èÇÏ¿ì
-age : 04
-e-mail : tf08b0n3@bhban.com
-division : 9ib
-telephone : 010-2404-7624
-sex : female

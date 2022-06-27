@@ -1,6 +1,0 @@
-name : 임서준
-age : 57
-email : zjk3flw2@random.com
-division : q1o
-telephone : 010-1-3712
-sex : femail

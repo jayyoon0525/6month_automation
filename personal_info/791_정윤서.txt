@@ -1,6 +1,0 @@
-name : Á¤À±¼­
-age : 24
-e-mail : 54vh00i5@bhban.com
-division : 44z
-telephone : 010-1924-6819
-sex : male

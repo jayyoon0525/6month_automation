@@ -1,6 +1,0 @@
-name : 정주서
-age : 48
-email : ku9im3tp@random.com
-division : 5zq
-telephone : 010-9-8599
-sex : mail

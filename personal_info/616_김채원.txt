@@ -1,6 +1,0 @@
-name : 김채원
-age : 53
-email : 737y3bc0@random.com
-division : xuv
-telephone : 010-4-2941
-sex : mail

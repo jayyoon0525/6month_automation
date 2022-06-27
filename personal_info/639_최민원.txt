@@ -1,6 +1,0 @@
-name : 최민원
-age : 89
-email : v1h1pkxz@random.com
-division : tft
-telephone : 010-3-4237
-sex : mail

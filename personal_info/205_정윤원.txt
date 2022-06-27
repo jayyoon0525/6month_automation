@@ -1,6 +1,0 @@
-name : Á¤À±¿ø
-age : 75
-e-mail : 0c6iznlf@bhban.com
-division : 1op
-telephone : 010-8075-0380
-sex : female

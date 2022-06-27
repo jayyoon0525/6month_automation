@@ -1,6 +1,0 @@
-name : 장하후
-age : 82
-email : awk3o9yo@random.com
-division : he3
-telephone : 010-0-6604
-sex : mail

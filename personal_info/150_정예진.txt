@@ -1,6 +1,0 @@
-name : Á¤¿¹Áø
-age : 53
-e-mail : m0ynbhbe@bhban.com
-division : i82
-telephone : 010-1553-0815
-sex : male

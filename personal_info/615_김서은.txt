@@ -1,6 +1,0 @@
-name : 김서은
-age : 17
-email : tp1fcmxk@random.com
-division : w22
-telephone : 010-8-8284
-sex : femail

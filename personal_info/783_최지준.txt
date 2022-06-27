@@ -1,6 +1,0 @@
-name : 최지준
-age : 73
-email : b5zajzuy@random.com
-division : srt
-telephone : 010-1-2615
-sex : femail

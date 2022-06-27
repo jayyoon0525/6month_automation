@@ -1,6 +1,0 @@
-name : 장민연
-age : 74
-email : b7gkm07n@random.com
-division : 3cp
-telephone : 010-7-8978
-sex : femail

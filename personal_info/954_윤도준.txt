@@ -1,6 +1,0 @@
-name : ¿±µµ¡ÿ
-age : 25
-e-mail : qz9baswx@bhban.com
-division : ohn
-telephone : 010-9525-5795
-sex : male

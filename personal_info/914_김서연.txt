@@ -1,6 +1,0 @@
-name : 김서연
-age : 33
-email : km8zmm5y@random.com
-division : mtt
-telephone : 010-9-9397
-sex : mail

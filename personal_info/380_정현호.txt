@@ -1,6 +1,0 @@
-name : Á¤ÇöÈ£
-age : 83
-e-mail : 4f74thou@bhban.com
-division : q4l
-telephone : 010-8083-3780
-sex : male

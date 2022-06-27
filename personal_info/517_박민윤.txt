@@ -1,6 +1,0 @@
-name : ¹Ú¹ÎÀ±
-age : 98
-e-mail : rpvyvrs8@bhban.com
-division : ftt
-telephone : 010-6598-2165
-sex : female

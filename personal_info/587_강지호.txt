@@ -1,6 +1,0 @@
-name : 강지호
-age : 56
-email : 0iuck6xg@random.com
-division : 22c
-telephone : 010-3-8134
-sex : mail

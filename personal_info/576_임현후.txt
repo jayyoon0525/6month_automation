@@ -1,6 +1,0 @@
-name : ÀÓÇöÈÄ
-age : 25
-e-mail : hhgz4kzd@bhban.com
-division : fzd
-telephone : 010-5125-4851
-sex : female

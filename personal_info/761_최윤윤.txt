@@ -1,6 +1,0 @@
-name : 최윤윤
-age : 84
-email : pz2zx8x5@random.com
-division : dgi
-telephone : 010-5-9151
-sex : mail

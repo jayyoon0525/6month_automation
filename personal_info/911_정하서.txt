@@ -1,6 +1,0 @@
-name : Á¤ÇÏ¼­
-age : 94
-e-mail : fp5ibf0f@bhban.com
-division : 6wk
-telephone : 010-0194-3301
-sex : female

@@ -1,6 +1,0 @@
-name : 강주우
-age : 54
-email : rfw2um55@random.com
-division : qyt
-telephone : 010-3-8832
-sex : femail

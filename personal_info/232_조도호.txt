@@ -1,6 +1,0 @@
-name : Á¶µµÈ£
-age : 77
-e-mail : rnh5grki@bhban.com
-division : a8o
-telephone : 010-0377-5203
-sex : male

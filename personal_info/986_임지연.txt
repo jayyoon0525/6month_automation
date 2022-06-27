@@ -1,6 +1,0 @@
-name : 임지연
-age : 32
-email : jb44pqtv@random.com
-division : tiy
-telephone : 010-6-0468
-sex : femail

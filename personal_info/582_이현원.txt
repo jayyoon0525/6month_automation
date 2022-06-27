@@ -1,6 +1,0 @@
-name : 이현원
-age : 17
-email : b6bl28h3@random.com
-division : 370
-telephone : 010-4-1146
-sex : femail

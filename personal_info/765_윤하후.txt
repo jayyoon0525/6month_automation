@@ -1,6 +1,0 @@
-name : 윤하후
-age : 13
-email : 38ikf4uo@random.com
-division : g4h
-telephone : 010-1-1618
-sex : femail

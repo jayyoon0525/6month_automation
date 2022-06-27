@@ -1,6 +1,0 @@
-name : Á¤Ã¤È£
-age : 48
-e-mail : kkk2vqh9@bhban.com
-division : x61
-telephone : 010-8348-2783
-sex : male

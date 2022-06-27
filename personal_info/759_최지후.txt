@@ -1,6 +1,0 @@
-name : 최지후
-age : 65
-email : lnmn5v86@random.com
-division : os4
-telephone : 010-1-1418
-sex : femail

@@ -1,6 +1,0 @@
-name : ±Ë«œ¿±
-age : 45
-e-mail : t0b5gwwd@bhban.com
-division : 8nl
-telephone : 010-9045-7590
-sex : female

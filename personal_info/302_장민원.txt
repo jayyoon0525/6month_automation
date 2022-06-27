@@ -1,6 +1,0 @@
-name : Àå¹Î¿ø
-age : 39
-e-mail : rxcqvu4i@bhban.com
-division : z1w
-telephone : 010-8939-0889
-sex : male

@@ -1,6 +1,0 @@
-name : Á¶¼­À±
-age : 05
-e-mail : 4zh39via@bhban.com
-division : grz
-telephone : 010-2705-6527
-sex : female

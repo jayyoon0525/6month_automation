@@ -1,6 +1,0 @@
-name : 이지준
-age : 23
-email : usav056s@random.com
-division : f6r
-telephone : 010-0-9404
-sex : mail

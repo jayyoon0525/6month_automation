@@ -1,6 +1,0 @@
-name : ¿±¡÷º≠
-age : 47
-e-mail : n7yo1gmu@bhban.com
-division : phd
-telephone : 010-0647-4206
-sex : female

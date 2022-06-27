@@ -1,6 +1,0 @@
-name : 임현서
-age : 43
-email : 6d8agn1m@random.com
-division : kh8
-telephone : 010-5-6159
-sex : mail

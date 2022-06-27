@@ -1,6 +1,0 @@
-name : À±µµÈ£
-age : 39
-e-mail : hwfhue4e@bhban.com
-division : uel
-telephone : 010-9339-6493
-sex : male

@@ -1,6 +1,0 @@
-name : 김민우
-age : 44
-email : go8j9n0i@random.com
-division : i7e
-telephone : 010-1-.819
-sex : femail

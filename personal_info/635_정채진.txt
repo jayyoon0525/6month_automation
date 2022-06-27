@@ -1,6 +1,0 @@
-name : 정채진
-age : 74
-email : pla4cc5x@random.com
-division : fa2
-telephone : 010-3-3938
-sex : mail

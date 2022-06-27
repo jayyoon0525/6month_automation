@@ -1,6 +1,0 @@
-name : ÀÌ¹Î¿ø
-age : 18
-e-mail : q371csht@bhban.com
-division : a9g
-telephone : 010-6218-0762
-sex : female

@@ -1,6 +1,0 @@
-name : Á¤À±¾Æ
-age : 81
-e-mail : gd7nf42k@bhban.com
-division : xyc
-telephone : 010-9581-5595
-sex : male

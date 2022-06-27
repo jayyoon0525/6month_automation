@@ -1,6 +1,0 @@
-name : 강하진
-age : 17
-email : zp3sixq8@random.com
-division : c45
-telephone : 010-0-8307
-sex : mail

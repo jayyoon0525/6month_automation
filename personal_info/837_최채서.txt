@@ -1,6 +1,0 @@
-name : 최채서
-age : 53
-email : vssb8bh1@random.com
-division : uuo
-telephone : 010-0-5208
-sex : mail

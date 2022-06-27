@@ -1,6 +1,0 @@
-name : юсаЖ╪╜
-age : 27
-e-mail : 3yrox326@bhban.com
-division : hsh
-telephone : 010-1127-2411
-sex : male

@@ -1,6 +1,0 @@
-name : 임채연
-age : 43
-email : ylei2s7r@random.com
-division : hbe
-telephone : 010-2-.823
-sex : femail

@@ -1,6 +1,0 @@
-name : юлгохё
-age : 35
-e-mail : nzba064u@bhban.com
-division : 3q5
-telephone : 010-7235-6972
-sex : male

@@ -1,6 +1,0 @@
-name : ±èµµ¾Æ
-age : 65
-e-mail : q1go3ihc@bhban.com
-division : bvx
-telephone : 010-5765-2457
-sex : male

@@ -1,6 +1,0 @@
-name : ÃÖ¹Î¿¬
-age : 56
-e-mail : va0b16xn@bhban.com
-division : 1b7
-telephone : 010-5056-0450
-sex : female

@@ -1,6 +1,0 @@
-name : 강예연
-age : 01
-email : sxxubooi@random.com
-division : egx
-telephone : 010-8-2888
-sex : mail

@@ -1,6 +1,0 @@
-name : ¹Ú¹ÎÀº
-age : 82
-e-mail : vd2vizis@bhban.com
-division : 4o1
-telephone : 010-2482-7324
-sex : female

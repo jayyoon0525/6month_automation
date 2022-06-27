@@ -1,6 +1,0 @@
-name : 조채후
-age : 13
-email : ddqfjb2b@random.com
-division : 7ue
-telephone : 010-2-9424
-sex : femail

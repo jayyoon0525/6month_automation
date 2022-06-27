@@ -1,6 +1,0 @@
-name : 최예원
-age : 04
-email : 0uc0kgq1@random.com
-division : fv0
-telephone : 010-0-5009
-sex : mail

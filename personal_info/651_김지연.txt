@@ -1,6 +1,0 @@
-name : ±èÁö¿¬
-age : 05
-e-mail : 1ssnc8wa@bhban.com
-division : 1xb
-telephone : 010-4005-9040
-sex : female

@@ -1,6 +1,0 @@
-name : Á¶Áö¿ì
-age : 66
-e-mail : npzmyr5o@bhban.com
-division : pm3
-telephone : 010-4032-8940
-sex : male

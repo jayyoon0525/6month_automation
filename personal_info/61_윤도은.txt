@@ -1,6 +1,0 @@
-name : 윤도은
-age : 95
-email : 8dpuu6a5@random.com
-division : 96w
-telephone : 010-2-2422
-sex : femail

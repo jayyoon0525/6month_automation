@@ -1,6 +1,0 @@
-name : ¿Ã¿±»£
-age : 35
-e-mail : hz1f6ezt@bhban.com
-division : wr5
-telephone : 010-3335-4133
-sex : male

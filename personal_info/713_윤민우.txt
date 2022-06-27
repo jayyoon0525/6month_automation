@@ -1,6 +1,0 @@
-name : 윤민우
-age : 95
-email : 44n78jr7@random.com
-division : 7mm
-telephone : 010-2-8725
-sex : femail

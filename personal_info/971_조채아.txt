@@ -1,6 +1,0 @@
-name : Á¶Ã¤¾Æ
-age : 85
-e-mail : clrr879m@bhban.com
-division : q5z
-telephone : 010-9285-6692
-sex : male

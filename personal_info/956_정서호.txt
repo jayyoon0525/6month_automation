@@ -1,6 +1,0 @@
-name : 정서호
-age : 98
-email : pprmo3nf@random.com
-division : sfl
-telephone : 010-8-3286
-sex : mail

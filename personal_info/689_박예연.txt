@@ -1,6 +1,0 @@
-name : 박예연
-age : 99
-email : d706vt0v@random.com
-division : x0u
-telephone : 010-2-8722
-sex : femail

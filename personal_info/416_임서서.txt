@@ -1,6 +1,0 @@
-name : 임서서
-age : 85
-email : zstwcnqc@random.com
-division : rzr
-telephone : 010-6-2269
-sex : femail

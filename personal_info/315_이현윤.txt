@@ -1,6 +1,0 @@
-name : 이현윤
-age : 06
-email : ji9f9y4s@random.com
-division : 32g
-telephone : 010-8-6585
-sex : femail

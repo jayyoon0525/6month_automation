@@ -1,6 +1,0 @@
-name : 박윤연
-age : 72
-email : b8ybv4u5@random.com
-division : mgv
-telephone : 010-1-.714
-sex : femail

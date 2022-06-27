@@ -1,6 +1,0 @@
-name : юсаЖю╨
-age : 39
-e-mail : vpy2f4oh@bhban.com
-division : eys
-telephone : 010-8539-2385
-sex : male

@@ -1,6 +1,0 @@
-name : 김윤호
-age : 95
-email : 4p670fhz@random.com
-division : bt6
-telephone : 010-9-0294
-sex : mail

@@ -1,6 +1,0 @@
-name : ±èÃ¤¿ø
-age : 24
-e-mail : hndb18gb@bhban.com
-division : 6ys
-telephone : 010-9524-8395
-sex : female

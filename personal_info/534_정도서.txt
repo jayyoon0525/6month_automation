@@ -1,6 +1,0 @@
-name : Á¤µµ¼­
-age : 35
-e-mail : x7b4fyo9@bhban.com
-division : god
-telephone : 010-5735-2557
-sex : male

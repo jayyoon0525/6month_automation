@@ -1,6 +1,0 @@
-name : 임민아
-age : 98
-email : utk7fsna@random.com
-division : aim
-telephone : 010-9-3991
-sex : mail

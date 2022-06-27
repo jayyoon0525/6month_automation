@@ -1,6 +1,0 @@
-name : 최지준
-age : 27
-email : sqwcm0uo@random.com
-division : hhd
-telephone : 010-2-8227
-sex : mail

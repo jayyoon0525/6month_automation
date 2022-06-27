@@ -1,6 +1,0 @@
-name : 김현후
-age : 06
-email : 40gqjgwv@random.com
-division : xwy
-telephone : 010-2-6828
-sex : mail

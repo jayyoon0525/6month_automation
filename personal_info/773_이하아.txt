@@ -1,6 +1,0 @@
-name : юлго╬ф
-age : 19
-e-mail : 84hrenp1@bhban.com
-division : rrc
-telephone : 010-8219-3582
-sex : male

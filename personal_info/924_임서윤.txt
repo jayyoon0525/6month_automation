@@ -1,6 +1,0 @@
-name : 임서윤
-age : 96
-email : uv2unm1s@random.com
-division : vgg
-telephone : 010-9-.998
-sex : femail

@@ -1,6 +1,0 @@
-name : ÃÖÀ±ÈÄ
-age : 35
-e-mail : of2iubni@bhban.com
-division : 7x6
-telephone : 010-0035-3900
-sex : male

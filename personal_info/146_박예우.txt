@@ -1,6 +1,0 @@
-name : 박예우
-age : 76
-email : rwu0us8l@random.com
-division : n1h
-telephone : 010-0-7708
-sex : femail

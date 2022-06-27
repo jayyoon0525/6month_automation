@@ -1,6 +1,0 @@
-name : ю╠аж╬ф
-age : 12
-e-mail : syzh7h1k@bhban.com
-division : zzp
-telephone : 010-8512-2185
-sex : female

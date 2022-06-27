@@ -1,6 +1,0 @@
-name : 조서아
-age : 08
-email : lo1bxs7s@random.com
-division : ylm
-telephone : 010-5-.954
-sex : femail

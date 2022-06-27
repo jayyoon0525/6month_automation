@@ -1,6 +1,0 @@
-name : 임민은
-age : 65
-email : 410yigtf@random.com
-division : vqa
-telephone : 010-2-8825
-sex : mail

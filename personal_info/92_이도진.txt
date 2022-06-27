@@ -1,6 +1,0 @@
-name : 이도진
-age : 79
-email : ngf7sg27@random.com
-division : nac
-telephone : 010-3-5431
-sex : femail

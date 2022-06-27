@@ -1,6 +1,0 @@
-name : 장지호
-age : 52
-email : qxdgckft@random.com
-division : bkq
-telephone : 010-7-1272
-sex : femail

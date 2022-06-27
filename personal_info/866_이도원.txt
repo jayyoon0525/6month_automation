@@ -1,6 +1,0 @@
-name : ÀÌµµ¿ø
-age : 34
-e-mail : 0rtmc3k8@bhban.com
-division : g8i
-telephone : 010-0834-0908
-sex : male

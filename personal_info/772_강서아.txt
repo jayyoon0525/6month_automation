@@ -1,6 +1,0 @@
-name : 강서아
-age : 05
-email : sp85hrs5@random.com
-division : wsr
-telephone : 010-1-2017
-sex : mail

@@ -1,6 +1,0 @@
-name : ÀåÁöÈÄ
-age : 48
-e-mail : enniy7zs@bhban.com
-division : 6kp
-telephone : 010-0248-3102
-sex : male

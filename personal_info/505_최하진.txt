@@ -1,6 +1,0 @@
-name : 최하진
-age : 76
-email : vwdthn5h@random.com
-division : h0o
-telephone : 010-8-7685
-sex : mail

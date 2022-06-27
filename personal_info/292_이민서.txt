@@ -1,6 +1,0 @@
-name : 이민서
-age : 86
-email : 1ini9l8p@random.com
-division : of4
-telephone : 010-8-5188
-sex : mail

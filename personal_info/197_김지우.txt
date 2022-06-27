@@ -1,6 +1,0 @@
-name : ±èÁö¿ì
-age : 84
-e-mail : ho1ef5y5@bhban.com
-division : 8v6
-telephone : 010-0884-3308
-sex : male

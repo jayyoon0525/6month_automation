@@ -1,6 +1,0 @@
-name : ±èÇö¿ø
-age : 35
-e-mail : hqzyl54h@bhban.com
-division : i0n
-telephone : 010-1235-2012
-sex : female

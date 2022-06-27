@@ -1,6 +1,0 @@
-name : Á¶¼­¾Æ
-age : 71
-e-mail : 7cud6tgz@bhban.com
-division : qnf
-telephone : 010-6571-2265
-sex : female

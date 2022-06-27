@@ -1,6 +1,0 @@
-name : 최주진
-age : 16
-email : rmv6oia5@random.com
-division : t6o
-telephone : 010-9-2795
-sex : femail

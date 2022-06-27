@@ -1,6 +1,0 @@
-name : �輭ȣ
-age : 39
-e-mail : bp4skp8s@bhban.com
-division : ozo
-telephone : 010-8139-3881
-sex : male

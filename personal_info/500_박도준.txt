@@ -1,6 +1,0 @@
-name : 박도준
-age : 13
-email : 2nz190pn@random.com
-division : omo
-telephone : 010-5-6658
-sex : femail

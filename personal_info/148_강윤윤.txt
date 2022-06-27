@@ -1,6 +1,0 @@
-name : 강윤윤
-age : 52
-email : pgqzxj35@random.com
-division : la1
-telephone : 010-0-7808
-sex : mail

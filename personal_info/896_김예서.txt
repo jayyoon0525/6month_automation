@@ -1,6 +1,0 @@
-name : ±è¿¹¼­
-age : 05
-e-mail : wiessipc@bhban.com
-division : sab
-telephone : 010-0405-2504
-sex : female

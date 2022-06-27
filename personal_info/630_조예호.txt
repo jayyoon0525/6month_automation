@@ -1,6 +1,0 @@
-name : Á¶¿¹È£
-age : 33
-e-mail : 65sl1uxn@bhban.com
-division : 37r
-telephone : 010-8433-2784
-sex : female

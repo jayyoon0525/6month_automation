@@ -1,6 +1,0 @@
-name : 조서우
-age : 14
-email : tmhef0ni@random.com
-division : d86
-telephone : 010-1-5315
-sex : mail

@@ -1,6 +1,0 @@
-name : ±è¿¹¿ì
-age : 68
-e-mail : 54av074z@bhban.com
-division : 01q
-telephone : 010-9468-8594
-sex : female

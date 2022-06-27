@@ -1,6 +1,0 @@
-name : À±Ã¤Àº
-age : 52
-e-mail : dv27sih6@bhban.com
-division : ilt
-telephone : 010-6252-0662
-sex : male

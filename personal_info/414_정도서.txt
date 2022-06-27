@@ -1,6 +1,0 @@
-name : Á¤µµ¼­
-age : 58
-e-mail : 0u5tc95w@bhban.com
-division : g6z
-telephone : 010-6758-1567
-sex : male

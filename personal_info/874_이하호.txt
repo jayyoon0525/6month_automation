@@ -1,6 +1,0 @@
-name : юлгохё
-age : 23
-e-mail : 2mhwe4um@bhban.com
-division : uza
-telephone : 010-0723-1307
-sex : female

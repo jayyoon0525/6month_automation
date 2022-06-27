@@ -1,6 +1,0 @@
-name : ÀåµµÈÄ
-age : 11
-e-mail : 06g33n34@bhban.com
-division : l3o
-telephone : 010-1211-3612
-sex : female

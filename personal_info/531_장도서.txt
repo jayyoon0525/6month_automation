@@ -1,6 +1,0 @@
-name : 장도서
-age : 03
-email : 30g6m56x@random.com
-division : ype
-telephone : 010-5-8254
-sex : femail

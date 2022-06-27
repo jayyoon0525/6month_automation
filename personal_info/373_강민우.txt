@@ -1,6 +1,0 @@
-name : 강민우
-age : 24
-email : bgzg70t6@random.com
-division : bsp
-telephone : 010-7-9876
-sex : femail

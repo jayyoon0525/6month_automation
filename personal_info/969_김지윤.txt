@@ -1,6 +1,0 @@
-name : ±Ë¡ˆ¿±
-age : 12
-e-mail : ngrna6z8@bhban.com
-division : dzv
-telephone : 010-9312-6593
-sex : female

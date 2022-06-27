@@ -1,6 +1,0 @@
-name : 윤도윤
-age : 95
-email : 2w1zxk8n@random.com
-division : hig
-telephone : 010-1-6119
-sex : mail

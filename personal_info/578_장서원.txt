@@ -1,6 +1,0 @@
-name : Àå¼­¿ø
-age : 93
-e-mail : my08lo8y@bhban.com
-division : eqz
-telephone : 010-5093-4950
-sex : female

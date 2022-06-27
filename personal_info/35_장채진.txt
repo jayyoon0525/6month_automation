@@ -1,6 +1,0 @@
-name : 장채진
-age : 56
-email : ush22qyg@random.com
-division : j9e
-telephone : 010-2-0727
-sex : femail

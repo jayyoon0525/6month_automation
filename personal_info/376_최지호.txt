@@ -1,6 +1,0 @@
-name : 최지호
-age : 97
-email : z3z9bk21@random.com
-division : 8g5
-telephone : 010-7-9975
-sex : mail

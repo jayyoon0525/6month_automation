@@ -1,6 +1,0 @@
-name : 장지은
-age : 04
-email : qtfl2qoy@random.com
-division : pkt
-telephone : 010-0-9105
-sex : mail

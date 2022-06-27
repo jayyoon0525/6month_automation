@@ -1,6 +1,0 @@
-name : 이주원
-age : 77
-email : wczvhjay@random.com
-division : j3b
-telephone : 010-5-7954
-sex : mail

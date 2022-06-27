@@ -1,6 +1,0 @@
-name : 조지서
-age : 98
-email : gqscp2h6@random.com
-division : h8x
-telephone : 010-8-3286
-sex : femail

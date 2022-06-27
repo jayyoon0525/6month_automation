@@ -1,6 +1,0 @@
-name : 강채호
-age : 46
-email : scnfbcmp@random.com
-division : k4r
-telephone : 010-8-7582
-sex : mail

@@ -1,6 +1,0 @@
-name : 윤윤원
-age : 95
-email : quc698b2@random.com
-division : lkr
-telephone : 010-7-5371
-sex : femail

@@ -1,6 +1,0 @@
-name : นฺนฮมุ
-age : 37
-e-mail : 4el3095d@bhban.com
-division : 3w7
-telephone : 010-0137-6101
-sex : female

@@ -1,6 +1,0 @@
-name : ¹ÚÁöÁø
-age : 18
-e-mail : xhffnb01@bhban.com
-division : kwe
-telephone : 010-2218-8322
-sex : male

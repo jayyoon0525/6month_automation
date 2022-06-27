@@ -1,6 +1,0 @@
-name : 임하우
-age : 64
-email : 6cc7kkxi@random.com
-division : 8z2
-telephone : 010-7-0873
-sex : femail

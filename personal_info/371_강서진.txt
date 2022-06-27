@@ -1,6 +1,0 @@
-name : 강서진
-age : 65
-email : zfhoykqn@random.com
-division : m3q
-telephone : 010-7-6977
-sex : mail

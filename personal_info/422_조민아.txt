@@ -1,6 +1,0 @@
-name : 조민아
-age : 06
-email : 8k5duaz4@random.com
-division : 084
-telephone : 010-6-2569
-sex : femail

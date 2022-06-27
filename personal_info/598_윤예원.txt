@@ -1,6 +1,0 @@
-name : À±¿¹¿ø
-age : 04
-e-mail : pqawckah@bhban.com
-division : 5ce
-telephone : 010-4804-6048
-sex : male

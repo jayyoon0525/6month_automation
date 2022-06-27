@@ -1,6 +1,0 @@
-name : 임채진
-age : 43
-email : zcs54sj5@random.com
-division : swg
-telephone : 010-3-9630
-sex : mail

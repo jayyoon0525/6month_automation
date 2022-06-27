@@ -1,6 +1,0 @@
-name : 장예윤
-age : 86
-email : 8z0lkqq0@random.com
-division : hx7
-telephone : 010-9-9899
-sex : femail

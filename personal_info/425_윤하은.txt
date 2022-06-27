@@ -1,6 +1,0 @@
-name : 윤하은
-age : 88
-email : qdca6nm5@random.com
-division : 6nc
-telephone : 010-6-7266
-sex : femail

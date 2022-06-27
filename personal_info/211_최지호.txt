@@ -1,6 +1,0 @@
-name : 최지호
-age : 74
-email : wcpw4zxn@random.com
-division : 2iy
-telephone : 010-9-1099
-sex : mail

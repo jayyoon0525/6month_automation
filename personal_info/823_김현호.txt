@@ -1,6 +1,0 @@
-name : ±èÇöÈ£
-age : 47
-e-mail : f573i23q@bhban.com
-division : u7c
-telephone : 010-5147-3851
-sex : male

@@ -1,6 +1,0 @@
-name : 최지은
-age : 47
-email : bnduy0qh@random.com
-division : 4xc
-telephone : 010-6-3167
-sex : mail

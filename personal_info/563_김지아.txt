@@ -1,6 +1,0 @@
-name : 김지아
-age : 91
-email : jdh8l50t@random.com
-division : zjb
-telephone : 010-0-8004
-sex : femail

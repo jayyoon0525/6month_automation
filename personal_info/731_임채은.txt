@@ -1,6 +1,0 @@
-name : 임채은
-age : 96
-email : h571nntk@random.com
-division : z0t
-telephone : 010-2-9822
-sex : mail

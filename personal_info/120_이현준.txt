@@ -1,6 +1,0 @@
-name : ภฬว๖มุ
-age : 73
-e-mail : 76an6adl@bhban.com
-division : c5y
-telephone : 010-1973-9219
-sex : female

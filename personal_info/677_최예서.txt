@@ -1,6 +1,0 @@
-name : 최예서
-age : 78
-email : 06w1dars@random.com
-division : e67
-telephone : 010-3-6531
-sex : mail

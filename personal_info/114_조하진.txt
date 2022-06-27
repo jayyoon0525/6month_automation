@@ -1,6 +1,0 @@
-name : 조하진
-age : 92
-email : x3unhicc@random.com
-division : iq9
-telephone : 010-1-5414
-sex : mail

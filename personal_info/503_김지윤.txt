@@ -1,6 +1,0 @@
-name : ±Ë¡ˆ¿±
-age : 18
-e-mail : 12iy35hy@bhban.com
-division : c4f
-telephone : 010-6218-0762
-sex : female

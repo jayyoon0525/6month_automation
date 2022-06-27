@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿ì
-age : 75
-e-mail : vg6zs2e4@bhban.com
-division : 6sn
-telephone : 010-2475-2624
-sex : male

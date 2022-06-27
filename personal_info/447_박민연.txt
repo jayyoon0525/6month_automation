@@ -1,6 +1,0 @@
-name : 박민연
-age : 59
-email : u0645t5r@random.com
-division : c3t
-telephone : 010-7-7376
-sex : mail

@@ -1,6 +1,0 @@
-name : ÀåÃ¤¿ø
-age : 66
-e-mail : y1s2capk@bhban.com
-division : v4u
-telephone : 010-6966-7969
-sex : male

@@ -1,6 +1,0 @@
-name : 김도연
-age : 42
-email : vhjeg87l@random.com
-division : v9l
-telephone : 010-5-6558
-sex : femail

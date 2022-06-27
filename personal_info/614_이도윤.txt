@@ -1,6 +1,0 @@
-name : 이도윤
-age : 17
-email : lbtx6a16@random.com
-division : fao
-telephone : 010-8-8284
-sex : femail

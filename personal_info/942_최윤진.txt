@@ -1,6 +1,0 @@
-name : 최윤진
-age : 11
-email : slyzi9ex@random.com
-division : kmb
-telephone : 010-8-2489
-sex : femail

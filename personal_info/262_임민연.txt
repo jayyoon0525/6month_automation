@@ -1,6 +1,0 @@
-name : 임민연
-age : 78
-email : dyexb426@random.com
-division : 0h1
-telephone : 010-9-3692
-sex : femail

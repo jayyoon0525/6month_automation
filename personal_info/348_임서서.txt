@@ -1,6 +1,0 @@
-name : 임서서
-age : 82
-email : ws60ij7x@random.com
-division : dwr
-telephone : 010-7-8579
-sex : femail

@@ -1,6 +1,0 @@
-name : 임도원
-age : 77
-email : ytc3uch2@random.com
-division : z0c
-telephone : 010-5-7954
-sex : mail

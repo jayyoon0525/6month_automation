@@ -1,6 +1,0 @@
-name : 이현우
-age : 06
-email : 85if8tvh@random.com
-division : 68v
-telephone : 010-7-7576
-sex : femail

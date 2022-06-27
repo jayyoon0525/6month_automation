@@ -1,6 +1,0 @@
-name : 윤채연
-age : 95
-email : 6zs7wvvk@random.com
-division : nzc
-telephone : 010-2-8326
-sex : femail

@@ -1,6 +1,0 @@
-name : 강지진
-age : 82
-email : hvau8zj1@random.com
-division : f2v
-telephone : 010-0-5108
-sex : mail

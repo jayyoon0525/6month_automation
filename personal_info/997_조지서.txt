@@ -1,6 +1,0 @@
-name : 조지서
-age : 93
-email : xqx2zu2y@random.com
-division : bof
-telephone : 010-8-5181
-sex : mail

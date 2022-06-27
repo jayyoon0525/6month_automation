@@ -1,6 +1,0 @@
-name : 강지서
-age : 58
-email : onk0nwc6@random.com
-division : zmh
-telephone : 010-1-6312
-sex : mail

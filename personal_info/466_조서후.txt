@@ -1,6 +1,0 @@
-name : Á¶¼­ÈÄ
-age : 04
-e-mail : ofaodqa0@bhban.com
-division : vgp
-telephone : 010-6804-8568
-sex : female

@@ -1,6 +1,0 @@
-name : ¹ÚÀ±Áø
-age : 83
-e-mail : lykrq4f4@bhban.com
-division : lsw
-telephone : 010-2083-8820
-sex : male

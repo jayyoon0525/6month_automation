@@ -1,6 +1,0 @@
-name : 조하우
-age : 02
-email : pdqxnf6e@random.com
-division : pe7
-telephone : 010-8-4384
-sex : mail

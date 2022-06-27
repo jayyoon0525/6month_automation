@@ -1,6 +1,0 @@
-name : 조지진
-age : 24
-email : 696i566e@random.com
-division : 2n8
-telephone : 010-3-6731
-sex : mail

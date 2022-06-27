@@ -1,6 +1,0 @@
-name : 이도윤
-age : 75
-email : zk15clef@random.com
-division : t55
-telephone : 010-1-1019
-sex : femail

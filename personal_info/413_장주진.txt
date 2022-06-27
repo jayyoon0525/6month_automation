@@ -1,6 +1,0 @@
-name : 장주진
-age : 11
-email : op399181@random.com
-division : lw0
-telephone : 010-7-2170
-sex : mail

@@ -1,6 +1,0 @@
-name : 최예은
-age : 42
-email : ndqvd45n@random.com
-division : 6ty
-telephone : 010-2-0022
-sex : femail

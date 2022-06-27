@@ -1,6 +1,0 @@
-name : 임서진
-age : 16
-email : o1tff949@random.com
-division : s8e
-telephone : 010-5-.550
-sex : mail

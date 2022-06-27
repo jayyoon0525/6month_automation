@@ -1,6 +1,0 @@
-name : ÃÖÁö¿ø
-age : 44
-e-mail : dlnb9w28@bhban.com
-division : guv
-telephone : 010-3044-2630
-sex : male

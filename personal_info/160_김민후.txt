@@ -1,6 +1,0 @@
-name : 김민후
-age : 69
-email : o5u4zaex@random.com
-division : d11
-telephone : 010-4-5840
-sex : mail

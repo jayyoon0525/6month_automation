@@ -1,6 +1,0 @@
-name : 장하윤
-age : 69
-email : nln6pbqt@random.com
-division : yuk
-telephone : 010-1-6219
-sex : mail

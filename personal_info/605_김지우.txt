@@ -1,6 +1,0 @@
-name : 김지우
-age : 32
-email : o5phgmka@random.com
-division : 0jl
-telephone : 010-2-8224
-sex : femail

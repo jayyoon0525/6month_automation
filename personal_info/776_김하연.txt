@@ -1,6 +1,0 @@
-name : ±èÇÏ¿¬
-age : 38
-e-mail : 3ivcf4q7@bhban.com
-division : u08
-telephone : 010-2138-6021
-sex : female

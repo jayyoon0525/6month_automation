@@ -1,6 +1,0 @@
-name : ÀåÇö¿ø
-age : 05
-e-mail : gq3ve4b3@bhban.com
-division : oi4
-telephone : 010-8005-4080
-sex : male

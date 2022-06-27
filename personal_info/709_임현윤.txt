@@ -1,6 +1,0 @@
-name : 임현윤
-age : 69
-email : ysm3v1lg@random.com
-division : 9ei
-telephone : 010-2-8426
-sex : mail

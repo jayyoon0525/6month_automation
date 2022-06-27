@@ -1,6 +1,0 @@
-name : ¹ÚÇö¿¬
-age : 53
-e-mail : hime3s3c@bhban.com
-division : 3xf
-telephone : 010-1553-0815
-sex : female

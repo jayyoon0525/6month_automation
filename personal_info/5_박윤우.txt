@@ -1,6 +1,0 @@
-name : 박윤우
-age : 39
-email : ihmhryy1@random.com
-division : 5c9
-telephone : 010-3-8932
-sex : femail

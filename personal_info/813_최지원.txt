@@ -1,6 +1,0 @@
-name : 최지원
-age : 47
-email : qhwph023@random.com
-division : 7h9
-telephone : 010-1-4111
-sex : femail

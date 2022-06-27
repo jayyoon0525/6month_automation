@@ -1,6 +1,0 @@
-name : 강도원
-age : 26
-email : n2q6r35z@random.com
-division : g5d
-telephone : 010-8-4284
-sex : mail

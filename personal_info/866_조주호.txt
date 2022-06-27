@@ -1,6 +1,0 @@
-name : 조주호
-age : 47
-email : 6gtw28ku@random.com
-division : yxx
-telephone : 010-7-9670
-sex : femail

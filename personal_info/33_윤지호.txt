@@ -1,6 +1,0 @@
-name : 윤지호
-age : 78
-email : v1z1jjxl@random.com
-division : 3x7
-telephone : 010-2-0627
-sex : femail

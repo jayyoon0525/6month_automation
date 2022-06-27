@@ -1,6 +1,0 @@
-name : À±Ã¤À±
-age : 38
-e-mail : sm6e44fg@bhban.com
-division : r3r
-telephone : 010-3738-0037
-sex : female

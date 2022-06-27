@@ -1,6 +1,0 @@
-name : 강하서
-age : 03
-email : 03iq9qvs@random.com
-division : k33
-telephone : 010-9-6090
-sex : mail

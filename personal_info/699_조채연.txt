@@ -1,6 +1,0 @@
-name : 조채연
-age : 83
-email : qe9u1xum@random.com
-division : gfd
-telephone : 010-8-8782
-sex : femail

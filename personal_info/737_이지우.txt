@@ -1,6 +1,0 @@
-name : юлаЖ©Л
-age : 26
-e-mail : t19cfcfe@bhban.com
-division : 64o
-telephone : 010-2726-3827
-sex : male

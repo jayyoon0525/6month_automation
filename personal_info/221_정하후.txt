@@ -1,6 +1,0 @@
-name : а╓гохд
-age : 12
-e-mail : p930t1c6@bhban.com
-division : zz3
-telephone : 010-0512-4705
-sex : female

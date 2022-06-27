@@ -1,6 +1,0 @@
-name : юлгоаЬ
-age : 56
-e-mail : vbtzzwd7@bhban.com
-division : o24
-telephone : 010-3956-9239
-sex : male

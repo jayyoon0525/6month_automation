@@ -1,6 +1,0 @@
-name : ¿Âº≠¿±
-age : 66
-e-mail : m3ga9el5@bhban.com
-division : kpc
-telephone : 010-0966-0409
-sex : male

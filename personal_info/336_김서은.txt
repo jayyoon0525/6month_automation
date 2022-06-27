@@ -1,6 +1,0 @@
-name : 김서은
-age : 95
-email : 05frklak@random.com
-division : xgv
-telephone : 010-8-7781
-sex : mail

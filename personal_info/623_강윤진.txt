@@ -1,6 +1,0 @@
-name : 강윤진
-age : 26
-email : j0sm56n4@random.com
-division : lt5
-telephone : 010-4-3340
-sex : mail

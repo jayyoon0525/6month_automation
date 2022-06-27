@@ -1,6 +1,0 @@
-name : À±Çö¿ì
-age : 96
-e-mail : 1ok09y2z@bhban.com
-division : 6wk
-telephone : 010-0596-1805
-sex : female

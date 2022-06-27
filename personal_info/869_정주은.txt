@@ -1,6 +1,0 @@
-name : 정주은
-age : 33
-email : nb7ngk8s@random.com
-division : z34
-telephone : 010-0-6804
-sex : mail

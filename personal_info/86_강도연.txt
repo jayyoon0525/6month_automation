@@ -1,6 +1,0 @@
-name : 강도연
-age : 03
-email : ng6d3r0w@random.com
-division : zqw
-telephone : 010-1-3919
-sex : femail

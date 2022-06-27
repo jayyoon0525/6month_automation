@@ -1,6 +1,0 @@
-name : 정지연
-age : 08
-email : aqt3lpzc@random.com
-division : gdr
-telephone : 010-9-9596
-sex : femail

@@ -1,6 +1,0 @@
-name : 정현원
-age : 07
-email : ie09gl1v@random.com
-division : q1n
-telephone : 010-4-1545
-sex : mail

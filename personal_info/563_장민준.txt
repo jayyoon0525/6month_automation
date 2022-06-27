@@ -1,6 +1,0 @@
-name : ภๅนฮมุ
-age : 14
-e-mail : fg9bm891@bhban.com
-division : n5g
-telephone : 010-5314-4153
-sex : female

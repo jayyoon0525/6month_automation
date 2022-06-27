@@ -1,6 +1,0 @@
-name : 강윤우
-age : 25
-email : 3r7y66qd@random.com
-division : i84
-telephone : 010-9-3892
-sex : mail

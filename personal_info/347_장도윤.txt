@@ -1,6 +1,0 @@
-name : ¿Âµµ¿±
-age : 59
-e-mail : zuat1fbg@bhban.com
-division : avw
-telephone : 010-8859-1188
-sex : female

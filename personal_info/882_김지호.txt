@@ -1,6 +1,0 @@
-name : 김지호
-age : 47
-email : fiawljbc@random.com
-division : inm
-telephone : 010-0-7502
-sex : mail

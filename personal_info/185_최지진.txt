@@ -1,6 +1,0 @@
-name : ÃÖÁöÁø
-age : 41
-e-mail : le2253w4@bhban.com
-division : 24k
-telephone : 010-1041-2710
-sex : male

@@ -1,6 +1,0 @@
-name : 윤하윤
-age : 46
-email : 58egcbvj@random.com
-division : tcp
-telephone : 010-2-8922
-sex : femail

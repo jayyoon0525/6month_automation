@@ -1,6 +1,0 @@
-name : 조지후
-age : 78
-email : tvwcz2ji@random.com
-division : 09q
-telephone : 010-2-0627
-sex : femail

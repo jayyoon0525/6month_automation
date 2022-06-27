@@ -1,6 +1,0 @@
-name : 강하호
-age : 74
-email : erp83d59@random.com
-division : 5zk
-telephone : 010-0-5507
-sex : mail

@@ -1,6 +1,0 @@
-name : 강서아
-age : 55
-email : vm4smi4n@random.com
-division : wyr
-telephone : 010-2-1824
-sex : femail

@@ -1,6 +1,0 @@
-name : 임현윤
-age : 86
-email : nvotb4tu@random.com
-division : 31s
-telephone : 010-2-9829
-sex : femail

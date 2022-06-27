@@ -1,6 +1,0 @@
-name : 정민서
-age : 35
-email : ju8e62yb@random.com
-division : kcz
-telephone : 010-1-3413
-sex : femail

@@ -1,6 +1,0 @@
-name : 박지호
-age : 74
-email : rovh6eyy@random.com
-division : jf6
-telephone : 010-8-2987
-sex : mail

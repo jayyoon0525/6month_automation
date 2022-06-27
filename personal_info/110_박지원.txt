@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿ø
-age : 37
-e-mail : x0kb6s25@bhban.com
-division : 6wx
-telephone : 010-2137-8621
-sex : female

@@ -1,6 +1,0 @@
-name : ÀÌÁöÁø
-age : 55
-e-mail : k5cv1l1d@bhban.com
-division : eu5
-telephone : 010-2155-3821
-sex : male

@@ -1,6 +1,0 @@
-name : À±Áö¿¬
-age : 46
-e-mail : kx6peqi3@bhban.com
-division : nwz
-telephone : 010-3846-9638
-sex : female

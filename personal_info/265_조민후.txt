@@ -1,6 +1,0 @@
-name : Á¶¹ÎÈÄ
-age : 02
-e-mail : vzb18kmh@bhban.com
-division : xm7
-telephone : 010-9902-6999
-sex : male

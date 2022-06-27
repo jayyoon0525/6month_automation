@@ -1,6 +1,0 @@
-name : 김주아
-age : 73
-email : tkal3z6e@random.com
-division : ejk
-telephone : 010-0-8506
-sex : femail

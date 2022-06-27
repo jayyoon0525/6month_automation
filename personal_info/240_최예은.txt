@@ -1,6 +1,0 @@
-name : 최예은
-age : 57
-email : ztgfn3go@random.com
-division : doc
-telephone : 010-5-6259
-sex : mail

@@ -1,6 +1,0 @@
-name : ¿Ã¿±ø¨
-age : 72
-e-mail : 73b0437z@bhban.com
-division : s5c
-telephone : 010-2272-5522
-sex : male

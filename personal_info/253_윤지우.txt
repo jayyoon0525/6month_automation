@@ -1,6 +1,0 @@
-name : 윤지우
-age : 84
-email : yeicmf0q@random.com
-division : 68e
-telephone : 010-9-3293
-sex : femail

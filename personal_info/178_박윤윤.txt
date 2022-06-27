@@ -1,6 +1,0 @@
-name : 박윤윤
-age : 52
-email : esd0hxba@random.com
-division : lif
-telephone : 010-0-9304
-sex : mail

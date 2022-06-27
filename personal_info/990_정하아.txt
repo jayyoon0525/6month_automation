@@ -1,6 +1,0 @@
-name : 정하아
-age : 67
-email : ygbfme6j@random.com
-division : ib2
-telephone : 010-8-4882
-sex : mail

@@ -1,6 +1,0 @@
-name : юсаЖ©Л
-age : 23
-e-mail : 5psgn6zw@bhban.com
-division : hes
-telephone : 010-2323-7923
-sex : male

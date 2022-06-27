@@ -1,6 +1,0 @@
-name : 조민준
-age : 14
-email : pflqpzeq@random.com
-division : 5tg
-telephone : 010-1-5315
-sex : mail

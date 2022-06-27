@@ -1,6 +1,0 @@
-name : 박채우
-age : 54
-email : 59gk8ixx@random.com
-division : 9gk
-telephone : 010-3-4038
-sex : femail

@@ -1,6 +1,0 @@
-name : ±èÀ±ÈÄ
-age : 63
-e-mail : errauqqk@bhban.com
-division : l12
-telephone : 010-0963-3009
-sex : female

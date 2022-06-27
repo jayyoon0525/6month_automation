@@ -1,6 +1,0 @@
-name : ±è¹Î¼­
-age : 75
-e-mail : rwp4lzgt@bhban.com
-division : 4f9
-telephone : 010-4275-8042
-sex : female

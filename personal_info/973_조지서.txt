@@ -1,6 +1,0 @@
-name : 조지서
-age : 78
-email : w68bdizd@random.com
-division : 7o0
-telephone : 010-8-4084
-sex : femail

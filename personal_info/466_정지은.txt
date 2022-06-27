@@ -1,6 +1,0 @@
-name : 정지은
-age : 32
-email : u6x40rep@random.com
-division : td3
-telephone : 010-7-7476
-sex : femail

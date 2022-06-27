@@ -1,6 +1,0 @@
-name : 장윤원
-age : 94
-email : 0i2zcdif@random.com
-division : 2q4
-telephone : 010-3-5334
-sex : femail

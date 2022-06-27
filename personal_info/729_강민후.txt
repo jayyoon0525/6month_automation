@@ -1,6 +1,0 @@
-name : 강민후
-age : 23
-email : lwga6htj@random.com
-division : ipr
-telephone : 010-2-9723
-sex : femail

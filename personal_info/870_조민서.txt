@@ -1,6 +1,0 @@
-name : Á¶¹Î¼­
-age : 78
-e-mail : dqk3i67l@bhban.com
-division : rlz
-telephone : 010-1078-4110
-sex : female

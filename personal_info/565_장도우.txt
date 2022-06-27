@@ -1,6 +1,0 @@
-name : Àåµµ¿ì
-age : 84
-e-mail : f5n8bd1o@bhban.com
-division : kat
-telephone : 010-5284-4252
-sex : female

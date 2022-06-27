@@ -1,6 +1,0 @@
-name : юлажаЬ
-age : 65
-e-mail : 547iz4ha@bhban.com
-division : gvb
-telephone : 010-1265-9312
-sex : male

@@ -1,6 +1,0 @@
-name : 김지아
-age : 48
-email : mm8teb21@random.com
-division : ddf
-telephone : 010-1-4510
-sex : femail

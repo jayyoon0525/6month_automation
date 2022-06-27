@@ -1,6 +1,0 @@
-name : 장주아
-age : 06
-email : t806qayj@random.com
-division : 91t
-telephone : 010-2-7928
-sex : femail

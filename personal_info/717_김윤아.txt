@@ -1,6 +1,0 @@
-name : 김윤아
-age : 24
-email : 0ilhsz80@random.com
-division : ept
-telephone : 010-2-9025
-sex : mail

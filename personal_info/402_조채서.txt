@@ -1,6 +1,0 @@
-name : Á¶Ã¤¼­
-age : 65
-e-mail : r81x3yam@bhban.com
-division : e4i
-telephone : 010-7765-4977
-sex : female

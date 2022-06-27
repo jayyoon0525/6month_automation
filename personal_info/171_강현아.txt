@@ -1,6 +1,0 @@
-name : 강현아
-age : 33
-email : 03pw98c7@random.com
-division : 2b6
-telephone : 010-0-9005
-sex : mail

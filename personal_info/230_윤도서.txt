@@ -1,6 +1,0 @@
-name : 윤도서
-age : 05
-email : qio28h9k@random.com
-division : u7d
-telephone : 010-9-2097
-sex : femail

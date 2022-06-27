@@ -1,6 +1,0 @@
-name : ¹Ú¿¹ÈÄ
-age : 67
-e-mail : 2ku2pbxq@bhban.com
-division : be1
-telephone : 010-5067-4150
-sex : female

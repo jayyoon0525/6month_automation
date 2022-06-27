@@ -1,6 +1,0 @@
-name : 조지준
-age : 56
-email : fxaubnoh@random.com
-division : 8qr
-telephone : 010-7-0378
-sex : mail

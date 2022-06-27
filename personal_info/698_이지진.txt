@@ -1,6 +1,0 @@
-name : ÀÌÁöÁø
-age : 11
-e-mail : 63e6iscq@bhban.com
-division : h4t
-telephone : 010-3311-1633
-sex : male

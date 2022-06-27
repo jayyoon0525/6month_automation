@@ -1,6 +1,0 @@
-name : Á¤ÁöÈÄ
-age : 24
-e-mail : dwr79mri@bhban.com
-division : oca
-telephone : 010-9924-4299
-sex : male

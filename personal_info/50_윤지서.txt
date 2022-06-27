@@ -1,6 +1,0 @@
-name : 윤지서
-age : 48
-email : omp6ar7m@random.com
-division : gjd
-telephone : 010-7-5172
-sex : femail

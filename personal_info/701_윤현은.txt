@@ -1,6 +1,0 @@
-name : À±ÇöÀº
-age : 26
-e-mail : dvtcu51n@bhban.com
-division : crz
-telephone : 010-8326-3183
-sex : female

@@ -1,6 +1,0 @@
-name : 박채은
-age : 33
-email : g4bpty18@random.com
-division : 0al
-telephone : 010-9-9397
-sex : mail

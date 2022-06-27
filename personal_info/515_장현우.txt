@@ -1,6 +1,0 @@
-name : ÀåÇö¿ì
-age : 05
-e-mail : ze7r4eun@bhban.com
-division : 3zr
-telephone : 010-6005-1560
-sex : male

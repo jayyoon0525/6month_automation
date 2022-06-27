@@ -1,6 +1,0 @@
-name : 조현후
-age : 87
-email : zvyrc8by@random.com
-division : lr9
-telephone : 010-4-7645
-sex : femail

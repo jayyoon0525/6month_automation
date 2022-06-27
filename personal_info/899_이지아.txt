@@ -1,6 +1,0 @@
-name : 이지아
-age : 73
-email : dzv07b05@random.com
-division : 9yg
-telephone : 010-9-8499
-sex : femail

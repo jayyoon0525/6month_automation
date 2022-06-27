@@ -1,6 +1,0 @@
-name : 조하호
-age : 03
-email : h6qt6xc0@random.com
-division : k00
-telephone : 010-0-7303
-sex : mail

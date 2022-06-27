@@ -1,6 +1,0 @@
-name : ÃÖÇöÈÄ
-age : 39
-e-mail : 2qkxz3gr@bhban.com
-division : v5w
-telephone : 010-4939-5549
-sex : male

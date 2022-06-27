@@ -1,6 +1,0 @@
-name : Á¶¿¹À±
-age : 17
-e-mail : f28h7up6@bhban.com
-division : p4x
-telephone : 010-7417-6274
-sex : male

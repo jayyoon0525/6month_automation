@@ -1,6 +1,0 @@
-name : 임윤후
-age : 43
-email : nbjiha9p@random.com
-division : i00
-telephone : 010-2-.823
-sex : mail

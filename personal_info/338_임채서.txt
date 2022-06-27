@@ -1,6 +1,0 @@
-name : 임채서
-age : 39
-email : q3xx3eaw@random.com
-division : duo
-telephone : 010-8-7981
-sex : femail

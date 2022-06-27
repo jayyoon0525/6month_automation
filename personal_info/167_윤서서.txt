@@ -1,6 +1,0 @@
-name : 윤서서
-age : 87
-email : tt1d6wc6@random.com
-division : p42
-telephone : 010-0-8805
-sex : femail

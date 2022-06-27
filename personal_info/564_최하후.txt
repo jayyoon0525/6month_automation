@@ -1,6 +1,0 @@
-name : 최하후
-age : 91
-email : o2b3wzto@random.com
-division : rqf
-telephone : 010-0-8004
-sex : mail

@@ -1,6 +1,0 @@
-name : 강윤서
-age : 57
-email : o0pkv7vn@random.com
-division : 571
-telephone : 010-0-7007
-sex : femail

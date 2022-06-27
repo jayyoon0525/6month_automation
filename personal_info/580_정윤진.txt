@@ -1,6 +1,0 @@
-name : 정윤진
-age : 66
-email : vymleh3p@random.com
-division : 8sv
-telephone : 010-4-0946
-sex : femail

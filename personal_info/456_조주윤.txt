@@ -1,6 +1,0 @@
-name : 조주윤
-age : 53
-email : axzexz4o@random.com
-division : lw1
-telephone : 010-6-4264
-sex : femail

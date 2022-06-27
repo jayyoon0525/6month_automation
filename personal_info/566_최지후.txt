@@ -1,6 +1,0 @@
-name : 최지후
-age : 82
-email : jwgmk014@random.com
-division : 5ib
-telephone : 010-4-0148
-sex : mail

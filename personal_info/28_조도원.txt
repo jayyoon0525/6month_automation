@@ -1,6 +1,0 @@
-name : Á¶µµ¿ø
-age : 35
-e-mail : 4zaioxrt@bhban.com
-division : u4u
-telephone : 010-3335-4133
-sex : male

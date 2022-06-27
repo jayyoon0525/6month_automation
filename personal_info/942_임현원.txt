@@ -1,6 +1,0 @@
-name : ÀÓÇö¿ø
-age : 23
-e-mail : nd8e8szy@bhban.com
-division : 1pv
-telephone : 010-9723-5097
-sex : female

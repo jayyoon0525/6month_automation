@@ -1,6 +1,0 @@
-name : 이민은
-age : 24
-email : ghrcblbi@random.com
-division : sks
-telephone : 010-7-9876
-sex : mail

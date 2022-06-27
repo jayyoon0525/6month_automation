@@ -1,6 +1,0 @@
-name : 박민호
-age : 93
-email : 1rstzx6t@random.com
-division : 88c
-telephone : 010-8-7382
-sex : femail

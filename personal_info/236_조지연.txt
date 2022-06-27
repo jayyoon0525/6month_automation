@@ -1,6 +1,0 @@
-name : Á¶Áö¿¬
-age : 23
-e-mail : c0re2yur@bhban.com
-division : s7q
-telephone : 010-0323-5403
-sex : female

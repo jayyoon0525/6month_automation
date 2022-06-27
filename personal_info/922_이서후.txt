@@ -1,6 +1,0 @@
-name : ÀÌ¼­ÈÄ
-age : 08
-e-mail : c4yynzpv@bhban.com
-division : ozx
-telephone : 010-0008-4000
-sex : male

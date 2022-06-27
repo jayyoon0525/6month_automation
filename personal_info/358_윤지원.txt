@@ -1,6 +1,0 @@
-name : À±Áö¿ø
-age : 04
-e-mail : 7iasyzi4@bhban.com
-division : moa
-telephone : 010-8404-2584
-sex : female

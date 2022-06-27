@@ -1,6 +1,0 @@
-name : ÀÓÇöÀº
-age : 52
-e-mail : 04xp96pk@bhban.com
-division : 7tw
-telephone : 010-5152-4751
-sex : male

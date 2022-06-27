@@ -1,6 +1,0 @@
-name : 최지서
-age : 46
-email : pqu10j9k@random.com
-division : lqe
-telephone : 010-9-4191
-sex : femail

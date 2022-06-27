@@ -1,6 +1,0 @@
-name : 정지후
-age : 94
-email : dsnx95bu@random.com
-division : a69
-telephone : 010-1-6910
-sex : mail

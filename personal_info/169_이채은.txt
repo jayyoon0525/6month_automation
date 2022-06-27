@@ -1,6 +1,0 @@
-name : 이채은
-age : 56
-email : ltdagh7k@random.com
-division : egb
-telephone : 010-9-5890
-sex : mail

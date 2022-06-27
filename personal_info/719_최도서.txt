@@ -1,6 +1,0 @@
-name : 최도서
-age : 49
-email : 4j9k6bnk@random.com
-division : yh3
-telephone : 010-1-8912
-sex : femail

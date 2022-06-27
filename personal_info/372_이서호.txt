@@ -1,6 +1,0 @@
-name : 이서호
-age : 65
-email : k7fayb1a@random.com
-division : w2f
-telephone : 010-7-6977
-sex : femail

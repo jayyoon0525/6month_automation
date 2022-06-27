@@ -1,6 +1,0 @@
-name : 임하서
-age : 95
-email : 7ztibd2z@random.com
-division : nn2
-telephone : 010-6-6867
-sex : mail

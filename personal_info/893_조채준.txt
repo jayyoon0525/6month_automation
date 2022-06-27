@@ -1,6 +1,0 @@
-name : 조채준
-age : 78
-email : h6s2boi1@random.com
-division : f8i
-telephone : 010-0-8100
-sex : femail

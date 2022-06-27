@@ -1,6 +1,0 @@
-name : 장예윤
-age : 04
-email : lm17xsgt@random.com
-division : 6nb
-telephone : 010-0-1000
-sex : femail

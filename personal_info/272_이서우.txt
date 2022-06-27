@@ -1,6 +1,0 @@
-name : ÀÌ¼­¿ì
-age : 91
-e-mail : lz0c4so0@bhban.com
-division : af2
-telephone : 010-9791-7397
-sex : female

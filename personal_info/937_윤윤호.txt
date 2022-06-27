@@ -1,6 +1,0 @@
-name : À±À±È£
-age : 79
-e-mail : lxst8497@bhban.com
-division : z6t
-telephone : 010-7979-4479
-sex : female

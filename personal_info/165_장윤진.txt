@@ -1,6 +1,0 @@
-name : ¿Â¿±¡¯
-age : 35
-e-mail : ibmz36oq@bhban.com
-division : 3e5
-telephone : 010-1335-1613
-sex : male

@@ -1,6 +1,0 @@
-name : 조하연
-age : 25
-email : 52iq2qp1@random.com
-division : 90z
-telephone : 010-7-0674
-sex : mail

@@ -1,6 +1,0 @@
-name : ÀÌ¼­ÈÄ
-age : 64
-e-mail : 1xwgdcxl@bhban.com
-division : 3z1
-telephone : 010-2064-6320
-sex : female

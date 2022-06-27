@@ -1,6 +1,0 @@
-name : 윤현은
-age : 79
-email : jai1gq0y@random.com
-division : gvu
-telephone : 010-1-2116
-sex : femail

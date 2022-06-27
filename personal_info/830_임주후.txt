@@ -1,6 +1,0 @@
-name : 임주후
-age : 33
-email : 1zx69vpf@random.com
-division : qx6
-telephone : 010-0-4909
-sex : femail

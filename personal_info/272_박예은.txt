@@ -1,6 +1,0 @@
-name : 박예은
-age : 17
-email : pfbhejz8@random.com
-division : rve
-telephone : 010-0-6409
-sex : mail

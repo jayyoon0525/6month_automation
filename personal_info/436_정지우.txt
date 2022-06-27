@@ -1,6 +1,0 @@
-name : Á¤Áö¿ì
-age : 27
-e-mail : 4d4yhuzb@bhban.com
-division : z1t
-telephone : 010-8727-1687
-sex : male

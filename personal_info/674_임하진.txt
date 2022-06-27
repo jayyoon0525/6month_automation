@@ -1,6 +1,0 @@
-name : 임하진
-age : 35
-email : d9iw12ad@random.com
-division : kjm
-telephone : 010-3-6332
-sex : femail

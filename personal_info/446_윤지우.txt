@@ -1,6 +1,0 @@
-name : 윤지우
-age : 12
-email : awrddlty@random.com
-division : ekx
-telephone : 010-6-3666
-sex : mail

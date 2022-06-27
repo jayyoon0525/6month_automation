@@ -1,6 +1,0 @@
-name : 최지원
-age : 14
-email : tw60tljx@random.com
-division : az3
-telephone : 010-8-8081
-sex : femail

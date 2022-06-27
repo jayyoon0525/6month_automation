@@ -1,6 +1,0 @@
-name : °­ÇÏ¿ì
-age : 42
-e-mail : piz5kbo3@bhban.com
-division : req
-telephone : 010-7142-3871
-sex : male

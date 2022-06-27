@@ -1,6 +1,0 @@
-name : 임지서
-age : 66
-email : lwlnrnrt@random.com
-division : tkz
-telephone : 010-1-5913
-sex : femail

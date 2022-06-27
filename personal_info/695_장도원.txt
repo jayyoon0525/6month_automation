@@ -1,6 +1,0 @@
-name : Àåµµ¿ø
-age : 65
-e-mail : mci82n2y@bhban.com
-division : avk
-telephone : 010-3338-1533
-sex : female

@@ -1,6 +1,0 @@
-name : 장도진
-age : 68
-email : 8h28df5i@random.com
-division : uvx
-telephone : 010-2-2921
-sex : femail

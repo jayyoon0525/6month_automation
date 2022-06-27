@@ -1,6 +1,0 @@
-name : 정현우
-age : 43
-email : jwdd6zp9@random.com
-division : lj1
-telephone : 010-7-2070
-sex : mail

@@ -1,6 +1,0 @@
-name : À±Áö¼­
-age : 72
-e-mail : aooulxl3@bhban.com
-division : ex3
-telephone : 010-9872-7098
-sex : female

@@ -1,6 +1,0 @@
-name : Á¶À±È£
-age : 03
-e-mail : uxs5d32p@bhban.com
-division : d1w
-telephone : 010-2003-6520
-sex : female

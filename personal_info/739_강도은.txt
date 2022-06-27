@@ -1,6 +1,0 @@
-name : 강도은
-age : 66
-email : 59sc0oxf@random.com
-division : kht
-telephone : 010-2-0321
-sex : mail

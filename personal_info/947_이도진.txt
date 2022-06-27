@@ -1,6 +1,0 @@
-name : 이도진
-age : 83
-email : padkj3up@random.com
-division : 764
-telephone : 010-7-0278
-sex : mail

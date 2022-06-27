@@ -1,6 +1,0 @@
-name : юсю╠хд
-age : 23
-e-mail : 3102uehu@bhban.com
-division : z22
-telephone : 010-4923-0949
-sex : male

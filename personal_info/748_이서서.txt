@@ -1,6 +1,0 @@
-name : ¿Ãº≠º≠
-age : 64
-e-mail : itkbshhm@bhban.com
-division : cnt
-telephone : 010-2564-4425
-sex : female

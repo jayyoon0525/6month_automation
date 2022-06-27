@@ -1,6 +1,0 @@
-name : 이지서
-age : 07
-email : ybjvt45n@random.com
-division : 91l
-telephone : 010-0-8001
-sex : mail

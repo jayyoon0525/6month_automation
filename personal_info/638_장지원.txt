@@ -1,6 +1,0 @@
-name : 장지원
-age : 13
-email : 07awwpoz@random.com
-division : 451
-telephone : 010-3-4138
-sex : mail

@@ -1,6 +1,0 @@
-name : 이주은
-age : 08
-email : 8kynec05@random.com
-division : h12
-telephone : 010-5-.954
-sex : mail

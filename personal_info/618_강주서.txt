@@ -1,6 +1,0 @@
-name : 강주서
-age : 17
-email : f4isbcgl@random.com
-division : 5yy
-telephone : 010-4-3041
-sex : mail

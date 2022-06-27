@@ -1,6 +1,0 @@
-name : Á¶ÇÏ¼­
-age : 18
-e-mail : 9lh0spqa@bhban.com
-division : dsr
-telephone : 010-1718-1717
-sex : male

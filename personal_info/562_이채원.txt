@@ -1,6 +1,0 @@
-name : 이채원
-age : 33
-email : vcwvndlc@random.com
-division : unh
-telephone : 010-4-9949
-sex : mail

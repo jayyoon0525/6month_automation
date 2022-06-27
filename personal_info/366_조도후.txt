@@ -1,6 +1,0 @@
-name : Á¶µµÈÄ
-age : 83
-e-mail : fkyxu9mf@bhban.com
-division : 2oz
-telephone : 010-2983-.129
-sex : female

@@ -1,6 +1,0 @@
-name : 장현아
-age : 55
-email : htkz8ksb@random.com
-division : max
-telephone : 010-2-3320
-sex : femail

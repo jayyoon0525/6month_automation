@@ -1,6 +1,0 @@
-name : 강지윤
-age : 79
-email : mdcdk308@random.com
-division : s0f
-telephone : 010-1-2116
-sex : mail

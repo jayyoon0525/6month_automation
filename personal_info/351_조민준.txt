@@ -1,6 +1,0 @@
-name : 조민준
-age : 95
-email : s897njy3@random.com
-division : hzb
-telephone : 010-6-6867
-sex : femail

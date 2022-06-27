@@ -1,6 +1,0 @@
-name : 조지진
-age : 18
-email : kp91oiv9@random.com
-division : jrl
-telephone : 010-5-8154
-sex : mail

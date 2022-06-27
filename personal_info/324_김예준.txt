@@ -1,6 +1,0 @@
-name : 김예준
-age : 74
-email : d2n4i74m@random.com
-division : zug
-telephone : 010-8-7083
-sex : mail

@@ -1,6 +1,0 @@
-name : 조지연
-age : 86
-email : rvkxjd2h@random.com
-division : gj9
-telephone : 010-1-1717
-sex : femail

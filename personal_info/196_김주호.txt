@@ -1,6 +1,0 @@
-name : 김주호
-age : 19
-email : cpcmayd7@random.com
-division : vbs
-telephone : 010-3-6030
-sex : femail

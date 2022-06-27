@@ -1,6 +1,0 @@
-name : 강윤준
-age : 19
-email : at2stuvw@random.com
-division : wmw
-telephone : 010-8-5282
-sex : mail

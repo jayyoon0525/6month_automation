@@ -1,6 +1,0 @@
-name : 강도연
-age : 55
-email : 4xs1cmzq@random.com
-division : o7f
-telephone : 010-2-1824
-sex : mail

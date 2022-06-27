@@ -1,6 +1,0 @@
-name : 최하진
-age : 47
-email : 7w5eup0p@random.com
-division : 9n7
-telephone : 010-8-4982
-sex : femail

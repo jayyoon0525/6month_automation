@@ -1,6 +1,0 @@
-name : À±Áö¿¬
-age : 88
-e-mail : yfpslzgh@bhban.com
-division : 9of
-telephone : 010-2188-8421
-sex : female

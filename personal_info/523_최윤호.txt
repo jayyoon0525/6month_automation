@@ -1,6 +1,0 @@
-name : 최윤호
-age : 52
-email : 1i6t3ilu@random.com
-division : vhg
-telephone : 010-7-7775
-sex : mail

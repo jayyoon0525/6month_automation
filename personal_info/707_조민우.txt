@@ -1,6 +1,0 @@
-name : 조민우
-age : 95
-email : jwx9t5n8@random.com
-division : gn2
-telephone : 010-2-8326
-sex : femail

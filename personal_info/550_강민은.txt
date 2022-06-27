@@ -1,6 +1,0 @@
-name : 강민은
-age : 95
-email : g9z2a9p0@random.com
-division : sno
-telephone : 010-5-9350
-sex : mail

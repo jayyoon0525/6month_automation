@@ -1,6 +1,0 @@
-name : À±ÁöÈÄ
-age : 13
-e-mail : cxgp7dzn@bhban.com
-division : 7mp
-telephone : 010-9713-7697
-sex : female

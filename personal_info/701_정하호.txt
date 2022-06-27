@@ -1,6 +1,0 @@
-name : 정하호
-age : 06
-email : 4spb7ml5@random.com
-division : o8h
-telephone : 010-2-7928
-sex : femail

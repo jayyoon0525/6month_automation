@@ -1,6 +1,0 @@
-name : 임민원
-age : 08
-email : 4tevdhyv@random.com
-division : tra
-telephone : 010-6-4464
-sex : femail

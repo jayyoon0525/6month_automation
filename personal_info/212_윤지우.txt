@@ -1,6 +1,0 @@
-name : À±Áö¿ì
-age : 47
-e-mail : bpmx3sop@bhban.com
-division : 86g
-telephone : 010-0647-4206
-sex : female

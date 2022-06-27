@@ -1,6 +1,0 @@
-name : ±Ë¡÷¿∫
-age : 44
-e-mail : 8vaudzf5@bhban.com
-division : ecs
-telephone : 010-1444-8614
-sex : male

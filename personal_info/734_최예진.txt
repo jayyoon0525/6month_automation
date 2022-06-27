@@ -1,6 +1,0 @@
-name : 최예진
-age : 42
-email : e9t6sosz@random.com
-division : 33c
-telephone : 010-2-0022
-sex : femail

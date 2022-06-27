@@ -1,6 +1,0 @@
-name : ¹ÚÇöÁø
-age : 14
-e-mail : wlxb0zwn@bhban.com
-division : 2rw
-telephone : 010-2914-3129
-sex : female

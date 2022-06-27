@@ -1,6 +1,0 @@
-name : 강주호
-age : 97
-email : wia3jzyf@random.com
-division : bct
-telephone : 010-8-9480
-sex : mail

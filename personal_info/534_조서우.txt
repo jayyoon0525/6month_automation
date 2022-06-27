@@ -1,6 +1,0 @@
-name : 조서우
-age : 34
-email : kqj6jf8o@random.com
-division : d6v
-telephone : 010-4-7845
-sex : femail

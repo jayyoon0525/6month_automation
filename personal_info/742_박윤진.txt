@@ -1,6 +1,0 @@
-name : ¹ÚÀ±Áø
-age : 47
-e-mail : ap938a93@bhban.com
-division : gdq
-telephone : 010-2647-4126
-sex : female

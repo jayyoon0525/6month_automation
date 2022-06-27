@@ -1,6 +1,0 @@
-name : 정윤윤
-age : 46
-email : p0ra7on4@random.com
-division : hr2
-telephone : 010-2-1126
-sex : mail

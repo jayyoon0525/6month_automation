@@ -1,6 +1,0 @@
-name : 조서아
-age : 34
-email : 9bpw6gly@random.com
-division : mi9
-telephone : 010-0-6405
-sex : mail

@@ -1,6 +1,0 @@
-name : À±¿¹¿ø
-age : 16
-e-mail : i8bat747@bhban.com
-division : epw
-telephone : 010-9816-7298
-sex : female

@@ -1,6 +1,0 @@
-name : ÀÌÇö¿ø
-age : 71
-e-mail : auyugcti@bhban.com
-division : bez
-telephone : 010-1771-1517
-sex : male

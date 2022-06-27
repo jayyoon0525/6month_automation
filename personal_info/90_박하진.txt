@@ -1,6 +1,0 @@
-name : 박하진
-age : 24
-email : txdvxlp4@random.com
-division : 640
-telephone : 010-1-4218
-sex : mail

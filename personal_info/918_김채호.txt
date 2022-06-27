@@ -1,6 +1,0 @@
-name : 김채호
-age : 83
-email : wwykrm9f@random.com
-division : 06y
-telephone : 010-9-9596
-sex : mail

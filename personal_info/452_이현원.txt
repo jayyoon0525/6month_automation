@@ -1,6 +1,0 @@
-name : 이현원
-age : 36
-email : wuh2x1wg@random.com
-division : swd
-telephone : 010-6-3965
-sex : femail

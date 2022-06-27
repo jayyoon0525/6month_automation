@@ -1,6 +1,0 @@
-name : Á¶µµÈÄ
-age : 18
-e-mail : zn5sr7u9@bhban.com
-division : p8q
-telephone : 010-0918-4709
-sex : male

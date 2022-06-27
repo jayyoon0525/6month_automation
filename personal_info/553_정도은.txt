@@ -1,6 +1,0 @@
-name : Á¤µµÀº
-age : 68
-e-mail : qb1udkl0@bhban.com
-division : vpw
-telephone : 010-5468-3554
-sex : female

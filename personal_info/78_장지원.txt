@@ -1,6 +1,0 @@
-name : 장지원
-age : 28
-email : u8ydlayb@random.com
-division : sbg
-telephone : 010-2-3420
-sex : mail

@@ -1,6 +1,0 @@
-name : ±è¿¹¿ø
-age : 04
-e-mail : 6rtzy0dn@bhban.com
-division : mkb
-telephone : 010-0404-5104
-sex : male

@@ -1,6 +1,0 @@
-name : 이주윤
-age : 74
-email : 880br1fo@random.com
-division : 4u3
-telephone : 010-2-9922
-sex : femail

@@ -1,6 +1,0 @@
-name : ±èÀ±¿ø
-age : 57
-e-mail : hiymzl3v@bhban.com
-division : xne
-telephone : 010-0257-9702
-sex : female

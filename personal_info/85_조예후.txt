@@ -1,6 +1,0 @@
-name : Á¶¿¹ÈÄ
-age : 51
-e-mail : iykbz4f4@bhban.com
-division : rgi
-telephone : 010-2251-9722
-sex : male

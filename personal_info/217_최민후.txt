@@ -1,6 +1,0 @@
-name : ÃÖ¹ÎÈÄ
-age : 88
-e-mail : kizqrunc@bhban.com
-division : tu1
-telephone : 010-0588-4405
-sex : male

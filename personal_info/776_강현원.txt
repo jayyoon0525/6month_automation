@@ -1,6 +1,0 @@
-name : 강현원
-age : 52
-email : hon8d84j@random.com
-division : jet
-telephone : 010-1-2216
-sex : mail

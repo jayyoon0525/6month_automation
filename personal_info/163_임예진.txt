@@ -1,6 +1,0 @@
-name : ÀÓ¿¹Áø
-age : 65
-e-mail : 8qcilbnc@bhban.com
-division : 0gy
-telephone : 010-1365-1513
-sex : male

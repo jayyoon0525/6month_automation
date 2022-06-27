@@ -1,6 +1,0 @@
-name : 김채준
-age : 04
-email : 9n4aujp1@random.com
-division : cni
-telephone : 010-9-.595
-sex : mail

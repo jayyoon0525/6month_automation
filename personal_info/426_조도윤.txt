@@ -1,6 +1,0 @@
-name : 조도윤
-age : 55
-email : yfn7qsll@random.com
-division : mvq
-telephone : 010-6-2768
-sex : femail

@@ -1,6 +1,0 @@
-name : 조지우
-age : 98
-email : agcscai0@random.com
-division : e8g
-telephone : 010-6-2967
-sex : femail

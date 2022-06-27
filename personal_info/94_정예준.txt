@@ -1,6 +1,0 @@
-name : 정예준
-age : 76
-email : tm7acun3@random.com
-division : ca1
-telephone : 010-4-5441
-sex : mail

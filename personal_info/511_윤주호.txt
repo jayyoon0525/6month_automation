@@ -1,6 +1,0 @@
-name : 윤주호
-age : 68
-email : lnpfumul@random.com
-division : pg9
-telephone : 010-1-7715
-sex : femail

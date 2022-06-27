@@ -1,6 +1,0 @@
-name : 김서연
-age : 95
-email : 9ebmoo6y@random.com
-division : ywy
-telephone : 010-7-5371
-sex : mail

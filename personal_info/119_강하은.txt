@@ -1,6 +1,0 @@
-name : 강하은
-age : 66
-email : zwacw69e@random.com
-division : oay
-telephone : 010-1-5913
-sex : femail

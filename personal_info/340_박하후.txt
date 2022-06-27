@@ -1,6 +1,0 @@
-name : 박하후
-age : 14
-email : o93dmx4t@random.com
-division : 49d
-telephone : 010-8-8081
-sex : mail

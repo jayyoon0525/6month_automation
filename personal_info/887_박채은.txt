@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤Àº
-age : 54
-e-mail : e7tzkqzd@bhban.com
-division : 1ys
-telephone : 010-1051-4210
-sex : male

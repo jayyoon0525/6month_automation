@@ -1,6 +1,0 @@
-name : 이채우
-age : 95
-email : z2ix9ap0@random.com
-division : k2f
-telephone : 010-7-1870
-sex : femail

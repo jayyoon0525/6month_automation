@@ -1,6 +1,0 @@
-name : Á¶Ã¤Áø
-age : 38
-e-mail : tp64a0yr@bhban.com
-division : bgk
-telephone : 010-7338-6573
-sex : female

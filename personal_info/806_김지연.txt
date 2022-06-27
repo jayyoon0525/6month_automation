@@ -1,6 +1,0 @@
-name : ±èÁö¿¬
-age : 16
-e-mail : lgxic2as@bhban.com
-division : 0vu
-telephone : 010-1716-7617
-sex : male

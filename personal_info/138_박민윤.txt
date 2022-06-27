@@ -1,6 +1,0 @@
-name : ¹Ú¹ÎÀ±
-age : 74
-e-mail : s1dxisnv@bhban.com
-division : 5ga
-telephone : 010-1174-0011
-sex : female

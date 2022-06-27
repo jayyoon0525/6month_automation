@@ -1,6 +1,0 @@
-name : 임현우
-age : 68
-email : lhdudi9l@random.com
-division : etp
-telephone : 010-8-7881
-sex : mail

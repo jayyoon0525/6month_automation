@@ -1,6 +1,0 @@
-name : ±èÁö¿ì
-age : 63
-e-mail : 5rur9yvg@bhban.com
-division : xzh
-telephone : 010-8063-3880
-sex : male

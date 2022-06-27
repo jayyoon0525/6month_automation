@@ -1,6 +1,0 @@
-name : 이하원
-age : 52
-email : dg1b1tcc@random.com
-division : czn
-telephone : 010-9-9696
-sex : femail

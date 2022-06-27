@@ -1,6 +1,0 @@
-name : 정현윤
-age : 11
-email : 6jpcga5x@random.com
-division : djv
-telephone : 010-4-.943
-sex : mail

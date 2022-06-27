@@ -1,6 +1,0 @@
-name : 박하연
-age : 77
-email : qtlx6vcz@random.com
-division : iqr
-telephone : 010-4-1644
-sex : femail

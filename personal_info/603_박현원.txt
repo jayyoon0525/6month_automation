@@ -1,6 +1,0 @@
-name : ¹ÚÇö¿ø
-age : 23
-e-mail : lpfwbsx8@bhban.com
-division : m0z
-telephone : 010-4723-6347
-sex : male

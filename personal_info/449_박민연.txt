@@ -1,6 +1,0 @@
-name : 박민연
-age : 56
-email : ranfnlob@random.com
-division : 6rd
-telephone : 010-8-7386
-sex : femail

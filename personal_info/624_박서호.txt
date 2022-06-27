@@ -1,6 +1,0 @@
-name : 박서호
-age : 26
-email : 9vzhr5sq@random.com
-division : 8tx
-telephone : 010-4-3340
-sex : femail

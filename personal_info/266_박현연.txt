@@ -1,6 +1,0 @@
-name : 박현연
-age : 25
-email : 2rff87z0@random.com
-division : 1w3
-telephone : 010-9-3892
-sex : femail

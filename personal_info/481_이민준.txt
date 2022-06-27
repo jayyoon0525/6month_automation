@@ -1,6 +1,0 @@
-name : ภฬนฮมุ
-age : 66
-e-mail : ant5e1yq@bhban.com
-division : txu
-telephone : 010-6566-9465
-sex : male

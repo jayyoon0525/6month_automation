@@ -1,6 +1,0 @@
-name : Á¶¹Î¿ì
-age : 87
-e-mail : zf5qbizk@bhban.com
-division : fes
-telephone : 010-5387-2953
-sex : male

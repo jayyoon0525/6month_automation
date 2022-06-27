@@ -1,6 +1,0 @@
-name : 이주윤
-age : 57
-email : 8w66kzoz@random.com
-division : hw2
-telephone : 010-0-7007
-sex : femail

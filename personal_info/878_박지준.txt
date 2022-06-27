@@ -1,6 +1,0 @@
-name : นฺม๖มุ
-age : 65
-e-mail : zzd8y6yb@bhban.com
-division : 1yc
-telephone : 010-6065-4160
-sex : male

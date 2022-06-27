@@ -1,6 +1,0 @@
-name : 박현연
-age : 11
-email : ke9q70j2@random.com
-division : 0i5
-telephone : 010-7-2170
-sex : femail

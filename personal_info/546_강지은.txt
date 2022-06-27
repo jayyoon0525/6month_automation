@@ -1,6 +1,0 @@
-name : °­ÁöÀº
-age : 55
-e-mail : zi45154b@bhban.com
-division : c5e
-telephone : 010-2555-2325
-sex : male

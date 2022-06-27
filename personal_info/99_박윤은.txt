@@ -1,6 +1,0 @@
-name : ¹ÚÀ±Àº
-age : 96
-e-mail : m3foxs51@bhban.com
-division : 9ae
-telephone : 010-2296-8022
-sex : female

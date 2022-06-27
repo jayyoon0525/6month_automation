@@ -1,6 +1,0 @@
-name : 이도서
-age : 46
-email : 9jfs7s64@random.com
-division : 7ur
-telephone : 010-0-0102
-sex : femail

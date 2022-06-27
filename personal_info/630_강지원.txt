@@ -1,6 +1,0 @@
-name : 강지원
-age : 55
-email : o4y5lir3@random.com
-division : pq2
-telephone : 010-3-3639
-sex : femail

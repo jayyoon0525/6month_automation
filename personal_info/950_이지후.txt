@@ -1,6 +1,0 @@
-name : 이지후
-age : 01
-email : tjwl5eni@random.com
-division : 15d
-telephone : 010-8-2888
-sex : femail

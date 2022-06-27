@@ -1,6 +1,0 @@
-name : 임하준
-age : 08
-email : 545svh31@random.com
-division : ht1
-telephone : 010-5-7057
-sex : femail

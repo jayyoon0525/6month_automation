@@ -1,6 +1,0 @@
-name : ¹ÚÁöÈ£
-age : 84
-e-mail : yz721s5u@bhban.com
-division : 9s0
-telephone : 010-0084-3700
-sex : female

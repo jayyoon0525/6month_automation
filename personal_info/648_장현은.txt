@@ -1,6 +1,0 @@
-name : 장현은
-age : 24
-email : 4vikoofw@random.com
-division : iya
-telephone : 010-3-4836
-sex : mail

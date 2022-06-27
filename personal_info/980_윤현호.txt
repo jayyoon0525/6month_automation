@@ -1,6 +1,0 @@
-name : 윤현호
-age : 02
-email : q84x8num@random.com
-division : 736
-telephone : 010-8-4384
-sex : mail

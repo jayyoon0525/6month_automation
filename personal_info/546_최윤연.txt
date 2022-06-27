@@ -1,6 +1,0 @@
-name : 최윤연
-age : 46
-email : asz31z7g@random.com
-division : djk
-telephone : 010-5-9151
-sex : mail

@@ -1,6 +1,0 @@
-name : 최채윤
-age : 44
-email : tsi5llde@random.com
-division : 3qx
-telephone : 010-6-5062
-sex : femail

@@ -1,6 +1,0 @@
-name : Á¤ÇöÈ£
-age : 32
-e-mail : 6m0axlfm@bhban.com
-division : 7h4
-telephone : 010-2032-6420
-sex : male

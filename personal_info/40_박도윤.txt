@@ -1,6 +1,0 @@
-name : 박도윤
-age : 23
-email : g3rudgsj@random.com
-division : y41
-telephone : 010-2-1226
-sex : femail

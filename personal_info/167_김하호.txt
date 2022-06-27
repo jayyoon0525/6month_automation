@@ -1,6 +1,0 @@
-name : ±Ë«œ»£
-age : 31
-e-mail : 01x4p44u@bhban.com
-division : pyc
-telephone : 010-7131-0171
-sex : female

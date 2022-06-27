@@ -1,6 +1,0 @@
-name : 이현진
-age : 58
-email : rsikjhay@random.com
-division : rce
-telephone : 010-2-8526
-sex : femail

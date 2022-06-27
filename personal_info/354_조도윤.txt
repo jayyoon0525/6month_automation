@@ -1,6 +1,0 @@
-name : Á¶µµÀ±
-age : 87
-e-mail : 6gy9mi63@bhban.com
-division : m3x
-telephone : 010-8487-2284
-sex : female

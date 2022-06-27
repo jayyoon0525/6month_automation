@@ -1,6 +1,0 @@
-name : 최지서
-age : 59
-email : mpfk1c75@random.com
-division : evd
-telephone : 010-2-9620
-sex : femail

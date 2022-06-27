@@ -1,6 +1,0 @@
-name : 윤하아
-age : 51
-email : 0iduayde@random.com
-division : yth
-telephone : 010-6-5162
-sex : mail

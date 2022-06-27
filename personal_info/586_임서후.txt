@@ -1,6 +1,0 @@
-name : ÀÓ¼­ÈÄ
-age : 99
-e-mail : mu59r8a1@bhban.com
-division : xzo
-telephone : 010-3499-2534
-sex : female

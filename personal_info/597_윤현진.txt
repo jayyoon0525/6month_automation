@@ -1,6 +1,0 @@
-name : 윤현진
-age : 26
-email : evhvrjyx@random.com
-division : 23t
-telephone : 010-4-1844
-sex : mail

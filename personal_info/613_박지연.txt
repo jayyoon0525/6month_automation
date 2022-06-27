@@ -1,6 +1,0 @@
-name : 박지연
-age : 19
-email : 7pxm01ao@random.com
-division : 0zm
-telephone : 010-7-8274
-sex : femail

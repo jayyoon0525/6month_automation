@@ -1,6 +1,0 @@
-name : Á¶¼­¾Æ
-age : 16
-e-mail : pk2m89l8@bhban.com
-division : xco
-telephone : 010-7816-4778
-sex : female

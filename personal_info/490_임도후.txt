@@ -1,6 +1,0 @@
-name : ÀÓµµÈÄ
-age : 34
-e-mail : rrnc8qh2@bhban.com
-division : ckn
-telephone : 010-6434-9964
-sex : female

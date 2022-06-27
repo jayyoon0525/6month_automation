@@ -1,6 +1,0 @@
-name : 임하아
-age : 75
-email : za2lz58v@random.com
-division : lfb
-telephone : 010-8-4483
-sex : mail

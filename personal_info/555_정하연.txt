@@ -1,6 +1,0 @@
-name : 정하연
-age : 19
-email : 72gc6d2e@random.com
-division : vmz
-telephone : 010-5-9650
-sex : femail

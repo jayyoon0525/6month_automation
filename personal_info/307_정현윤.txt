@@ -1,6 +1,0 @@
-name : Á¤ÇöÀ±
-age : 09
-e-mail : 5obztnsz@bhban.com
-division : ucr
-telephone : 010-9309-9193
-sex : female

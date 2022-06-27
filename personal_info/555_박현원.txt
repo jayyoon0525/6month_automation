@@ -1,6 +1,0 @@
-name : ¹ÚÇö¿ø
-age : 44
-e-mail : m9d7ffw7@bhban.com
-division : fmu
-telephone : 010-5444-3654
-sex : male

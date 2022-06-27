@@ -1,6 +1,0 @@
-name : цжажаЬ
-age : 04
-e-mail : r5pysf87@bhban.com
-division : ib3
-telephone : 010-9204-6992
-sex : male

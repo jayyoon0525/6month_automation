@@ -1,6 +1,0 @@
-name : 강지서
-age : 76
-email : llarm3qf@random.com
-division : 4hg
-telephone : 010-1-4011
-sex : mail

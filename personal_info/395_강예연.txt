@@ -1,6 +1,0 @@
-name : 강예연
-age : 28
-email : hc7def42@random.com
-division : dyj
-telephone : 010-1-7117
-sex : mail

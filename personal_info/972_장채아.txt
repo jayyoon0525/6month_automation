@@ -1,6 +1,0 @@
-name : 장채아
-age : 07
-email : 59bzylo3@random.com
-division : dqc
-telephone : 010-8-3985
-sex : femail

@@ -1,6 +1,0 @@
-name : 김지호
-age : 24
-email : tgm7960t@random.com
-division : cjv
-telephone : 010-1-4211
-sex : mail

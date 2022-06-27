@@ -1,6 +1,0 @@
-name : 윤현진
-age : 84
-email : h2783gix@random.com
-division : ils
-telephone : 010-8-6684
-sex : femail

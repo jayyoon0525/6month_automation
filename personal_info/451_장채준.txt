@@ -1,6 +1,0 @@
-name : 장채준
-age : 36
-email : nqxts2t3@random.com
-division : 9g1
-telephone : 010-6-3965
-sex : femail

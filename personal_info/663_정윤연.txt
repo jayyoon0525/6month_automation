@@ -1,6 +1,0 @@
-name : 정윤연
-age : 39
-email : ex7cb2ei@random.com
-division : jgs
-telephone : 010-7-8573
-sex : femail

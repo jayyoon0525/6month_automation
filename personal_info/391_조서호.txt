@@ -1,6 +1,0 @@
-name : 조서호
-age : 37
-email : k3z8xupg@random.com
-division : m51
-telephone : 010-7-0973
-sex : mail

@@ -1,6 +1,0 @@
-name : ÀÌµµÁø
-age : 22
-e-mail : vtdzyqnk@bhban.com
-division : cu2
-telephone : 010-9422-6194
-sex : male

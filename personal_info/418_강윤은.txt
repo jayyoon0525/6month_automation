@@ -1,6 +1,0 @@
-name : 강윤은
-age : 58
-email : ycafj66x@random.com
-division : iyf
-telephone : 010-6-2369
-sex : mail

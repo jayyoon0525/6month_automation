@@ -1,6 +1,0 @@
-name : ±èÇöÁø
-age : 78
-e-mail : 6hda1c57@bhban.com
-division : 17b
-telephone : 010-7978-4179
-sex : male

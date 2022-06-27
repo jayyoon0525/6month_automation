@@ -1,6 +1,0 @@
-name : 조민윤
-age : 18
-email : 2bvi37kf@random.com
-division : 3dq
-telephone : 010-1-3819
-sex : femail

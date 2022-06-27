@@ -1,6 +1,0 @@
-name : ±èÁöÁø
-age : 41
-e-mail : uc0cnbtk@bhban.com
-division : v2r
-telephone : 010-3041-5230
-sex : male

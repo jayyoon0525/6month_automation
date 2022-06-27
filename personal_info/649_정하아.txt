@@ -1,6 +1,0 @@
-name : 정하아
-age : 36
-email : t3azcgw4@random.com
-division : 2cj
-telephone : 010-4-.849
-sex : femail

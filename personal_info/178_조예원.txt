@@ -1,6 +1,0 @@
-name : Á¶¿¹¿ø
-age : 15
-e-mail : 5rfbozyz@bhban.com
-division : wu1
-telephone : 010-3115-0231
-sex : male

@@ -1,6 +1,0 @@
-name : 김주원
-age : 94
-email : rfsvua4q@random.com
-division : exl
-telephone : 010-9-2994
-sex : mail

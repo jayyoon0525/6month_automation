@@ -1,6 +1,0 @@
-name : 이주준
-age : 72
-email : 1co6ujt6@random.com
-division : qug
-telephone : 010-2-7326
-sex : mail

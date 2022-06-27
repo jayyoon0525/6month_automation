@@ -1,6 +1,0 @@
-name : 김지호
-age : 96
-email : tcawoc48@random.com
-division : jt5
-telephone : 010-8-7984
-sex : mail

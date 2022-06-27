@@ -1,6 +1,0 @@
-name : 정지원
-age : 46
-email : 27yhn2yt@random.com
-division : qwl
-telephone : 010-8-7582
-sex : femail

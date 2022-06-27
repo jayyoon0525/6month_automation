@@ -1,6 +1,0 @@
-name : 정채호
-age : 17
-email : e8jc1p3j@random.com
-division : 54h
-telephone : 010-4-3041
-sex : femail

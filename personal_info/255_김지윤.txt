@@ -1,6 +1,0 @@
-name : ±Ë¡ˆ¿±
-age : 32
-e-mail : lh91qmcc@bhban.com
-division : 9ut
-telephone : 010-0032-6500
-sex : male

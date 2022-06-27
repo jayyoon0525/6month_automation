@@ -1,6 +1,0 @@
-name : 박서아
-age : 98
-email : hclpahjd@random.com
-division : mfr
-telephone : 010-3-8732
-sex : mail

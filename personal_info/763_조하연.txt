@@ -1,6 +1,0 @@
-name : Á¶ÇÏ¿¬
-age : 24
-e-mail : 6zbx0z4h@bhban.com
-division : sfy
-telephone : 010-2324-5323
-sex : male

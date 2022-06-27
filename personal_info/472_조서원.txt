@@ -1,6 +1,0 @@
-name : Á¶¼­¿ø
-age : 73
-e-mail : 2aa7e3iw@bhban.com
-division : tsl
-telephone : 010-8673-1886
-sex : male

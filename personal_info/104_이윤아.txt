@@ -1,6 +1,0 @@
-name : ¿Ã¿±æ∆
-age : 18
-e-mail : 1lwxhd6v@bhban.com
-division : ue7
-telephone : 010-2218-8322
-sex : female

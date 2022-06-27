@@ -1,6 +1,0 @@
-name : 최예진
-age : 94
-email : ehiy30xu@random.com
-division : 8bw
-telephone : 010-1-1318
-sex : femail

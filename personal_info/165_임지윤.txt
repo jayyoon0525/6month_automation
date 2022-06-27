@@ -1,6 +1,0 @@
-name : 임지윤
-age : 46
-email : qq4qip2p@random.com
-division : c9a
-telephone : 010-0-8606
-sex : femail

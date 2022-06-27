@@ -1,6 +1,0 @@
-name : ÀÌ¼­¿ø
-age : 24
-e-mail : r5wzorzo@bhban.com
-division : ueu
-telephone : 010-5924-1859
-sex : male

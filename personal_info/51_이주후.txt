@@ -1,6 +1,0 @@
-name : 이주후
-age : 48
-email : aoye0fye@random.com
-division : rd4
-telephone : 010-7-5172
-sex : mail

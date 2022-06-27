@@ -1,6 +1,0 @@
-name : À±À±ÈÄ
-age : 87
-e-mail : 7oycuog3@bhban.com
-division : b7n
-telephone : 010-0587-2205
-sex : female

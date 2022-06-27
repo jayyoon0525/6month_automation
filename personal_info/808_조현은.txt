@@ -1,6 +1,0 @@
-name : Á¶ÇöÀº
-age : 69
-e-mail : 69nq6zp4@bhban.com
-division : 571
-telephone : 010-7169-3771
-sex : female

@@ -1,6 +1,0 @@
-name : 정주연
-age : 32
-email : g0sehqvw@random.com
-division : ilk
-telephone : 010-9-3493
-sex : mail

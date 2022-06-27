@@ -1,6 +1,0 @@
-name : 임채준
-age : 34
-email : mu7z0zeo@random.com
-division : 103
-telephone : 010-0-7901
-sex : mail

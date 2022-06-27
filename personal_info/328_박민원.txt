@@ -1,6 +1,0 @@
-name : ¹Ú¹Î¿ø
-age : 62
-e-mail : w640nwey@bhban.com
-division : y6v
-telephone : 010-8862-0888
-sex : male

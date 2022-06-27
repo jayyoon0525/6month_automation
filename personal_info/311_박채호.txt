@@ -1,6 +1,0 @@
-name : 박채호
-age : 94
-email : lp450rxq@random.com
-division : jh3
-telephone : 010-8-6285
-sex : mail

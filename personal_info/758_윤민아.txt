@@ -1,6 +1,0 @@
-name : À±¹Î¾Æ
-age : 07
-e-mail : 5kwkinw2@bhban.com
-division : au8
-telephone : 010-2407-5024
-sex : female

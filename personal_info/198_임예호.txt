@@ -1,6 +1,0 @@
-name : 임예호
-age : 68
-email : iarz2e8u@random.com
-division : r85
-telephone : 010-0-0401
-sex : femail

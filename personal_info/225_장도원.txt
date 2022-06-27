@@ -1,6 +1,0 @@
-name : 장도원
-age : 64
-email : nki8r0lj@random.com
-division : v1u
-telephone : 010-9-1897
-sex : femail

@@ -1,6 +1,0 @@
-name : 윤민준
-age : 85
-email : gwjt9nmf@random.com
-division : ziq
-telephone : 010-6-2369
-sex : femail

@@ -1,6 +1,0 @@
-name : 조도우
-age : 57
-email : ad8uh05i@random.com
-division : apw
-telephone : 010-2-7728
-sex : femail

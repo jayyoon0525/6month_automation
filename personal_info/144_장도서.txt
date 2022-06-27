@@ -1,6 +1,0 @@
-name : 장도서
-age : 08
-email : al9l2h53@random.com
-division : ia5
-telephone : 010-0-7609
-sex : mail

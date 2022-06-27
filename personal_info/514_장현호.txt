@@ -1,6 +1,0 @@
-name : 장현호
-age : 56
-email : olyns5xd@random.com
-division : o73
-telephone : 010-5-7256
-sex : mail

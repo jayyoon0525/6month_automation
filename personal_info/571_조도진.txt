@@ -1,6 +1,0 @@
-name : 조도진
-age : 03
-email : v2y29q9g@random.com
-division : 6kz
-telephone : 010-4-0448
-sex : mail

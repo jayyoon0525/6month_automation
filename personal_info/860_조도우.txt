@@ -1,6 +1,0 @@
-name : 조도우
-age : 34
-email : uji7y7bd@random.com
-division : sgt
-telephone : 010-0-6405
-sex : femail

@@ -1,6 +1,0 @@
-name : 조채호
-age : 99
-email : zcwm5v99@random.com
-division : c68
-telephone : 010-0-7309
-sex : mail

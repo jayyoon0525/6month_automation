@@ -1,6 +1,0 @@
-name : 김하후
-age : 82
-email : kdtjrnn2@random.com
-division : i8a
-telephone : 010-0-0700
-sex : femail

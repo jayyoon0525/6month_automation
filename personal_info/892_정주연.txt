@@ -1,6 +1,0 @@
-name : 정주연
-age : 07
-email : zi1f9l5e@random.com
-division : 8c1
-telephone : 010-0-8001
-sex : mail

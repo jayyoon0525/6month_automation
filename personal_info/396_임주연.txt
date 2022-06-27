@@ -1,6 +1,0 @@
-name : 임주연
-age : 28
-email : 7y2p1xd9@random.com
-division : ptb
-telephone : 010-1-7117
-sex : femail

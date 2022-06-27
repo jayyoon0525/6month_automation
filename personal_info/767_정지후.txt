@@ -1,6 +1,0 @@
-name : 정지후
-age : 86
-email : bo9rzfbg@random.com
-division : jf8
-telephone : 010-1-1717
-sex : femail

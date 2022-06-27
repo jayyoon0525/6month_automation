@@ -1,6 +1,0 @@
-name : ÀÌ¹Î¾Æ
-age : 55
-e-mail : z9d0b8yt@bhban.com
-division : z4d
-telephone : 010-2155-3821
-sex : female

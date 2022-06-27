@@ -1,6 +1,0 @@
-name : РЬУЄСи
-age : 93
-e-mail : ogp3z9p0@bhban.com
-division : ux1
-telephone : 010-6993-7869
-sex : female

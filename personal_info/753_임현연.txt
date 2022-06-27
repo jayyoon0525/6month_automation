@@ -1,6 +1,0 @@
-name : ÀÓÇö¿¬
-age : 83
-e-mail : 46l5pz0u@bhban.com
-division : 3rz
-telephone : 010-2483-4724
-sex : female

@@ -1,6 +1,0 @@
-name : ¿Âµµ¿±
-age : 85
-e-mail : 314phblw@bhban.com
-division : t4b
-telephone : 010-4885-5748
-sex : male

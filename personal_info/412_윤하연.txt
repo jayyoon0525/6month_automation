@@ -1,6 +1,0 @@
-name : 윤하연
-age : 43
-email : 3u1sds55@random.com
-division : xh0
-telephone : 010-7-2070
-sex : mail

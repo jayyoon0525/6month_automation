@@ -1,6 +1,0 @@
-name : 이도준
-age : 95
-email : nqadcsx0@random.com
-division : g0u
-telephone : 010-4-0846
-sex : femail

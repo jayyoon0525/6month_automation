@@ -1,6 +1,0 @@
-name : 강채윤
-age : 27
-email : mokciz77@random.com
-division : jv2
-telephone : 010-5-7356
-sex : mail

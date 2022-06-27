@@ -1,6 +1,0 @@
-name : Á¶Áö¿¬
-age : 22
-e-mail : faiwgxea@bhban.com
-division : twu
-telephone : 010-7022-7770
-sex : female

@@ -1,6 +1,0 @@
-name : 윤채은
-age : 64
-email : 7qxswozu@random.com
-division : tpa
-telephone : 010-7-0873
-sex : femail

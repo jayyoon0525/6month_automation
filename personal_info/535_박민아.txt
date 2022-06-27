@@ -1,6 +1,0 @@
-name : ¹Ú¹Î¾Æ
-age : 71
-e-mail : b920iczq@bhban.com
-division : kr1
-telephone : 010-6571-2265
-sex : female

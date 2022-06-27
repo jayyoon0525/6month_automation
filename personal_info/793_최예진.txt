@@ -1,6 +1,0 @@
-name : 최예진
-age : 48
-email : v0cxi7d0@random.com
-division : fgm
-telephone : 010-1-3014
-sex : mail

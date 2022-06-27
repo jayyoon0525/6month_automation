@@ -1,6 +1,0 @@
-name : юсаЖ©╛
-age : 22
-e-mail : 3ryum04n@bhban.com
-division : sec
-telephone : 010-1522-0915
-sex : male

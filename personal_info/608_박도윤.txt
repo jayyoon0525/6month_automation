@@ -1,6 +1,0 @@
-name : 박도윤
-age : 67
-email : wsvfibi6@random.com
-division : v8g
-telephone : 010-4-2442
-sex : femail

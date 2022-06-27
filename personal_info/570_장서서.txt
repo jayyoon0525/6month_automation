@@ -1,6 +1,0 @@
-name : 장서서
-age : 28
-email : v14bgwva@random.com
-division : obk
-telephone : 010-4-0348
-sex : femail

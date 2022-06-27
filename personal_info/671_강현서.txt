@@ -1,6 +1,0 @@
-name : 강현서
-age : 86
-email : jqk28f2r@random.com
-division : phv
-telephone : 010-3-6132
-sex : femail

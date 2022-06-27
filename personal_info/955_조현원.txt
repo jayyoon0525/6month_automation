@@ -1,6 +1,0 @@
-name : Á¶Çö¿ø
-age : 25
-e-mail : mdz1xz1z@bhban.com
-division : 5vk
-telephone : 010-9525-5795
-sex : male

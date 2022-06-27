@@ -1,6 +1,0 @@
-name : À±Áö¿ì
-age : 28
-e-mail : pkghfph9@bhban.com
-division : hyr
-telephone : 010-3328-9433
-sex : male

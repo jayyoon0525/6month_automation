@@ -1,6 +1,0 @@
-name : 장지서
-age : 11
-email : oo76d57b@random.com
-division : s6f
-telephone : 010-5-7556
-sex : mail

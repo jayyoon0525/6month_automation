@@ -1,6 +1,0 @@
-name : 김윤은
-age : 67
-email : qkrw2yry@random.com
-division : e3h
-telephone : 010-8-4882
-sex : femail

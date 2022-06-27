@@ -1,6 +1,0 @@
-name : ÀÓÁöÈÄ
-age : 77
-e-mail : cut749rz@bhban.com
-division : xzs
-telephone : 010-2777-3627
-sex : female

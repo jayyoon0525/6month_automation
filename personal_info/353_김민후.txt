@@ -1,6 +1,0 @@
-name : ±è¹ÎÈÄ
-age : 87
-e-mail : pn4fpdt2@bhban.com
-division : d2f
-telephone : 010-8487-2284
-sex : male

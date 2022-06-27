@@ -1,6 +1,0 @@
-name : 김지은
-age : 43
-email : 3h03qd50@random.com
-division : a0d
-telephone : 010-9-2695
-sex : femail

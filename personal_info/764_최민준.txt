@@ -1,6 +1,0 @@
-name : 최민준
-age : 13
-email : qe7nkf24@random.com
-division : yih
-telephone : 010-1-1618
-sex : femail

@@ -1,6 +1,0 @@
-name : 박현호
-age : 98
-email : 1idk5jiv@random.com
-division : w6n
-telephone : 010-6-2967
-sex : mail

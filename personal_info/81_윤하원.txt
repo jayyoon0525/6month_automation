@@ -1,6 +1,0 @@
-name : 윤하원
-age : 98
-email : ayiteogg@random.com
-division : tlk
-telephone : 010-6-5361
-sex : femail

@@ -1,6 +1,0 @@
-name : 임하우
-age : 36
-email : 3vkzkvry@random.com
-division : ta0
-telephone : 010-3-6339
-sex : femail

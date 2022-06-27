@@ -1,6 +1,0 @@
-name : 박하우
-age : 76
-email : 8s4z5wiu@random.com
-division : u3a
-telephone : 010-2-2123
-sex : mail

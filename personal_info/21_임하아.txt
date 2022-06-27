@@ -1,6 +1,0 @@
-name : 임하아
-age : 62
-email : 9fdsf1la@random.com
-division : mqk
-telephone : 010-2-9929
-sex : mail

@@ -1,6 +1,0 @@
-name : Á¤Áö¿ø
-age : 83
-e-mail : bwbzprtz@bhban.com
-division : nqs
-telephone : 010-9483-2594
-sex : male

@@ -1,6 +1,0 @@
-name : 이지은
-age : 95
-email : aszj5jfv@random.com
-division : lkh
-telephone : 010-9-0294
-sex : mail

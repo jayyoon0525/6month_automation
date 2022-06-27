@@ -1,6 +1,0 @@
-name : 임채호
-age : 32
-email : 314m9x00@random.com
-division : wmf
-telephone : 010-5-7855
-sex : femail

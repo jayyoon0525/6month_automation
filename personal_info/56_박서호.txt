@@ -1,6 +1,0 @@
-name : ¹Ú¼­È£
-age : 63
-e-mail : kgdsb0ty@bhban.com
-division : usl
-telephone : 010-2963-5529
-sex : female

@@ -1,6 +1,0 @@
-name : 임하은
-age : 56
-email : lxtq4vb5@random.com
-division : zki
-telephone : 010-3-8134
-sex : mail

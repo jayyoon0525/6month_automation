@@ -1,6 +1,0 @@
-name : 장도연
-age : 72
-email : 976ptwwm@random.com
-division : rcp
-telephone : 010-4-2043
-sex : mail

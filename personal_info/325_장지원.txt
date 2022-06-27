@@ -1,6 +1,0 @@
-name : ÀåÁö¿ø
-age : 16
-e-mail : myn5vpqr@bhban.com
-division : 06t
-telephone : 010-8916-0689
-sex : female

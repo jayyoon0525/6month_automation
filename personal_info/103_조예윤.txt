@@ -1,6 +1,0 @@
-name : Á¶¿¹À±
-age : 45
-e-mail : 9hff184y@bhban.com
-division : re4
-telephone : 010-2245-8222
-sex : male

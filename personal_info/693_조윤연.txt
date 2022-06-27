@@ -1,6 +1,0 @@
-name : Á¶À±¿¬
-age : 95
-e-mail : tzxzpg7k@bhban.com
-division : m7l
-telephone : 010-3395-1333
-sex : female

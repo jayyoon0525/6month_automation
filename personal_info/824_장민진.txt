@@ -1,6 +1,0 @@
-name : 장민진
-age : 14
-email : wmxciz92@random.com
-division : 5h7
-telephone : 010-1-4610
-sex : mail

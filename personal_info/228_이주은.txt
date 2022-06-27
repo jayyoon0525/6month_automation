@@ -1,6 +1,0 @@
-name : 이주은
-age : 37
-email : zfcmfj30@random.com
-division : oh5
-telephone : 010-9-1997
-sex : mail

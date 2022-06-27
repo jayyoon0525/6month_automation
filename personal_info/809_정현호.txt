@@ -1,6 +1,0 @@
-name : 정현호
-age : 03
-email : cfj6m8r1@random.com
-division : o70
-telephone : 010-1-3912
-sex : mail

@@ -1,6 +1,0 @@
-name : À±¹ÎÁø
-age : 21
-e-mail : bziot3zn@bhban.com
-division : vqk
-telephone : 010-0321-3203
-sex : female

@@ -1,6 +1,0 @@
-name : ±è¿¹¿ì
-age : 42
-e-mail : 2s5lcb96@bhban.com
-division : yqx
-telephone : 010-7042-7670
-sex : female

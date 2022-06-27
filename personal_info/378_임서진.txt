@@ -1,6 +1,0 @@
-name : ÀÓ¼­Áø
-age : 11
-e-mail : 36zysl0u@bhban.com
-division : mth
-telephone : 010-6811-1368
-sex : female

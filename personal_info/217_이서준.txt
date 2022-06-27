@@ -1,6 +1,0 @@
-name : 이서준
-age : 67
-email : gtsazbvu@random.com
-division : bzv
-telephone : 010-9-1498
-sex : mail

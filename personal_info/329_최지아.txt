@@ -1,6 +1,0 @@
-name : 최지아
-age : 93
-email : gym7b83n@random.com
-division : zf9
-telephone : 010-8-7382
-sex : femail

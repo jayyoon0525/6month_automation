@@ -1,6 +1,0 @@
-name : ÀÌ¿¹¿¬
-age : 47
-e-mail : rfp0zho2@bhban.com
-division : 8fq
-telephone : 010-2647-4126
-sex : female

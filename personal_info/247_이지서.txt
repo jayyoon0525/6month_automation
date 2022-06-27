@@ -1,6 +1,0 @@
-name : 이지서
-age : 67
-email : 0byj56ms@random.com
-division : o6r
-telephone : 010-9-2994
-sex : mail

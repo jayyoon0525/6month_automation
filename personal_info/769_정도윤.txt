@@ -1,6 +1,0 @@
-name : 정도윤
-age : 76
-email : 91sbq8dx@random.com
-division : zis
-telephone : 010-8-9181
-sex : femail

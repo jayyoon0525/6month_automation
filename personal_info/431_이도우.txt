@@ -1,6 +1,0 @@
-name : ÀÌµµ¿ì
-age : 31
-e-mail : kms1i1bd@bhban.com
-division : lpq
-telephone : 010-6731-1667
-sex : female

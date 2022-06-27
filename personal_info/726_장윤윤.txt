@@ -1,6 +1,0 @@
-name : ¿Â¿±¿±
-age : 85
-e-mail : p5d7a5rz@bhban.com
-division : lk2
-telephone : 010-2885-3228
-sex : female

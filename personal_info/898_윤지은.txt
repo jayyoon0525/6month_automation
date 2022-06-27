@@ -1,6 +1,0 @@
-name : 윤지은
-age : 73
-email : uv3frxqb@random.com
-division : e5f
-telephone : 010-9-8499
-sex : femail

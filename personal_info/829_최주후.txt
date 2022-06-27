@@ -1,6 +1,0 @@
-name : 최주후
-age : 33
-email : ct15g3m2@random.com
-division : qyf
-telephone : 010-0-4909
-sex : femail

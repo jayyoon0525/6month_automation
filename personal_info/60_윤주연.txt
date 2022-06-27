@@ -1,6 +1,0 @@
-name : 윤주연
-age : 98
-email : 194vyja3@random.com
-division : 2r4
-telephone : 010-3-2334
-sex : femail

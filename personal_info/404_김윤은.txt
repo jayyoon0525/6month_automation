@@ -1,6 +1,0 @@
-name : ±Ë¿±¿∫
-age : 35
-e-mail : 46y7zizz@bhban.com
-division : dvd
-telephone : 010-7735-5077
-sex : female

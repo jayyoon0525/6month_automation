@@ -1,6 +1,0 @@
-name : Á¶À±ÈÄ
-age : 53
-e-mail : zlibhz1y@bhban.com
-division : kvx
-telephone : 010-0753-1207
-sex : female

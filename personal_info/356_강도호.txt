@@ -1,6 +1,0 @@
-name : 강도호
-age : 52
-email : o6y5hdvn@random.com
-division : gg1
-telephone : 010-7-9078
-sex : mail

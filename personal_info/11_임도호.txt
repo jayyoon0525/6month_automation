@@ -1,6 +1,0 @@
-name : 임도호
-age : 14
-email : nax8p5br@random.com
-division : 93z
-telephone : 010-3-4933
-sex : mail

@@ -1,6 +1,0 @@
-name : ÀÌµµ¿ø
-age : 73
-e-mail : lqeqn1uv@bhban.com
-division : 162
-telephone : 010-3473-1034
-sex : male

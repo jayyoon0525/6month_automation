@@ -1,6 +1,0 @@
-name : 임민은
-age : 16
-email : m8r8bqmg@random.com
-division : pjr
-telephone : 010-3-7536
-sex : femail

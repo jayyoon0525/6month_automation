@@ -1,6 +1,0 @@
-name : 장예아
-age : 36
-email : fgtn157h@random.com
-division : yig
-telephone : 010-8-8380
-sex : mail

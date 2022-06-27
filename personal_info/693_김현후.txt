@@ -1,6 +1,0 @@
-name : 김현후
-age : 13
-email : y2iz9x72@random.com
-division : gl1
-telephone : 010-2-7529
-sex : mail

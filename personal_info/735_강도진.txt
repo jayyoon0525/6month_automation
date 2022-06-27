@@ -1,6 +1,0 @@
-name : 강도진
-age : 25
-email : gggdu3po@random.com
-division : lbw
-telephone : 010-2-0122
-sex : mail

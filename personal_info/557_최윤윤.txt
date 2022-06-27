@@ -1,6 +1,0 @@
-name : 최윤윤
-age : 99
-email : 94nl4nph@random.com
-division : n15
-telephone : 010-7-7974
-sex : mail

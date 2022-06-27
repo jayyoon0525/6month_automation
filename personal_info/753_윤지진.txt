@@ -1,6 +1,0 @@
-name : 윤지진
-age : 48
-email : t5oh5lg1@random.com
-division : 8ku
-telephone : 010-1-1119
-sex : mail

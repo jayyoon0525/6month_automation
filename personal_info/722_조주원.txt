@@ -1,6 +1,0 @@
-name : а╤аж©Ь
-age : 41
-e-mail : dfe43fxe@bhban.com
-division : 8eu
-telephone : 010-2941-3029
-sex : male

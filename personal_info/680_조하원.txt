@@ -1,6 +1,0 @@
-name : а╤го©Ь
-age : 79
-e-mail : 3rh39c6u@bhban.com
-division : 3i1
-telephone : 010-3579-0635
-sex : female

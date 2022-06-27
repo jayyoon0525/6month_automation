@@ -1,6 +1,0 @@
-name : 윤채서
-age : 52
-email : sidxl6ib@random.com
-division : d02
-telephone : 010-7-7775
-sex : mail

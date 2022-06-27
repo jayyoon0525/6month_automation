@@ -1,6 +1,0 @@
-name : ¿”¿±ø¨
-age : 03
-e-mail : 46dcctda@bhban.com
-division : efk
-telephone : 010-9603-8096
-sex : female

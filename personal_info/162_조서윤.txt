@@ -1,6 +1,0 @@
-name : 조서윤
-age : 73
-email : tn4o2th9@random.com
-division : oim
-telephone : 010-0-8506
-sex : mail

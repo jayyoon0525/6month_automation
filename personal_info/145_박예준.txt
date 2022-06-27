@@ -1,6 +1,0 @@
-name : 박예준
-age : 08
-email : 1u0qutvo@random.com
-division : vdm
-telephone : 010-0-7609
-sex : mail

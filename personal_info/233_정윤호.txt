@@ -1,6 +1,0 @@
-name : 정윤호
-age : 53
-email : dnag5jua@random.com
-division : tza
-telephone : 010-9-2296
-sex : femail

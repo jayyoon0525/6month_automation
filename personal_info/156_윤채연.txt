@@ -1,6 +1,0 @@
-name : 윤채연
-age : 73
-email : 2nbu04dr@random.com
-division : ov2
-telephone : 010-0-8107
-sex : femail

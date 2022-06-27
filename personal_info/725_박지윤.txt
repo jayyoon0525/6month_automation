@@ -1,6 +1,0 @@
-name : 박지윤
-age : 84
-email : ckgzy3ik@random.com
-division : qvb
-telephone : 010-2-9523
-sex : mail

@@ -1,6 +1,0 @@
-name : À±ÇöÁø
-age : 26
-e-mail : u782yuni@bhban.com
-division : uro
-telephone : 010-7926-4679
-sex : female

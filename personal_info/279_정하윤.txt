@@ -1,6 +1,0 @@
-name : 정하윤
-age : 77
-email : nm968u3s@random.com
-division : ktu
-telephone : 010-9-4490
-sex : femail

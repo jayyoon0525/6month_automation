@@ -1,6 +1,0 @@
-name : 조하서
-age : 41
-email : kppr1h5d@random.com
-division : 43c
-telephone : 010-9-9690
-sex : femail

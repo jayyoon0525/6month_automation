@@ -1,6 +1,0 @@
-name : À±À±È£
-age : 99
-e-mail : wz1osv3o@bhban.com
-division : omx
-telephone : 010-4699-6446
-sex : female

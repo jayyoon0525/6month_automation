@@ -1,6 +1,0 @@
-name : 윤현윤
-age : 75
-email : mi33d2sk@random.com
-division : h0m
-telephone : 010-6-8064
-sex : mail

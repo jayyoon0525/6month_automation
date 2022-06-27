@@ -1,6 +1,0 @@
-name : 조지아
-age : 78
-email : qq1yagcj@random.com
-division : 7ru
-telephone : 010-0-8100
-sex : mail

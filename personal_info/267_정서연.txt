@@ -1,6 +1,0 @@
-name : Á¤¼­¿¬
-age : 72
-e-mail : 6qiaia7c@bhban.com
-division : 7uy
-telephone : 010-9872-7098
-sex : female

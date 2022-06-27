@@ -1,6 +1,0 @@
-name : Àå¼­¿ì
-age : 15
-e-mail : ioi1d20d@bhban.com
-division : d9e
-telephone : 010-2715-1727
-sex : male

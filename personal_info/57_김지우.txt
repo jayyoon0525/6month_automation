@@ -1,6 +1,0 @@
-name : ±èÁö¿ì
-age : 33
-e-mail : 77dqm2on@bhban.com
-division : z7h
-telephone : 010-2933-5629
-sex : male

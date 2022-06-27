@@ -1,6 +1,0 @@
-name : 정윤진
-age : 95
-email : gm4hwtl3@random.com
-division : x7q
-telephone : 010-4-0846
-sex : femail

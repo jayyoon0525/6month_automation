@@ -1,6 +1,0 @@
-name : ¹ÚÀ±¼­
-age : 98
-e-mail : vo6fxozv@bhban.com
-division : xw2
-telephone : 010-0698-4006
-sex : female

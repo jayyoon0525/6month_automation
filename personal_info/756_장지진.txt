@@ -1,6 +1,0 @@
-name : ÀåÁöÁø
-age : 34
-e-mail : eru3m5vu@bhban.com
-division : 6lk
-telephone : 010-2434-4924
-sex : male

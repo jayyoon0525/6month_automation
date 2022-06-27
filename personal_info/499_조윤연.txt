@@ -1,6 +1,0 @@
-name : 조윤연
-age : 42
-email : 2np8wg7t@random.com
-division : i8r
-telephone : 010-5-6558
-sex : femail

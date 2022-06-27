@@ -1,6 +1,0 @@
-name : 장지아
-age : 59
-email : qwick1rb@random.com
-division : 5l2
-telephone : 010-3-5132
-sex : mail

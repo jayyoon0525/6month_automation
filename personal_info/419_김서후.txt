@@ -1,6 +1,0 @@
-name : ±è¼­ÈÄ
-age : 02
-e-mail : war0570r@bhban.com
-division : 166
-telephone : 010-7502-5975
-sex : male

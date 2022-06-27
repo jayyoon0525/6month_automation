@@ -1,6 +1,0 @@
-name : 이현진
-age : 99
-email : afiqyvxi@random.com
-division : 4jc
-telephone : 010-8-6983
-sex : mail

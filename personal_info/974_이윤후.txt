@@ -1,6 +1,0 @@
-name : ÀÌÀ±ÈÄ
-age : 26
-e-mail : zz4blf43@bhban.com
-division : zfp
-telephone : 010-9236-6892
-sex : female

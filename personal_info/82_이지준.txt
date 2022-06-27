@@ -1,6 +1,0 @@
-name : 이지준
-age : 98
-email : v863vmq3@random.com
-division : h2s
-telephone : 010-6-5361
-sex : femail

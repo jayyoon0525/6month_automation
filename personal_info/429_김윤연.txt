@@ -1,6 +1,0 @@
-name : 김윤연
-age : 25
-email : 4fitavxq@random.com
-division : ivf
-telephone : 010-6-2868
-sex : mail

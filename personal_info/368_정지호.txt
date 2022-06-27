@@ -1,6 +1,0 @@
-name : 정지호
-age : 03
-email : cif9jo2b@random.com
-division : 06g
-telephone : 010-7-9577
-sex : mail

@@ -1,6 +1,0 @@
-name : Á¶¿¹¿¬
-age : 62
-e-mail : mbi3g0lf@bhban.com
-division : q70
-telephone : 010-1862-4918
-sex : male

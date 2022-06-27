@@ -1,6 +1,0 @@
-name : ±è¹ÎÁø
-age : 44
-e-mail : kxoaa8z4@bhban.com
-division : gz9
-telephone : 010-7444-6174
-sex : male

@@ -1,6 +1,0 @@
-name : 이예후
-age : 94
-email : xmsv6t5q@random.com
-division : gad
-telephone : 010-9-6498
-sex : femail

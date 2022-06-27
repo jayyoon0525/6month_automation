@@ -1,6 +1,0 @@
-name : 이도연
-age : 74
-email : z54f1yoc@random.com
-division : dam
-telephone : 010-6-4563
-sex : mail

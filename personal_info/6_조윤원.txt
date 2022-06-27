@@ -1,6 +1,0 @@
-name : Á¶À±¿ø
-age : 27
-e-mail : hpzomw59@bhban.com
-division : c21
-telephone : 010-3627-3036
-sex : female

@@ -1,6 +1,0 @@
-name : 이도은
-age : 24
-email : jo9eo419@random.com
-division : y8z
-telephone : 010-1-4218
-sex : femail

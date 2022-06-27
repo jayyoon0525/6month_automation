@@ -1,6 +1,0 @@
-name : юсажхд
-age : 65
-e-mail : i4tczz7v@bhban.com
-division : 0o4
-telephone : 010-6465-9864
-sex : male

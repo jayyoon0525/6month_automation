@@ -1,6 +1,0 @@
-name : 강지우
-age : 92
-email : hije6oaz@random.com
-division : 1re
-telephone : 010-8-4789
-sex : mail

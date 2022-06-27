@@ -1,6 +1,0 @@
-name : 장윤서
-age : 52
-email : o3y0zs3s@random.com
-division : ekh
-telephone : 010-0-9304
-sex : mail

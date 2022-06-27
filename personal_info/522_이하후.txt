@@ -1,6 +1,0 @@
-name : юлгохд
-age : 24
-e-mail : 6t4hal31@bhban.com
-division : lgt
-telephone : 010-5924-1859
-sex : male

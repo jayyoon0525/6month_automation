@@ -1,6 +1,0 @@
-name : ÃÖ¼­Áø
-age : 43
-e-mail : rcdq8a57@bhban.com
-division : o0p
-telephone : 010-4043-4240
-sex : male

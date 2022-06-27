@@ -1,6 +1,0 @@
-name : 강예후
-age : 83
-email : r9cqhqa1@random.com
-division : ujo
-telephone : 010-3-4636
-sex : mail

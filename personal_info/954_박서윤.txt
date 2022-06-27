@@ -1,6 +1,0 @@
-name : 박서윤
-age : 75
-email : g53xjh19@random.com
-division : mgc
-telephone : 010-0-0308
-sex : femail

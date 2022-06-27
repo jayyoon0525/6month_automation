@@ -1,6 +1,0 @@
-name : 장예원
-age : 46
-email : ar0uevkk@random.com
-division : q3t
-telephone : 010-0-0102
-sex : mail

@@ -1,6 +1,0 @@
-name : 이민준
-age : 48
-email : l5qm6sny@random.com
-division : kcy
-telephone : 010-9-8599
-sex : mail

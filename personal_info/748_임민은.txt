@@ -1,6 +1,0 @@
-name : 임민은
-age : 36
-email : xlhkt4bn@random.com
-division : 2s5
-telephone : 010-2-0820
-sex : femail

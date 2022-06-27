@@ -1,6 +1,0 @@
-name : 조주아
-age : 33
-email : nz0gmikt@random.com
-division : 56y
-telephone : 010-6-2469
-sex : mail

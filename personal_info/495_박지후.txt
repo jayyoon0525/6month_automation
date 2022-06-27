@@ -1,6 +1,0 @@
-name : ¹ÚÁöÈÄ
-age : 33
-e-mail : edvwfubf@bhban.com
-division : yhn
-telephone : 010-6333-0363
-sex : female

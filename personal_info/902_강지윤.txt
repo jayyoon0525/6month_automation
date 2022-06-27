@@ -1,6 +1,0 @@
-name : 강지윤
-age : 21
-email : y5maj2r4@random.com
-division : 3vk
-telephone : 010-9-8699
-sex : mail

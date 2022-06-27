@@ -1,6 +1,0 @@
-name : 김민원
-age : 56
-email : u03gw8fw@random.com
-division : x6n
-telephone : 010-5-7256
-sex : mail

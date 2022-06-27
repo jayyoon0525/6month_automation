@@ -1,6 +1,0 @@
-name : 윤주호
-age : 72
-email : 7go2z5sv@random.com
-division : i8j
-telephone : 010-0-7402
-sex : mail

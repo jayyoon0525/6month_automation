@@ -1,6 +1,0 @@
-name : 조하서
-age : 73
-email : mee116u0@random.com
-division : h4w
-telephone : 010-0-0002
-sex : femail

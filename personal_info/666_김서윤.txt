@@ -1,6 +1,0 @@
-name : 김서윤
-age : 64
-email : 0rmvwgfz@random.com
-division : d5y
-telephone : 010-3-5833
-sex : mail

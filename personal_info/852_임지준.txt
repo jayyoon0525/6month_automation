@@ -1,6 +1,0 @@
-name : юсаЖаь
-age : 45
-e-mail : 7wspgwr3@bhban.com
-division : 3kk
-telephone : 010-1045-0110
-sex : male

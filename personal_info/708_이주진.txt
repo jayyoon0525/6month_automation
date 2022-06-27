@@ -1,6 +1,0 @@
-name : юлажаЬ
-age : 15
-e-mail : rpxk3ira@bhban.com
-division : az9
-telephone : 010-2315-3223
-sex : male

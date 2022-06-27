@@ -1,6 +1,0 @@
-name : ÀÓÁöÈ£
-age : 58
-e-mail : 3ri1c6ls@bhban.com
-division : 4tt
-telephone : 010-6758-1567
-sex : male

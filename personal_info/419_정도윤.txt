@@ -1,6 +1,0 @@
-name : 정도윤
-age : 58
-email : 9sptc29f@random.com
-division : wt1
-telephone : 010-6-2369
-sex : femail

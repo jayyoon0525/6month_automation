@@ -1,6 +1,0 @@
-name : Á¤ÇöÀº
-age : 23
-e-mail : 7hez7c2n@bhban.com
-division : gsz
-telephone : 010-3123-2331
-sex : female

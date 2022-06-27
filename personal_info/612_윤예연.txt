@@ -1,6 +1,0 @@
-name : À±¿¹¿¬
-age : 59
-e-mail : 1vep4naz@bhban.com
-division : 4y3
-telephone : 010-8459-2684
-sex : male

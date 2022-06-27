@@ -1,6 +1,0 @@
-name : Á¤À±Áø
-age : 22
-e-mail : 5cebfw7s@bhban.com
-division : hpz
-telephone : 010-7922-4379
-sex : female

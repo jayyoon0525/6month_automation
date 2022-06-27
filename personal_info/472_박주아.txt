@@ -1,6 +1,0 @@
-name : 박주아
-age : 15
-email : 7t5npsm5@random.com
-division : 677
-telephone : 010-6-5162
-sex : mail

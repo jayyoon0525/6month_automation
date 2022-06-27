@@ -1,6 +1,0 @@
-name : ¹ÚÁö¾Æ
-age : 78
-e-mail : k4bkb35w@bhban.com
-division : zz6
-telephone : 010-9978-4099
-sex : male

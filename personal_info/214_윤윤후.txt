@@ -1,6 +1,0 @@
-name : À±À±ÈÄ
-age : 17
-e-mail : zznw9f57@bhban.com
-division : yn2
-telephone : 010-0617-4306
-sex : male

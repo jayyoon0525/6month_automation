@@ -1,6 +1,0 @@
-name : 정주서
-age : 36
-email : csqj0agw@random.com
-division : 1xc
-telephone : 010-3-6339
-sex : mail

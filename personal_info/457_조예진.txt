@@ -1,6 +1,0 @@
-name : Á¶¿¹Áø
-age : 39
-e-mail : 30hf5suw@bhban.com
-division : n25
-telephone : 010-6939-8069
-sex : male

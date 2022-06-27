@@ -1,6 +1,0 @@
-name : 최채호
-age : 35
-email : ltm6jom6@random.com
-division : u32
-telephone : 010-1-3413
-sex : mail

@@ -1,6 +1,0 @@
-name : 정주진
-age : 74
-email : fsxqg15n@random.com
-division : uhx
-telephone : 010-6-4563
-sex : mail

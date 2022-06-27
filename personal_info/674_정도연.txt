@@ -1,6 +1,0 @@
-name : Á¤µµ¿¬
-age : 62
-e-mail : cyko2goe@bhban.com
-division : kh5
-telephone : 010-3662-0336
-sex : male

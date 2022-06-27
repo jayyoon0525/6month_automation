@@ -1,6 +1,0 @@
-name : 정도진
-age : 28
-email : veemdt6h@random.com
-division : 9p9
-telephone : 010-5-5252
-sex : femail

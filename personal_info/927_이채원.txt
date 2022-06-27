@@ -1,6 +1,0 @@
-name : ÀÌÃ¤¿ר
-age : 95
-e-mail : n0fzurov@bhban.com
-division : 914
-telephone : 010-1995-4419
-sex : female

@@ -1,6 +1,0 @@
-name : 윤채은
-age : 52
-email : j7q3p9qd@random.com
-division : lqf
-telephone : 010-0-7103
-sex : mail

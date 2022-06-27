@@ -1,6 +1,0 @@
-name : 윤민후
-age : 59
-email : 9f0kxsg7@random.com
-division : 2kj
-telephone : 010-7-7376
-sex : femail

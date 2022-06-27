@@ -1,6 +1,0 @@
-name : 박윤준
-age : 94
-email : jahzg4el@random.com
-division : xpx
-telephone : 010-8-4782
-sex : mail

@@ -1,6 +1,0 @@
-name : 최지연
-age : 67
-email : 89chnauo@random.com
-division : rcn
-telephone : 010-9-2994
-sex : mail

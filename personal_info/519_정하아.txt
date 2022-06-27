@@ -1,6 +1,0 @@
-name : 정하아
-age : 57
-email : dnf2rady@random.com
-division : wu6
-telephone : 010-5-7755
-sex : mail

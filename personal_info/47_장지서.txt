@@ -1,6 +1,0 @@
-name : 장지서
-age : 33
-email : 6us277nv@random.com
-division : xqm
-telephone : 010-2-1525
-sex : femail

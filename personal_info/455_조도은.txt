@@ -1,6 +1,0 @@
-name : 조도은
-age : 84
-email : n4hg0g17@random.com
-division : 9nl
-telephone : 010-6-4164
-sex : mail

@@ -1,6 +1,0 @@
-name : 김서준
-age : 62
-email : sskhtk72@random.com
-division : xlz
-telephone : 010-8-4889
-sex : mail

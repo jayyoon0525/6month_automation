@@ -1,6 +1,0 @@
-name : 김하서
-age : 74
-email : ph382r2t@random.com
-division : mj3
-telephone : 010-9-1099
-sex : mail

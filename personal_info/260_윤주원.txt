@@ -1,6 +1,0 @@
-name : 윤주원
-age : 03
-email : fa3iood1@random.com
-division : jvb
-telephone : 010-9-3593
-sex : mail

@@ -1,6 +1,0 @@
-name : 최예준
-age : 33
-email : x2xr42oy@random.com
-division : t0f
-telephone : 010-2-1525
-sex : femail

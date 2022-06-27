@@ -1,6 +1,0 @@
-name : 정지아
-age : 15
-email : fviw4cox@random.com
-division : a0a
-telephone : 010-7-5671
-sex : mail

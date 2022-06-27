@@ -1,6 +1,0 @@
-name : 최채준
-age : 84
-email : kqaco6d6@random.com
-division : xh5
-telephone : 010-8-2588
-sex : mail

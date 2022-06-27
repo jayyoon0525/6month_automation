@@ -1,6 +1,0 @@
-name : ¿Â«ˆ»£
-age : 59
-e-mail : 5lucpiao@bhban.com
-division : 7pe
-telephone : 010-1959-.219
-sex : male

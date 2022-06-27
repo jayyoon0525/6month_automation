@@ -1,6 +1,0 @@
-name : 이주서
-age : 22
-email : 2ogcsmcs@random.com
-division : gi4
-telephone : 010-1-2715
-sex : mail

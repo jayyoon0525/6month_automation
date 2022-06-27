@@ -1,6 +1,0 @@
-name : Á¶Çö¿ì
-age : 62
-e-mail : k0xtglrc@bhban.com
-division : u44
-telephone : 010-1662-7816
-sex : male

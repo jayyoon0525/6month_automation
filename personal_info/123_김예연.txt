@@ -1,6 +1,0 @@
-name : 김예연
-age : 08
-email : 632tnb54@random.com
-division : bav
-telephone : 010-1-6113
-sex : mail

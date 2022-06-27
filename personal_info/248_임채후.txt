@@ -1,6 +1,0 @@
-name : ÀÓÃ¤ÈÄ
-age : 37
-e-mail : a5umhrdf@bhban.com
-division : d2q
-telephone : 010-0137-6101
-sex : female

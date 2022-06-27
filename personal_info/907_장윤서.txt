@@ -1,6 +1,0 @@
-name : 장윤서
-age : 86
-email : nvu8wyft@random.com
-division : vs9
-telephone : 010-9-9899
-sex : mail

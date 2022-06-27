@@ -1,6 +1,0 @@
-name : Á¶ÁöÀº
-age : 85
-e-mail : lbi3v1d6@bhban.com
-division : ziw
-telephone : 010-6885-8268
-sex : female

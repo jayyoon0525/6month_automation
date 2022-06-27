@@ -1,6 +1,0 @@
-name : ÀÌÇöÀ±
-age : 03
-e-mail : pey833i1@bhban.com
-division : 1fz
-telephone : 010-9203-9592
-sex : male

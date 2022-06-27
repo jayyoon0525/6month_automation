@@ -1,6 +1,0 @@
-name : Á¶ÁöÀº
-age : 25
-e-mail : bz583qkf@bhban.com
-division : uv6
-telephone : 010-5525-3355
-sex : male

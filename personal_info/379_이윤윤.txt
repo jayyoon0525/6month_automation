@@ -1,6 +1,0 @@
-name : ¿Ã¿±¿±
-age : 11
-e-mail : fk1tt76d@bhban.com
-division : rhd
-telephone : 010-6811-1368
-sex : male

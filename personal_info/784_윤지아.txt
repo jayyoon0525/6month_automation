@@ -1,6 +1,0 @@
-name : 윤지아
-age : 46
-email : 7v3rd8hz@random.com
-division : 1ly
-telephone : 010-1-2615
-sex : femail

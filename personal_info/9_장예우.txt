@@ -1,6 +1,0 @@
-name : Àå¿¹¿ì
-age : 73
-e-mail : abciu9ks@bhban.com
-division : ut3
-telephone : 010-3573-3235
-sex : male

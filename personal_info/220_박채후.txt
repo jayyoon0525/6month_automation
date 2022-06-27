@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤ÈÄ
-age : 34
-e-mail : 797aomni@bhban.com
-division : nvc
-telephone : 010-0534-4605
-sex : female

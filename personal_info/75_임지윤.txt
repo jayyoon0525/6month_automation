@@ -1,6 +1,0 @@
-name : 임지윤
-age : 84
-email : 07b33b3s@random.com
-division : usx
-telephone : 010-2-3220
-sex : mail

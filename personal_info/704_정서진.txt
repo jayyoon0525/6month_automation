@@ -1,6 +1,0 @@
-name : 정서진
-age : 61
-email : 0omeoon8@random.com
-division : l56
-telephone : 010-2-8127
-sex : mail

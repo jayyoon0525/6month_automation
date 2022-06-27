@@ -1,6 +1,0 @@
-name : ÀåÇö¿ì
-age : 27
-e-mail : b33tz3ls@bhban.com
-division : 0ep
-telephone : 010-2727-6427
-sex : female

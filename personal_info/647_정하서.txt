@@ -1,6 +1,0 @@
-name : 정하서
-age : 24
-email : 5s8lmk6d@random.com
-division : x17
-telephone : 010-3-4836
-sex : femail

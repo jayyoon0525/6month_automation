@@ -1,6 +1,0 @@
-name : ±èµµ¾Æ
-age : 87
-e-mail : cza7dwl7@bhban.com
-division : sfd
-telephone : 010-6187-9961
-sex : female

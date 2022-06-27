@@ -1,6 +1,0 @@
-name : юлгохё
-age : 49
-e-mail : us7cehgt@bhban.com
-division : vey
-telephone : 010-3549-3335
-sex : male

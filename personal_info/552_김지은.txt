@@ -1,6 +1,0 @@
-name : 김지은
-age : 68
-email : dbyx7tif@random.com
-division : of0
-telephone : 010-5-9450
-sex : femail

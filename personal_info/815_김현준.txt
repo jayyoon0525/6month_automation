@@ -1,6 +1,0 @@
-name : ฑ่ว๖มุ
-age : 79
-e-mail : 2m1neydy@bhban.com
-division : qa9
-telephone : 010-1579-8115
-sex : male

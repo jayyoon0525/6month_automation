@@ -1,6 +1,0 @@
-name : 임하후
-age : 24
-email : 1hrrwxip@random.com
-division : vly
-telephone : 010-2-.520
-sex : mail

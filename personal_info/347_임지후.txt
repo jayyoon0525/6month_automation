@@ -1,6 +1,0 @@
-name : 임지후
-age : 01
-email : 96dfew4s@random.com
-division : ze8
-telephone : 010-8-8480
-sex : femail

@@ -1,6 +1,0 @@
-name : 이윤서
-age : 56
-email : d7ccwuco@random.com
-division : obb
-telephone : 010-7-0378
-sex : mail

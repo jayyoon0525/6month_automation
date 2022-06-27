@@ -1,6 +1,0 @@
-name : 정민윤
-age : 47
-email : e3n6lkx1@random.com
-division : key
-telephone : 010-2-2223
-sex : mail

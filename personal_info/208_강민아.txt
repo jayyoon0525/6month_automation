@@ -1,6 +1,0 @@
-name : 강민아
-age : 04
-email : fnfcqqzv@random.com
-division : ozv
-telephone : 010-0-1000
-sex : mail

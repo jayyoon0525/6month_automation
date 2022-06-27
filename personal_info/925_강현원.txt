@@ -1,6 +1,0 @@
-name : 강현원
-age : 73
-email : j7ow8kyh@random.com
-division : vin
-telephone : 010-9-9995
-sex : femail

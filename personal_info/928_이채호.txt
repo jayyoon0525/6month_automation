@@ -1,6 +1,0 @@
-name : 이채호
-age : 55
-email : k7mgkd71@random.com
-division : l9h
-telephone : 010-0-0009
-sex : mail

@@ -1,6 +1,0 @@
-name : Á¤ÁöÁø
-age : 44
-e-mail : w4mbqnz9@bhban.com
-division : na1
-telephone : 010-7344-9373
-sex : male

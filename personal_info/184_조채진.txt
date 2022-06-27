@@ -1,6 +1,0 @@
-name : 조채진
-age : 76
-email : bt9933me@random.com
-division : mm8
-telephone : 010-0-9603
-sex : mail

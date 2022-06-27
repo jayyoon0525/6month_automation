@@ -1,6 +1,0 @@
-name : À±µµ¿ø
-age : 52
-e-mail : m5ma2skn@bhban.com
-division : c55
-telephone : 010-2352-7823
-sex : female

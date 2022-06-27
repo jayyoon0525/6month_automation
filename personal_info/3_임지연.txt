@@ -1,6 +1,0 @@
-name : 임지연
-age : 83
-email : xwgq65nf@random.com
-division : 69y
-telephone : 010-3-8732
-sex : mail

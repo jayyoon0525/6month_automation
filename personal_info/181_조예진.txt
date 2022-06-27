@@ -1,6 +1,0 @@
-name : 조예진
-age : 04
-email : 7ki3xdby@random.com
-division : i4u
-telephone : 010-9-.595
-sex : mail

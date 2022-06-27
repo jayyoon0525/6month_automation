@@ -1,6 +1,0 @@
-name : ¹ÚÀ±¿ø
-age : 98
-e-mail : wm95upfv@bhban.com
-division : m5o
-telephone : 010-6998-0669
-sex : male

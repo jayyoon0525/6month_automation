@@ -1,6 +1,0 @@
-name : 김현서
-age : 35
-email : d5w60bsz@random.com
-division : hjy
-telephone : 010-1-1917
-sex : mail

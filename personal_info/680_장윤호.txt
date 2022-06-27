@@ -1,6 +1,0 @@
-name : 장윤호
-age : 24
-email : 0bn1yrq5@random.com
-division : dob
-telephone : 010-3-6731
-sex : mail

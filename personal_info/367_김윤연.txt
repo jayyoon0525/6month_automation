@@ -1,6 +1,0 @@
-name : ±Ë¿±ø¨
-age : 27
-e-mail : 3zym9a63@bhban.com
-division : f59
-telephone : 010-0827-1308
-sex : female

@@ -1,6 +1,0 @@
-name : Á¶ÇÏ¼­
-age : 68
-e-mail : vz0rv07a@bhban.com
-division : xzw
-telephone : 010-9468-8594
-sex : female

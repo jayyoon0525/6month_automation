@@ -1,6 +1,0 @@
-name : 윤지우
-age : 03
-email : 5eqvj3x9@random.com
-division : y6n
-telephone : 010-9-6090
-sex : femail

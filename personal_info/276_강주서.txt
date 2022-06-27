@@ -1,6 +1,0 @@
-name : 강주서
-age : 17
-email : ve7r6omr@random.com
-division : yt4
-telephone : 010-9-4291
-sex : mail

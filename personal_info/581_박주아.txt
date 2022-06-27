@@ -1,6 +1,0 @@
-name : ╧заж╬ф
-age : 44
-e-mail : seid5nmf@bhban.com
-division : ful
-telephone : 010-5044-5150
-sex : male

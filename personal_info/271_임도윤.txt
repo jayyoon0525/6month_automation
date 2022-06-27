@@ -1,6 +1,0 @@
-name : 임도윤
-age : 17
-email : usnrqg3l@random.com
-division : fcn
-telephone : 010-0-6409
-sex : mail

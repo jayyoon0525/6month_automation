@@ -1,6 +1,0 @@
-name : 이민은
-age : 72
-email : c21wqiz9@random.com
-division : dhg
-telephone : 010-2-7326
-sex : mail

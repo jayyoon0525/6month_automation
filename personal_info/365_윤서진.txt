@@ -1,6 +1,0 @@
-name : 윤서진
-age : 34
-email : mz7pk3co@random.com
-division : 2me
-telephone : 010-7-9477
-sex : mail

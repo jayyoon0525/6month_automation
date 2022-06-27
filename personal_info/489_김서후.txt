@@ -1,6 +1,0 @@
-name : 김서후
-age : 75
-email : 95zsgncp@random.com
-division : n17
-telephone : 010-5-6059
-sex : mail

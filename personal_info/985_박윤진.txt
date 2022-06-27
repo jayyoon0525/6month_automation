@@ -1,6 +1,0 @@
-name : ¹ÚÀ±Áø
-age : 99
-e-mail : o0cuanvh@bhban.com
-division : qm6
-telephone : 010-9099-7390
-sex : female

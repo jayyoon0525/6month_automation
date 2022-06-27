@@ -1,6 +1,0 @@
-name : 김채후
-age : 76
-email : s1hh58ba@random.com
-division : lj0
-telephone : 010-7-1571
-sex : femail

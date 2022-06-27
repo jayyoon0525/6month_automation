@@ -1,6 +1,0 @@
-name : Á¶Áö¿ì
-age : 37
-e-mail : l0wqn91l@bhban.com
-division : ak8
-telephone : 010-2537-4525
-sex : female

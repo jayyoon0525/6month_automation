@@ -1,6 +1,0 @@
-name : 강하진
-age : 77
-email : z5chixk5@random.com
-division : ink
-telephone : 010-4-1644
-sex : mail

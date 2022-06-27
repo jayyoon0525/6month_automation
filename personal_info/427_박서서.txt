@@ -1,6 +1,0 @@
-name : 박서서
-age : 55
-email : 2n5zqup0@random.com
-division : mwm
-telephone : 010-6-2768
-sex : femail

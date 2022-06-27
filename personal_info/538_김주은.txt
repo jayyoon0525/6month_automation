@@ -1,6 +1,0 @@
-name : 김주은
-age : 88
-email : ba5px2ev@random.com
-division : 847
-telephone : 010-5-8652
-sex : mail

@@ -1,6 +1,0 @@
-name : ÀåÇö¿ø
-age : 67
-e-mail : s8stnvh3@bhban.com
-division : a49
-telephone : 010-0667-1906
-sex : female

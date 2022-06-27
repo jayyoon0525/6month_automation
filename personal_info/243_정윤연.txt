@@ -1,6 +1,0 @@
-name : Á¤À±¿¬
-age : 15
-e-mail : sv7z8so9@bhban.com
-division : qqh
-telephone : 010-0215-0590
-sex : male

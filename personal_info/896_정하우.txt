@@ -1,6 +1,0 @@
-name : 정하우
-age : 97
-email : jrhq8jt9@random.com
-division : pue
-telephone : 010-9-8399
-sex : mail

@@ -1,6 +1,0 @@
-name : 정윤서
-age : 51
-email : t4vfvw0g@random.com
-division : wam
-telephone : 010-9-3792
-sex : femail

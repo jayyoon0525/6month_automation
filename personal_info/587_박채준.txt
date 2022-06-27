@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤ÁØ
-age : 63
-e-mail : f70y2dgr@bhban.com
-division : nif
-telephone : 010-4963-5449
-sex : female

@@ -1,6 +1,0 @@
-name : 정지우
-age : 25
-email : 8ka0s8tu@random.com
-division : av0
-telephone : 010-0-7908
-sex : femail

@@ -1,6 +1,0 @@
-name : 최예연
-age : 76
-email : kfpph808@random.com
-division : 6rn
-telephone : 010-4-5441
-sex : mail

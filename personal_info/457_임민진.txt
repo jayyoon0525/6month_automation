@@ -1,6 +1,0 @@
-name : 임민진
-age : 53
-email : j9tqin7z@random.com
-division : 36n
-telephone : 010-6-4264
-sex : femail

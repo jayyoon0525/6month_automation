@@ -1,6 +1,0 @@
-name : 강민호
-age : 67
-email : jssadhox@random.com
-division : c4w
-telephone : 010-9-1498
-sex : mail

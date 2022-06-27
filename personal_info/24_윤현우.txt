@@ -1,6 +1,0 @@
-name : 윤현우
-age : 15
-email : azwbt1i5@random.com
-division : e76
-telephone : 010-2-0129
-sex : femail

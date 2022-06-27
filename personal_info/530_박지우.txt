@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿ì
-age : 94
-e-mail : 6r423aag@bhban.com
-division : 9zz
-telephone : 010-5794-2357
-sex : male

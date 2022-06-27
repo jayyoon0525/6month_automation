@@ -1,6 +1,0 @@
-name : ¹ÚÀ±Àº
-age : 65
-e-mail : xiygmq9n@bhban.com
-division : slq
-telephone : 010-0165-3401
-sex : male

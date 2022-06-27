@@ -1,6 +1,0 @@
-name : 조하진
-age : 62
-email : xuqi4tli@random.com
-division : cnw
-telephone : 010-8-4889
-sex : femail

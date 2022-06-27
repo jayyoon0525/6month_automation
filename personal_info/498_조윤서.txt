@@ -1,6 +1,0 @@
-name : Á¶À±¼­
-age : 77
-e-mail : edrq04go@bhban.com
-division : qp7
-telephone : 010-6277-0562
-sex : female

@@ -1,6 +1,0 @@
-name : ÀÌÁöÁø
-age : 27
-e-mail : 9yqymg9c@bhban.com
-division : f22
-telephone : 010-1527-8315
-sex : male

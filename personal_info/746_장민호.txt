@@ -1,6 +1,0 @@
-name : 장민호
-age : 06
-email : skaz6q0d@random.com
-division : zlu
-telephone : 010-7-9072
-sex : femail

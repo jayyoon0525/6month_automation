@@ -1,6 +1,0 @@
-name : 정현연
-age : 86
-email : 0ct5llo6@random.com
-division : pev
-telephone : 010-6-0268
-sex : mail

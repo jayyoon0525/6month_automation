@@ -1,6 +1,0 @@
-name : ¹ÚÁöÁø
-age : 99
-e-mail : 0eps8rrb@bhban.com
-division : 2xb
-telephone : 010-2699-3926
-sex : male

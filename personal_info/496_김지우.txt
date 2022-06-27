@@ -1,6 +1,0 @@
-name : ±èÁö¿ì
-age : 33
-e-mail : g11zhddg@bhban.com
-division : nrg
-telephone : 010-6333-0363
-sex : female

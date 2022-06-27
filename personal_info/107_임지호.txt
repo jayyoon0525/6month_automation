@@ -1,6 +1,0 @@
-name : ÀÓÁöÈ£
-age : 88
-e-mail : pepnx7ev@bhban.com
-division : 9l4
-telephone : 010-2188-8421
-sex : male

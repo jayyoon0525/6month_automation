@@ -1,6 +1,0 @@
-name : 정서아
-age : 47
-email : s3o55y0n@random.com
-division : uzb
-telephone : 010-8-4982
-sex : mail

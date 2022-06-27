@@ -1,6 +1,0 @@
-name : 박윤은
-age : 66
-email : lck43e3t@random.com
-division : b5m
-telephone : 010-0-5906
-sex : femail

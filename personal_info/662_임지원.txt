@@ -1,6 +1,0 @@
-name : 임지원
-age : 43
-email : b9w2owl1@random.com
-division : fwi
-telephone : 010-6-8563
-sex : femail

@@ -1,6 +1,0 @@
-name : 조주준
-age : 02
-email : by78xh2k@random.com
-division : 457
-telephone : 010-6-5960
-sex : femail

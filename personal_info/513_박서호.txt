@@ -1,6 +1,0 @@
-name : ¹Ú¼­È£
-age : 03
-e-mail : tgucdba4@bhban.com
-division : e39
-telephone : 010-4603-2146
-sex : female

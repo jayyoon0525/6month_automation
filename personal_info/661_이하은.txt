@@ -1,6 +1,0 @@
-name : 이하은
-age : 45
-email : rg3oyzxq@random.com
-division : dk3
-telephone : 010-5-8553
-sex : mail

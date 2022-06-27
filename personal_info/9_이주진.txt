@@ -1,6 +1,0 @@
-name : 이주진
-age : 15
-email : znnqlx50@random.com
-division : 846
-telephone : 010-2-4923
-sex : femail

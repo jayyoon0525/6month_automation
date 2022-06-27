@@ -1,6 +1,0 @@
-name : 박예연
-age : 65
-email : cgkmzi6j@random.com
-division : 3kl
-telephone : 010-1-2914
-sex : mail

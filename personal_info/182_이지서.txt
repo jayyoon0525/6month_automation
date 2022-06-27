@@ -1,6 +1,0 @@
-name : ÀÌÁö¼­
-age : 98
-e-mail : tb2onaef@bhban.com
-division : yef
-telephone : 010-1098-2510
-sex : male

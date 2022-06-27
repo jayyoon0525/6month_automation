@@ -1,6 +1,0 @@
-name : 김하준
-age : 15
-email : hpxcba69@random.com
-division : 6j9
-telephone : 010-7-5671
-sex : femail

@@ -1,6 +1,0 @@
-name : 장민준
-age : 96
-email : j9m1ye9c@random.com
-division : 1f3
-telephone : 010-6-4862
-sex : mail

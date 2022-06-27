@@ -1,6 +1,0 @@
-name : 김현우
-age : 82
-email : jv8n7inl@random.com
-division : gyn
-telephone : 010-1-7010
-sex : mail

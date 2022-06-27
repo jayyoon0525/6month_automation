@@ -1,6 +1,0 @@
-name : 윤주준
-age : 28
-email : a1dfjvv0@random.com
-division : iaz
-telephone : 010-5-5252
-sex : femail

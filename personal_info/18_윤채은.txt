@@ -1,6 +1,0 @@
-name : 윤채은
-age : 86
-email : 892pw7w7@random.com
-division : vwq
-telephone : 010-2-9829
-sex : mail

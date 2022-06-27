@@ -1,6 +1,0 @@
-name : Á¤Ã¤Àº
-age : 57
-e-mail : e2rqh4cy@bhban.com
-division : qdd
-telephone : 010-3257-4432
-sex : female

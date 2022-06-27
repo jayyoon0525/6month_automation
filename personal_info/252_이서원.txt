@@ -1,6 +1,0 @@
-name : 이서원
-age : 41
-email : owsp173d@random.com
-division : hnh
-telephone : 010-1-6319
-sex : mail

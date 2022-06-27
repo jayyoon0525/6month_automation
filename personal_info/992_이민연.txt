@@ -1,6 +1,0 @@
-name : ÀÌ¹Î¿¬
-age : 97
-e-mail : lzw9o6rk@bhban.com
-division : ri6
-telephone : 010-8697-8886
-sex : female

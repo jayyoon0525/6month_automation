@@ -1,6 +1,0 @@
-name : 최지서
-age : 87
-email : ivmyoh8r@random.com
-division : tqw
-telephone : 010-6-5660
-sex : mail

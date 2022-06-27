@@ -1,6 +1,0 @@
-name : 이현아
-age : 25
-email : mv8f56du@random.com
-division : a61
-telephone : 010-6-2868
-sex : mail

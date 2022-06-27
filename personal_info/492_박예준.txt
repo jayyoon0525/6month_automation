@@ -1,6 +1,0 @@
-name : ¹Ú¿¹ÁØ
-age : 14
-e-mail : vcoi3s7w@bhban.com
-division : 4zh
-telephone : 010-6414-0064
-sex : male

@@ -1,6 +1,0 @@
-name : 강현서
-age : 21
-email : cyl0okmr@random.com
-division : hws
-telephone : 010-4-8643
-sex : mail

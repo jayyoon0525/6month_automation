@@ -1,6 +1,0 @@
-name : ¹ÚÀ±ÁØ
-age : 19
-e-mail : tq5fgbl3@bhban.com
-division : vhe
-telephone : 010-5819-2258
-sex : male

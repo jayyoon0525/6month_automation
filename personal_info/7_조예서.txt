@@ -1,6 +1,0 @@
-name : 조예서
-age : 82
-email : rae2bfq9@random.com
-division : a6k
-telephone : 010-3-9131
-sex : mail

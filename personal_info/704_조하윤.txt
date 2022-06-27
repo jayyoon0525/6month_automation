@@ -1,6 +1,0 @@
-name : а╤гою╠
-age : 21
-e-mail : 027no4f1@bhban.com
-division : 71f
-telephone : 010-0321-3203
-sex : female

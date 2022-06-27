@@ -1,6 +1,0 @@
-name : Á¶ÁöÀº
-age : 12
-e-mail : ue21pdl2@bhban.com
-division : 6y1
-telephone : 010-1312-9113
-sex : female

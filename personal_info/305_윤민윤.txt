@@ -1,6 +1,0 @@
-name : ¿±πŒ¿±
-age : 36
-e-mail : 3ftycpgi@bhban.com
-division : gii
-telephone : 010-9336-9093
-sex : female

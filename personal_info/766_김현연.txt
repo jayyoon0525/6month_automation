@@ -1,6 +1,0 @@
-name : ±èÇö¿¬
-age : 97
-e-mail : 2icrefeu@bhban.com
-division : 0ki
-telephone : 010-2297-5422
-sex : female

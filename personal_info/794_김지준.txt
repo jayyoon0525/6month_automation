@@ -1,6 +1,0 @@
-name : 김지준
-age : 14
-email : nopoynqp@random.com
-division : ulp
-telephone : 010-1-3114
-sex : mail

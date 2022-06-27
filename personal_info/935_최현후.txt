@@ -1,6 +1,0 @@
-name : ÃÖÇöÈÄ
-age : 82
-e-mail : klm88no0@bhban.com
-division : ax2
-telephone : 010-6982-4469
-sex : male

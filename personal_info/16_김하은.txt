@@ -1,6 +1,0 @@
-name : 김하은
-age : 43
-email : lkgkwqit@random.com
-division : fsi
-telephone : 010-3-9630
-sex : mail

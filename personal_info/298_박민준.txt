@@ -1,6 +1,0 @@
-name : 박민준
-age : 74
-email : qmecn6lw@random.com
-division : 7q4
-telephone : 010-8-5587
-sex : femail
