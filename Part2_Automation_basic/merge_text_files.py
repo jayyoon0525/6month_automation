@@ -30,8 +30,9 @@ input_files = os.listdir(directory)
 # input_files에 저장된 파일 이름을 한 번에 하나씩 불러옵니다.
 for filename in input_files:
     # 간혹 텍스트 파일이 아닌 파일이 섞여있을 수 있습니다. 이걸 걸러냅니다.
-    if ".txt" not in filename:
-        continue
+    if ".txt" not in filename:  
+        continue                # 파일 이름에 .txt가 포함되어 있지 않다면
+                                # 이번 차례는 건너뛰고 다음  차례를 실행해 주세요.
 
     # 텍스트 파일이 맞다면, 파일을 읽어옵니다.
     file = open(directory + "/" + filename, encoding = 'utf-8')
